@@ -1,954 +1,1725 @@
-[
- {
-   "title": "Evaluating Perceptual Bias During Geometric Scaling of Scatterplots",
-   "keywords": "Evaluation,scatterplot,geometric scaling,bias,perceptual consistency",
-   "authors": "Yating Wei;Honghui Mei;Ying Zhao;Shuyue Zhou;Bingru Lin;Haojing Jiang;Wei Chen",
-   "conference": "VAST",
-   "year": 2019
- },
- {
-   "title": "Selection Bias Tracking and Detailed Subset Comparison for High-Dimensional Data",
-   "keywords": "High-dimensional visualization,visual analytics,cohort selection,medical informatics,selection bias",
-   "authors": "David Borland;Wenyuan Wang;Jonathan Zhang;Joshua Shrestha;David Gotz",
-   "conference": "VAST",
-   "year": 2019
- },
- {
-   "title": "A Structural Average of Labeled Merge Trees for Uncertainty Visualization",
-   "keywords": "Topological data analysis,uncertainty visualization,merge trees",
-   "authors": "Lin Yan;Yusu Wang;Elizabeth Munch;Ellen Gasparovic;Bei Wang",
-   "conference": "SciVis",
-   "year": 2019
- },
- {
-   "title": "CourtTime: Generating Actionable Insights into Tennis Matches Using Visual Analytics",
-   "keywords": "Visual analytics,tennis analysis,sports analytics,spatio-temporal analysis",
-   "authors": "Tom Polk;Dominik J√§ckle;Johannes H√§u√üler;Jing Yang",
-   "conference": "VAST",
-   "year": 2019
- },
- {
-   "title": "Supporting Analysis of Dimensionality Reduction Results with Contrastive Learning",
-   "keywords": "Dimensionality reduction,contrastive learning,principal component analysis,high-dimensional data,visual analytics",
-   "authors": "Takanori Fujiwara;Oh-Hyun Kwon;Kwan-Liu Ma",
-   "conference": "VAST",
-   "year": 2019
- },
- {
-   "title": "TSR-TVD: Temporal Super-Resolution for Time-Varying Data Analysis and Visualization",
-   "keywords": "Time-varying data visualization,super-resolution,deep learning,recurrent generative network",
-   "authors": "Jun Han;Chaoli Wang",
-   "conference": "SciVis",
-   "year": 2019
- },
- {
-   "title": "Progressive Wasserstein Barycenters of Persistence Diagrams",
-   "keywords": "Topological data analysis,scalar data,ensemble data",
-   "authors": "Jules Vidal;Joseph Budin;Julien Tierny",
-   "conference": "SciVis",
-   "year": 2019
- },
- {
-   "title": "Toward Localized Topological Data Structures: Querying the Forest for the Tree",
-   "keywords": "Merge tree,parallel computation,topology",
-   "authors": "Pavol Klacansky;Attila Gyulassy;Peer-Timo Bremer;Valerio Pascucci",
-   "conference": "SciVis",
-   "year": 2019
- },
- {
-   "title": "Scale-Space Splatting: Reforming Spacetime for Cross-Scale Exploration of Integral Measures in Molecular Dynamics",
-   "keywords": "Scale space,time-series,scientific simulation,multi-scale analysis,space-time cube,molecular dynamics",
-   "authors": "Juraj P√°lenik;Jan By≈°ka;Stefan Bruckner;Helwig Hauser",
-   "conference": "SciVis",
-   "year": 2019
- },
- {
-   "title": "OpenSpace: A System for Astrographics",
-   "keywords": "Astrographics,astronomy,astrophysics,system",
-   "authors": "Alexander Bock;Emil Axelsson;Jonathas Costa;Gene Payne;Micah Acinapura;Vivian Trakinski;Carter Emmart;Cl√°udio Silva;Charles Hansen;Anders Ynnerman",
-   "conference": "SciVis",
-   "year": 2019
- },
- {
-   "title": "Artifact-Based Rendering: Harnessing Natural and Traditional Visual Media for More Expressive and Engaging 3D Visualizations",
-   "keywords": "Visualization Design,Art and Visualization,Data Physicalization,Multivariate Visualization",
-   "authors": "Seth Johnson;Francesca Samsel;Gregory Abram;Daniel Olson;Andrew J. Solis;Bridger Herman;Phillip J. Wolfram;Christophe Lenglet;Daniel F. Keefe",
-   "conference": "SciVis",
-   "year": 2019
- },
- {
-   "title": "Ablate, Variate, and Contemplate: Visual Analytics for Discovering Neural Architectures",
-   "keywords": "visual analytics,neural networks,parameter space exploration",
-   "authors": "Dylan Cashman;Adam Perer;Remco Chang;Hendrik Strobelt",
-   "conference": "VAST",
-   "year": 2019
- },
- {
-   "title": "FairSight: Visual Analytics for Fairness in Decision Making",
-   "keywords": "Fairness in Machine Learning,Visual Analytic",
-   "authors": "Yongsu Ahn;Yu-Ru Lin",
-   "conference": "VAST",
-   "year": 2019
- },
- {
-   "title": "R-Map: A Map Metaphor for Visualizing Information Reposting Process in Social Media",
-   "keywords": "Social Media,Information Diffusion,Map-like Visual Metaphor",
-   "authors": "Shuai Chen;Sihang Li;Siming Chen;Xiaoru Yuan",
-   "conference": "VAST",
-   "year": 2019
- },
- {
-   "title": "The Validity, Generalizability and Feasibility of Summative Evaluation Methods in Visual Analytics",
-   "keywords": "Summative evaluation,usefulness,evaluation process,taxonomy,visual analytics",
-   "authors": "Mosab Khayat;Morteza Karimzadeh;David S. Ebert;Arif Ghafoor",
-   "conference": "VAST",
-   "year": 2019
- },
- {
-   "title": "VASSL: A Visual Analytics Toolkit for Social Spambot Labeling",
-   "keywords": "Spambot,Labeling,Detection,Visual Analytics,Social Media Annotation",
-   "authors": "Mosab Khayat;Morteza Karimzadeh;Jieqiong Zhao;David S. Ebert",
-   "conference": "VAST",
-   "year": 2019
- },
- {
-   "title": "ProtoSteer: Steering Deep Sequence Model with Prototypes",
-   "keywords": "Sequence Data,Explainable Artificial Intelligence (XAI),Recurrent Neural Networks (RNNs),Prototype Learning",
-   "authors": "Yao Ming;Panpan Xu;Furui Cheng;Huamin Qu;Liu Ren",
-   "conference": "VAST",
-   "year": 2019
- },
- {
-   "title": "PlanningVis: A Visual Analytics Approach to Production Planning in Smart Factories",
-   "keywords": "Production Planning,Time Series Data,Comparative Analysis,Visual Analytics,Smart Factory,Industry 4.0",
-   "authors": "Dong Sun;Renfei Huang;Yuanzhe Chen;Yong Wang;Jia Zeng;Mingxuan Yuan;Ting-Chuen Pong;Huamin Qu",
-   "conference": "VAST",
-   "year": 2019
- },
- {
-   "title": "Motion Browser: Visualizing and Understanding Complex Upper Limb Movement Under Obstetrical Brachial Plexus Injuries",
-   "keywords": "Medical Data Visualization,Visual Analytics Application,Time Series Data,Multimodal Data,Brachial Plexus Injuries",
-   "authors": "Gromit Yeuk-Yin Chan;Luis Gustavo Nonato;Alice Chu;Preeti Raghavan;Viswanath Aluru;Cl√°udio T. Silva",
-   "conference": "VAST",
-   "year": 2019
- },
- {
-   "title": "Critical Reflections on Visualization Authoring Systems",
-   "keywords": "Critical reflection,visualization authoring,expressivity,learnability,reusability",
-   "authors": "Arvind Satyanarayan;Bongshin Lee;Donghao Ren;Jeffrey Heer;John Stasko;John Thompson;Matthew Brehmer;Zhicheng Liu",
-   "conference": "InfoVis",
-   "year": 2019
- },
- {
-   "title": "Designing for Mobile and Immersive Visual Analytics in the Field",
-   "keywords": "Immersive Analytics,Augmented Reality,Mobile Visualization,Outdoor Visualization,Emergency Response",
-   "authors": "Matt Whitlock;Keke Wu;Danielle Albers Szafir",
-   "conference": "InfoVis",
-   "year": 2019
- },
- {
-   "title": "What is Interaction for Data Visualization?",
-   "keywords": "interaction,visualization,data,definition,human-computer interaction",
-   "authors": "Evanthia Dimara;Charles Perin",
-   "conference": "InfoVis",
-   "year": 2019
- },
- {
-   "title": "Color Crafting: Automating the Construction of Designer Quality Color Ramps",
-   "keywords": "Visualization,Aesthetics in Visualization,Color Perception,Visual Design,Design Mining",
-   "authors": "Stephen Smart;Keke Wu;Danielle Albers Szafir",
-   "conference": "InfoVis",
-   "year": 2019
- },
- {
-   "title": "Visualizing a Moving Target: A Design Study on Task Parallel Programs in the Presence of Evolving Data and Concerns",
-   "keywords": "design studies,software visualization,parallel computing,graph visualization",
-   "authors": "Katy Williams;Alex Bigelow;Kate Isaacs",
-   "conference": "InfoVis",
-   "year": 2019
- },
- {
-   "title": "Toward Objective Evaluation of Working Memory in Visualizations: A Case Study Using Pupillometry and a Dual-Task Paradigm",
-   "keywords": "Working Memory,Cognitive Effort,Evaluation Methods,Pupillometry,Geographic/Geospatial Visualization,Quantitative Evaluation",
-   "authors": "Lace M.K. Padilla;Spencer C. Castro;P. Samuel Quinan;Ian T. Ruginski;Sarah H. Creem-Regehr",
-   "conference": "InfoVis",
-   "year": 2019
- },
- {
-   "title": "Why Authors Don't Visualize Uncertainty",
-   "keywords": "Uncertainty visualization,graphical statistical inference,visualization rhetoric",
-   "authors": "Jessica Hullman",
-   "conference": "InfoVis",
-   "year": 2019
- },
- {
-   "title": "Common Fate for Animated Transitions in Visualization",
-   "keywords": "Gestalt laws,common fate,animated transitions,evaluation,motion",
-   "authors": "Amira Chalbi;Jacob Ritchie;Deokgun Park;Jungu Choi;Nicolas Roussel;Niklas Elmqvist;Fanny Chevalier",
-   "conference": "InfoVis",
-   "year": 2019
- },
- {
-   "title": "STBins: Visual Tracking and Comparison of Multiple Data Sequences Using Temporal Binning",
-   "keywords": "Visualization,time series data,data sequence",
-   "authors": "Ji Qi;Vincent Bloemen;Shihan Wang;Jarke van Wijk;Huub van de Wetering",
-   "conference": "VAST",
-   "year": 2019
- },
- {
-   "title": "GUIRO: User-Guided Matrix Reordering",
-   "keywords": "Visual Analytics,matrix,black-box algorithms,seriation,ordering,sorting,steerable algorithm,interaction,2D projection",
-   "authors": "Michael Behrisch;Tobias Schreck;Hanspeter Pfister",
-   "conference": "VAST",
-   "year": 2019
- },
- {
-   "title": "GPGPU Linear Complexity t-SNE Optimization",
-   "keywords": "High Dimensional Data,Dimensionality Reduction,Progressive Visual Analytics,Approximate Computation,GPGPU",
-   "authors": "Nicola Pezzotti;Julian Thijssen;Alexander Mordvintsev;Thomas H√∂llt;Baldur Van Lew;Boudewijn P.F. Lelieveldt;Elmar Eisemann;Anna Vilanova",
-   "conference": "VAST",
-   "year": 2019
- },
- {
-   "title": "Extraction and Visual Analysis of Potential Vorticity Banners around the Alps",
-   "keywords": "Scientific Visualization,potential vorticity,meteorology,feature extraction",
-   "authors": "Robin Bader;Michael Sprenger;Nikolina Ban;Stefan R√ºdis√ºhli;Christoph Sch√§r;Tobias G√ºnther",
-   "conference": "SciVis",
-   "year": 2019
- },
- {
-   "title": "InSituNet: Deep Image Synthesis for Parameter Space Exploration of Ensemble Simulations",
-   "keywords": "In situ visualization,ensemble visualization,parameter space exploration,deep learning,image synthesis",
-   "authors": "Wenbin He;Junpeng Wang;Hanqi Guo;Ko-Chih Wang;Han-Wei Shen;Mukund Raj;Youssef S. G. Nashed;Tom Peterka",
-   "conference": "SciVis",
-   "year": 2019
- },
- {
-   "title": "Accelerated Monte Carlo Rendering of Finite-Time Lyapunov Exponents",
-   "keywords": "Scientific visualization,Monte Carlo,feature extraction,finite-time Lyapunov exponents,gradient domain,Fourier",
-   "authors": "Irene Baeza Rojo;Markus Gross;Tobias G√ºnther",
-   "conference": "SciVis",
-   "year": 2019
- },
- {
-   "title": "Multi-Scale Topological Analysis of Asymmetric Tensor Fields on Surfaces",
-   "keywords": "Tensor field visualization,tensor field topology,2D asymmetric tensor fields,2D asymmetric tensor field topology,eigenvalue graphs,eigenvector graphs",
-   "authors": "Fariba Khan;Lawrence Roy;Eugene Zhang;Botong Qu;Shih-Hsuan Hung;Harry Yeh;Robert S. Laramee;Yue Zhang",
-   "conference": "SciVis",
-   "year": 2019
- },
- {
-   "title": "LassoNet: Deep Lasso-Selection of 3D Point Clouds",
-   "keywords": "Point Clouds,Lasso Selection,Deep Learning",
-   "authors": "Zhutian Chen;Wei Zeng;Zhiguang Yang;Lingyun Yu;Chi-Wing Fu;Huamin Qu",
-   "conference": "SciVis",
-   "year": 2019
- },
- {
-   "title": "Multiscale Visual Drilldown for the Analysis of Large Ensembles of Multi-Body Protein Complexes",
-   "keywords": "Molecular visualization,data filtering,coordinated and multiple views",
-   "authors": "Katar√≠na Furmanov√°;Adam Jurƒç√≠k;Barbora Kozl√≠kov√°;Helwig Hauser;Jan By≈°ka",
-   "conference": "SciVis",
-   "year": 2019
- },
- {
-   "title": "Scale Trotter: Illustrative Visual Travels Across Negative Scales",
-   "keywords": "Multi-scale visualization,scale transition,abstraction,human genome,DNA,Hi-C data",
-   "authors": "Sarkis Halladjian;Haichao Miao;David Kou≈ôil;M. Eduard Gr√∂ller;Ivan Viola;Tobias Isenberg",
-   "conference": "SciVis",
-   "year": 2019
- },
- {
-   "title": "Void-and-Cluster Sampling of Large Scattered Data and Trajectories",
-   "keywords": "Data reduction,sampling,blue noise,entropy-based sampling,scattered data,pathlines",
-   "authors": "Tobias Rapp;Christoph Peters;Carsten Dachsbacher",
-   "conference": "SciVis",
-   "year": 2019
- },
- {
-   "title": "Temporal Views of Flattened Mitral Valve Geometries",
-   "keywords": "Mitral valve,quantification,medical visualization,parameterization,spatio-temporal visualization",
-   "authors": "Pepe Eulzer;Sandy Engelhardt;Nils Lichtenberg;Raffaele de Simone;Kai Lawonn",
-   "conference": "SciVis",
-   "year": 2019
- },
- {
-   "title": "The Effect of Data Transformations on Scalar Field Topological Analysis of High-Order FEM Solutions",
-   "keywords": "High-Order Finite Element Methods,Filtering Techniques,Scalar Field Visualization,Topological Analysis",
-   "authors": "Ashok Jallepalli;Joshua A. Levine;Robert M. Kirby",
-   "conference": "SciVis",
-   "year": 2019
- },
- {
-   "title": "Analysis of the Near-Wall Flow in a Turbine Cascade by Splat Visualization",
-   "keywords": "Flow Visualization,Visualization in Physical Sciences and Engineering,Feature Detection and Tracking,Vector Field Data",
-   "authors": "Baldwin Nsonga;Gerik Scheuermann;Stefan Gumhold;Jordi Ventosa-Molina;Denis Koschichow;Jochen Fr√∂hlich",
-   "conference": "SciVis",
-   "year": 2019
- },
- {
-   "title": "Dynamic Nested Tracking Graphs",
-   "keywords": "Topological Data Analysis,Nested Tracking Graphs,Image Databases,Feature Tracking,Post Hoc Visual Analytics",
-   "authors": "Jonas Lukasczyk;Christoph Garth;Gunther H. Weber;Tim Biedert;Ross Maciejewski;Heike Leitte",
-   "conference": "SciVis",
-   "year": 2019
- },
- {
-   "title": "DeepOrganNet: On-the-Fly Reconstruction and Visualization of 3D / 4D Lung Models from Single-View Projections by Deep Deformation Network",
-   "keywords": "Deep deformation network,organ meshes,3D / 4D shapes,2D projections,single-view",
-   "authors": "Yifan Wang;Zichun Zhong;Jing Hua",
-   "conference": "SciVis",
-   "year": 2019
- },
- {
-   "title": "Deadeye Visualization Revisited: Investigation of Preattentiveness and Applicability in Virtual Environments",
-   "keywords": "Popout,virtual reality,preattentive vision,volume rendering,dichoptic presentation,binocular rivalry",
-   "authors": "Andrey Krekhov;Sebastian Cmentowski;Andre Waschk;Jens Kr√ºger",
-   "conference": "SciVis",
-   "year": 2019
- },
- {
-   "title": "Vector Field Topology of Time-Dependent Flows in a Steady Reference Frame",
-   "keywords": "Scientific visualization,unsteady flow,vector field topology,reference frame optimization",
-   "authors": "Irene Baeza Rojo;Tobias G√ºnther",
-   "conference": "SciVis",
-   "year": 2019
- },
- {
-   "title": "The Impact of Immersion on Cluster Identification Tasks",
-   "keywords": "Virtual reality,evaluation,visual analytics,clustering",
-   "authors": "M. Kraus;N. Weiler;D. Oelke;J. Kehrer;D. A. Keim;J. Fuchs",
-   "conference": "InfoVis",
-   "year": 2019
- },
- {
-   "title": "A Deep Generative Model for Graph Layout",
-   "keywords": "Graph,network,visualization,layout,machine learning,deep learning,neural network,generative model,autoencoder",
-   "authors": "Oh-Hyun Kwon;Kwan-Liu Ma",
-   "conference": "InfoVis",
-   "year": 2019
- },
- {
-   "title": "A Comparative Evaluation of Animation and Small Multiples for Trend Visualization on Mobile Phones",
-   "keywords": "Evaluation,graphical perception,mobile phones,trend visualization,animation,small multiples,crowdsourcing",
-   "authors": "Matthew Brehmer;Bongshin Lee;Petra Isenberg;Eun Kyoung Choe",
-   "conference": "InfoVis",
-   "year": 2019
- },
- {
-   "title": "DataShot: Automatic Generation of Fact Sheets from Tabular Data",
-   "keywords": "Fact sheet,infographic,visualization,and automated design",
-   "authors": "Yun Wang;Zhida Sun;Haidong Zhang;Weiwei Cui;Ke Xu;Xiaojuan Ma;Dongmei Zhang",
-   "conference": "InfoVis",
-   "year": 2019
- },
- {
-   "title": "Illusion of Causality in Visualized Data",
-   "keywords": "Information Visualization,Correlation and Causation,Visualization Design,Reasoning Affordance",
-   "authors": "Cindy Xiong;Joel Shapiro;Jessica Hullman;Steven Franconeri",
-   "conference": "InfoVis",
-   "year": 2019
- },
- {
-   "title": "Biased Average Position Estimates in Line and Bar Graphs: Underestimation, Overestimation, and Perceptual Pull",
-   "keywords": "Perceptual biases,perception and cognition,cue combination,bar graphs,line graphs,position estimation",
-   "authors": "Cindy Xiong;Cristina R. Ceja;Casimir J.H. Ludwig;Steven Franconeri",
-   "conference": "InfoVis",
-   "year": 2019
- },
- {
-   "title": "Decoding a Complex Visualization in a Science Museum ‚Äì An Empirical Study",
-   "keywords": "Museums,informal science learning,interactive exhibit,public data visualization,decoding,visual encoding",
-   "authors": "Joyce Ma;Kwan-Liu Ma;Jennifer Frazier",
-   "conference": "InfoVis",
-   "year": 2019
- },
- {
-   "title": "CerebroVis: Designing an Abstract yet Spatially Contextualized Cerebral Artery Network Visualization",
-   "keywords": "Network Visualization,Spatial Context,Abstract Design,Flow Network,Medical Imaging,Cerebral Arteries",
-   "authors": "Aditeya Pandey;Harsh Shukla;Geoffrey S. Young;Lei Qin;Amir A. Zamani;Liangge Hsu;Raymond Huang;Cody Dunne;Michelle A. Borkin",
-   "conference": "InfoVis",
-   "year": 2019
- },
- {
-   "title": "Evaluating an Immersive Space-Time Cube Geovisualization for Intuitive Trajectory Data Exploration",
-   "keywords": "Space-time cube,Trajectory visualization,Immersive analytics",
-   "authors": "Jorge A. Wagner Filho;Wolfgang Stuerzlinger;Luciana Nedel",
-   "conference": "InfoVis",
-   "year": 2019
- },
- {
-   "title": "Searching the Visual Style and Structure of D3 Visualizations",
-   "keywords": "visualization search engine,visualization design,search user interfaces",
-   "authors": "Enamul Hoque;Maneesh Agrawala",
-   "conference": "InfoVis",
-   "year": 2019
- },
- {
-   "title": "Discriminability Tests for Visualization Effectiveness and Scalability",
-   "keywords": "Scalability,Discriminability,Simulation,Perception",
-   "authors": "Rafael Veras;Christopher Collins",
-   "conference": "InfoVis",
-   "year": 2019
- },
- {
-   "title": "An Incremental Dimensionality Reduction Method for Visualizing Streaming Multidimensional Data",
-   "keywords": "Dimensionality reduction,principal component analysis,streaming data,uncertainty,visual analytics",
-   "authors": "Takanori Fujiwara;Jia-Kai Chou;Shilpika Shilpika;Panpan Xu;Liu Ren;Kwan-Liu Ma",
-   "conference": "InfoVis",
-   "year": 2019
- },
- {
-   "title": "SmartCube: An Adaptive Data Management Architecture for the Real-Time Visualization of Spatiotemporal Datasets",
-   "keywords": "data management,spatial-temporal data",
-   "authors": "Can Liu;Cong Wu;Hanning Shao;Xiaoru Yuan",
-   "conference": "InfoVis",
-   "year": 2019
- },
- {
-   "title": "Investigating Direct Manipulation of Graphical Encodings as a Method for User Interaction",
-   "keywords": "Direct Manipulation,Data Visualization",
-   "authors": "Bahador Saket;Samuel Huron;Charles Perin;Alex Endert",
-   "conference": "InfoVis",
-   "year": 2019
- },
- {
-   "title": "BarcodeTree: Scalable Comparison of Multiple Hierarchies",
-   "keywords": "tree visualization,comparison,multiple trees",
-   "authors": "Guozheng Li;Yu Zhang;Yu Dong;Jie Liang;Jinson Zhang;Jinsong Wang;Michael J. Mcguffin;Xiaoru Yuan",
-   "conference": "InfoVis",
-   "year": 2019
- },
- {
-   "title": "Estimating Color-Concept Associations from Image Statistics",
-   "keywords": "Visual Reasoning,Visual Communication,Visual Encoding,Color Perception,Color Cognition,Color Categories",
-   "authors": "Ragini Rathore;Zachary Leggon;Laurent Lessard;Karen B. Schloss",
-   "conference": "InfoVis",
-   "year": 2019
- },
- {
-   "title": "P5: Portable Progressive Parallel Processing Pipelines for Interactive Data Analysis and Visualization",
-   "keywords": "Information visualization,progressive analytics,visualization software,GPU computing,data exploration",
-   "authors": "Jianping Kelvin Li;Kwan-Liu Ma",
-   "conference": "InfoVis",
-   "year": 2019
- },
- {
-   "title": "Data Changes Everything: Challenges and Opportunities in Data Visualization Design Handoff",
-   "keywords": "Information visualization,design handoff,data mapping,design process",
-   "authors": "Jagoda Walny;Christian Frisson;Mieka West;Doris Kosminsky;S√∏ren Knudsen;Sheelagh Carpendale;Wesley Willett",
-   "conference": "InfoVis",
-   "year": 2019
- },
- {
-   "title": "Criteria for Rigor in Visualization Design Study",
-   "keywords": "design study,relativism,interpretivism,knowledge construction,qualitative research,research through design",
-   "authors": "Miriah Meyer;Jason Dykes",
-   "conference": "InfoVis",
-   "year": 2019
- },
- {
-   "title": "Separating the Wheat from the Chaff: Comparative Visual Cues for Transparent Diagnostics of Competing Models",
-   "keywords": "Visual comparison,Visual cues,Model evaluation,Transparency,Simulation",
-   "authors": "Aritra Dasgupta;Hong Wang;Nancy O'Brien;Susannah Burrows",
-   "conference": "InfoVis",
-   "year": 2019
- },
- {
-   "title": "A Recursive Subdivision Technique for Sampling Multi-class Scatterplots",
-   "keywords": "Scatterplot,multi-class sampling,kd-tree,outlier,relative density",
-   "authors": "Xin Chen;Tong Ge;Jian Zhang;Baoquan Chen;Chi-Wing Fu;Oliver Deussen;Yunhai Wang",
-   "conference": "InfoVis",
-   "year": 2019
- },
- {
-   "title": "Cohort-based T-SSIM Visual Computing for Radiation Therapy Prediction and Exploration",
-   "keywords": "Biomedical and Medical Visualization,Spatial Techniques,Visual Design,High-Dimensional Data",
-   "authors": "A. Wentzel;P. Hanula;T. Luciani;B. Elgohari;H. Elhalawani;G. Canahuate;D. Vock;C.D. Fuller;G.E. Marai",
-   "conference": "SciVis",
-   "year": 2019
- },
- {
-   "title": "Facetto: Combining Unsupervised and Supervised Learning for Hierarchical Phenotype Analysis in Multi-Channel Image Data",
-   "keywords": "Clustering,Classification,Visual Analysis,Multiplex Tissue Imaging,Digital Pathology,Cancer Systems Biology",
-   "authors": "Robert Krueger;Johanna Beyer;Won-Dong Jang;Nam Wook Kim;Artem Sokolov;Peter K. Sorger;Hanspeter Pfister",
-   "conference": "VAST",
-   "year": 2019
- },
- {
-   "title": "Pattern-Driven Navigation in 2D Multiscale Visualizations with Scalable Insets",
-   "keywords": "Guided Navigation,Pattern Exploration,Multiscale Visualizations,Gigapixel Images,Geospatial Maps,Genomics",
-   "authors": "Fritz Lekschas;Michael Behrisch;Benjamin Bach;Peter Kerpedjiev;Nils Gehlenborg;Hanspeter Pfister",
-   "conference": "InfoVis",
-   "year": 2019
- },
- {
-   "title": "The Role of Latency and Task Complexity in Predicting Visual Search Behavior",
-   "keywords": "Visual search,latency,system response time,SRT",
-   "authors": "Leilani Battle;R. Jordan Crouser;Audace Nakeshimana;Ananda Montoly;Remco Chang;Michael Stonebraker",
-   "conference": "InfoVis",
-   "year": 2019
- },
- {
-   "title": "OntoPlot: A Novel Visualisation for Non-hierarchical Associations in Large Ontologies",
-   "keywords": "Ontology visualisation,visual compression,interactive exploration,ontology associations",
-   "authors": "Ying Yang;Michael Wybrow;Yuan-Fang Li;Tobias Czauderna;Yongqun He",
-   "conference": "InfoVis",
-   "year": 2019
- },
- {
-   "title": "NNVA: Neural Network Assisted Visual Analysis of Yeast Cell Polarization Simulation",
-   "keywords": "Surrogate modeling,Neural networks,Computational biology,Visual analysis,Parameter analysis",
-   "authors": "Subhashis Hazarika;Haoyu Li;Ko-Chih Wang;Han-Wei Shen;Ching-Shan Chou",
-   "conference": "VAST",
-   "year": 2019
- },
- {
-   "title": "Understanding the Role of Alternatives in Data Analysis Practices",
-   "keywords": "alternatives,data workers,data analysis,data science,sensemaking,qualitative study",
-   "authors": "Jiali Liu;Nadia Boukhelifa;James R. Eagan",
-   "conference": "VAST",
-   "year": 2019
- },
- {
-   "title": "Scalable Topological Data Analysis and Visualization for Evaluating Data-Driven Models in Scientific Applications",
-   "keywords": "Model Evaluation,Deep Learning,High-Dimensional Space,Topological Data Analysis,Inertial Confinement Fusion",
-   "authors": "Shusen Liu;Luc Peterson;Peter B. Robinson;Harsh Bhatia;Valerio Pascucci;Brian K. Spears;Peer-Timo Bremer;Di Wang;Dan Maljovec;Rushil Anirudh;Jayaraman J. Thiagarajan;Sam Ade Jacobs;Brian C. Van Essen;David Hysom;Jae-Seung Yeom;Jim Gaffney",
-   "conference": "VAST",
-   "year": 2019
- },
- {
-   "title": "Visual Interaction with Deep Learning Models through Collaborative Semantic Inference",
-   "keywords": "Human-Computer Collaboration,Deep Learning,Neural Networks,Interaction Design,Human-Centered Design",
-   "authors": "Sebastian Gehrmann;Hendrik Strobelt;Robert Kr√ºger;Hanspeter Pfister;Alexander M. Rush",
-   "conference": "VAST",
-   "year": 2019
- },
- {
-   "title": "MetricsVis: A Visual Analytics System for Evaluating Employee Performance in Public Safety Agencies",
-   "keywords": "Organizational performance analysis,multi-dimensional data,hierarchical relationships,visual analytics",
-   "authors": "Jieqiong Zhao;Morteza Karimzadeh;Luke S. Snyder;Chittayong Surakitbanharn;Zhenyu Cheryl Qian;David S. Ebert",
-   "conference": "VAST",
-   "year": 2019
- },
- {
-   "title": "VASABI: Hierarchical User Profiles for Interactive Visual User Behaviour Analytics",
-   "keywords": "hierarchical user profiles,user behaviour analytics,visual analytics,cybersecurity",
-   "authors": "Phong H. Nguyen;Rafael Henkin;Siming Chen;Natalia Andrienko;Gennady Andrienko;Olivier Thonnard;Cagatay Turkay",
-   "conference": "VAST",
-   "year": 2019
- },
- {
-   "title": "Multi-Scale Procedural Animations of Microtubule Dynamics Based on Measured Data",
-   "keywords": "Procedural modeling,molecular visualization,animation,microtubules",
-   "authors": "Tobias Klein;Ivan Viola;Eduard Gr√∂ller;Peter Mindek",
-   "conference": "SciVis",
-   "year": 2019
- },
- {
-   "title": "CloudDet: Interactive Visual Analysis of Anomalous Performances in Cloud Computing Systems",
-   "keywords": "Cloud computing,anomaly detection,multidimensional data,performance visualization,visual analytics",
-   "authors": "Ke Xu;Yun Wang;Leni Yang;Yifang Wang;Bo Qiao;Si Qin;Yong Xu;Haidong Zhang;Huamin Qu",
-   "conference": "VAST",
-   "year": 2019
- },
- {
-   "title": "Interactive Learning for Identifying Relevant Tweets to Support Real-time Situational Awareness",
-   "keywords": "Interactive machine learning,human-computer interaction,social media analytics,emergency/disaster management,situational awareness",
-   "authors": "Luke S. Snyder;Yi-Shan Lin;Morteza Karimzadeh;Dan Goldwasser;David S. Ebert",
-   "conference": "VAST",
-   "year": 2019
- },
- {
-   "title": "The What-If Tool: Interactive Probing of Machine Learning Models",
-   "keywords": "Interactive Machine Learning,Model Debugging,Model Comparison",
-   "authors": "James Wexler;Mahima Pushkarna;Tolga Bolukbasi;Martin Wattenberg;Fernanda Vi√©gas;Jimbo Wilson",
-   "conference": "VAST",
-   "year": 2019
- },
- {
-   "title": "High-throughput feature extraction for measuring attributes of deforming open-cell foams",
-   "keywords": "Topological analysis,foam,features extraction,feature tracking",
-   "authors": "Steve Petruzza;Attila Gyulassy;Samuel Leventhal;John J. Baglino;Michael Czabaj;Ashley D. Spear;Valerio Pascucci",
-   "conference": "SciVis",
-   "year": 2019
- },
- {
-   "title": "explAIner: A Visual Analytics Framework for Interactive and Explainable Machine Learning",
-   "keywords": "Explainable AI,Interactive Machine Learning,Deep Learning,Visual Analytics,Interpretability,Explainability",
-   "authors": "Thilo Spinner;Udo Schlegel;Hanna Sch√§fer;Mennatallah El-Assady",
-   "conference": "VAST",
-   "year": 2019
- },
- {
-   "title": "Tac-Simur: Tactic-based Simulative Visual Analytics of Table Tennis",
-   "keywords": "Simulative Visual Analytics,Table Tennis,Design Study",
-   "authors": "Jiachen Wang;Kejian Zhao;Dazhen Deng;Anqi Cao;Xiao Xie;Zheng Zhou;Hui Zhang;Yingcai Wu",
-   "conference": "VAST",
-   "year": 2019
- },
- {
-   "title": "Explaining Vulnerabilities to Adversarial Machine Learning through Visual Analytics",
-   "keywords": "Adversarial machine learning,data poisoning,visual analytics",
-   "authors": "Yuxin Ma;Tiankai Xie;Jundong Li;Ross Maciejewski",
-   "conference": "VAST",
-   "year": 2019
- },
- {
-   "title": "Semantic Concept Spaces: Guided Topic Model Refinement using Word-Embedding Projections",
-   "keywords": "Topic Model Optimization,Word Embedding,Mixed-Initiative Refinement,Guided Visual Analytics,Semantic Mapping",
-   "authors": "Mennatallah El-Assady;Rebecca Kehlbeck;Christopher Collins;Daniel Keim;Oliver Deussen",
-   "conference": "VAST",
-   "year": 2019
- },
- {
-   "title": "Visual Analytics for Electromagnetic Situation Awareness in Radio Monitoring and Management",
-   "keywords": "Radio monitoring and management,radio signal data,radio spectrum data,situation awareness,visual analytics",
-   "authors": "Ying Zhao;Xiaobo Luo;Xiaoru Lin;Hairong Wang;Xiaoyan Kui;Fangfang Zhou;Jinsong Wang;Yi Chen;Wei Chen",
-   "conference": "VAST",
-   "year": 2019
- },
- {
-   "title": "EmoCo: Visual Analysis of Emotion Coherence in Presentation Videos",
-   "keywords": "Emotion,coherence,video analysis,visual analysis",
-   "authors": "Haipeng Zeng;Xingbo Wang;Aoyu Wu;Yong Wang;Quan Li;Alex Endert;Huamin Qu",
-   "conference": "VAST",
-   "year": 2019
- },
- {
-   "title": "OD Morphing: Balancing Simplicity with Faithfulness for OD Bundling",
-   "keywords": "OD Visualization,Edge Bundling,Trajectory",
-   "authors": "Yan Lyu;Xu Liu;Hanyi Chen;Arpan Mangal;Kai Liu;Chao Chen;Brian Lim",
-   "conference": "VAST",
-   "year": 2019
- },
- {
-   "title": "LightGuider: Guiding Interactive Lighting Design using Suggestions, Provenance, and Quality Visualization",
-   "keywords": "guidance,3D modeling,lighting design,provenance,global illumination",
-   "authors": "Andreas Walch;Michael Schw√§rzler;Christian Luksch;Elmar Eisemann;Theresia Gschwandtner",
-   "conference": "VAST",
-   "year": 2019
- },
- {
-   "title": "Summit: Scaling Deep Learning Interpretability by Visualizing Activation and Attribution Summarizations",
-   "keywords": "Deep learning interpretability,visual analytics,scalable summarization,attribution graph",
-   "authors": "Fred Hohman;Haekyu Park;Caleb Robinson;Duen Horng Polo Chau",
-   "conference": "VAST",
-   "year": 2019
- },
- {
-   "title": "sPortfolio: Stratified Visual Analysis of Stock Portfolios",
-   "keywords": "Stock portfolio,visual analytics,factor investment,financial data analysis",
-   "authors": "Xuanwu Yue;Jiaxin Bai;Qinhan Liu;Yiyang Tang;Abishek Puri;Ke Li;Huamin Qu",
-   "conference": "VAST",
-   "year": 2019
- },
- {
-   "title": "Visual Analysis of High-Dimensional Event Sequence Data via Dynamic Hierarchical Aggregation",
-   "keywords": "Temporal event sequence visualization,visual analytics,hierarchical aggregation,medical informatics",
-   "authors": "David Gotz;Jonathan Zhang;Wenyuan Wang;Joshua Shrestha;David Borland",
-   "conference": "VAST",
-   "year": 2019
- },
- {
-   "title": "You can't always sketch what you want: Understanding Sensemaking in Visual Query Systems",
-   "keywords": "Visual analytics,exploratory analysis,visual queries",
-   "authors": "Doris Jung-Lin Lee;John Lee;Tarique Siddiqui;Jaewoo Kim;Karrie Karahalios;Aditya Parameswaran",
-   "conference": "VAST",
-   "year": 2019
- },
- {
-   "title": "Galex: Exploring the Evolution and Intersection of Disciplines",
-   "keywords": "Science evolution,science mapping,interdisciplinary,knowledge domain visualization,visual analysis",
-   "authors": "Zeyu Li;Changhong Zhang;Shichao Jia;Jiawan Zhang",
-   "conference": "VAST",
-   "year": 2019
- },
- {
-   "title": "FlowSense: A Natural Language Interface for Visual Data Exploration within a Dataflow System",
-   "keywords": "Natural language interface,dataflow visualization system,visual data exploration",
-   "authors": "Bowen Yu;Cl√°udio T. Silva",
-   "conference": "VAST",
-   "year": 2019
- },
- {
-   "title": "Exploranative Code Quality Documents",
-   "keywords": "Code quality,interactive documents,natural language generation,sparklines",
-   "authors": "Haris Mumtaz;Shahid Latif;Fabian Beck;Daniel Weiskopf",
-   "conference": "VAST",
-   "year": 2019
- },
- {
-   "title": "AirVis: Visual Analytics of Air Pollution Propagation",
-   "keywords": "Air pollution propagation,pattern mining,graph visualization",
-   "authors": "Zikun Deng;Di Weng;Jiahui Chen;Ren Liu;Zhibin Wang;Jie Bao;Yu Zheng;Yingcai Wu",
-   "conference": "VAST",
-   "year": 2019
- },
- {
-   "title": "A Natural-language-based Visual Query Approach of Uncertain Human Trajectories",
-   "keywords": "Natural-language-based Visual Query,Spatial Uncertaity,Trajectory Exploration",
-   "authors": "Zhaosong Huang;Ye Zhao;Wei Chen;Shengjie Gao;Kejie Yu;Weixia Xu;Mingjie Tang;Minfeng Zhu;Mingliang Xu",
-   "conference": "VAST",
-   "year": 2019
- },
- {
-   "title": "ShapeWordle: Tailoring Wordles using Shape-aware Archimedean Spirals",
-   "keywords": "Wordle,Archimedean spiral,shape",
-   "authors": "Yunhai Wang;Xiaowei Chu;Kaiyi Zhang;Chen Bao;Xiaotong Li;Jian Zhang;Chi-Wing Fu;Christophe Hurter;Oliver Deussen;Bongshin Lee",
-   "conference": "InfoVis",
-   "year": 2019
- },
- {
-   "title": "A Comparison of Radial and Linear Charts for Visualizing Daily Patterns",
-   "keywords": "Radial charts,time series series data,daily patterns,crowd-sourced experiment",
-   "authors": "Manuela Waldner;Alexandra Diehl;Denis Graƒçanin;Rainer Splechtna;Claudio Delrieux;Kre≈°imir Matkoviƒá",
-   "conference": "InfoVis",
-   "year": 2019
- },
- {
-   "title": "Text-to-Viz: Automatic Generation of Infographics from Proportion-Related Natural Language Statements",
-   "keywords": "Visualization for the masses,infographic,automatic visualization,presentation,and dissemination",
-   "authors": "Weiwei Cui;Xiaoyu Zhang;Yun Wang;He Huang;Bei Chen;Lei Fang;Haidong Zhang;Jian-Guan Lou;Dongmei Zhang",
-   "conference": "InfoVis",
-   "year": 2019
- },
- {
-   "title": "The Perceptual Proxies of Visual Comparison",
-   "keywords": "Graphical perception,visual perception,visual comparison,crowdsourced evaluation",
-   "authors": "Nicole Jardine;Brian D. Ondov;Niklas Elmqvist;Steven Franconeri",
-   "conference": "InfoVis",
-   "year": 2019
- },
- {
-   "title": "Data by Proxy ‚Äî Material Traces as Autographic Visualizations",
-   "keywords": "Traces,indexicality,data physicalization,proxy data sources,data materiality",
-   "authors": "Dietmar Offenhuber",
-   "conference": "InfoVis",
-   "year": 2019
- },
- {
-   "title": "Design by Immersion: A Transdisciplinary Approach to Problem-Driven Visualizations",
-   "keywords": "Visualization,problem-driven,design studies,collaboration,methodology,framework",
-   "authors": "Kyle Wm. Hall;Adam J. Bradley;Uta Hinrichs;Samuel Huron;Jo Wood;Christopher Collins;Sheelagh Carpendale",
-   "conference": "InfoVis",
-   "year": 2019
- },
- {
-   "title": "Improving the Robustness of Scagnostics",
-   "keywords": "Scagnostics,scatterplots,sensitivity analysis,Robust Scagnostics",
-   "authors": "Yunhai Wang;Zeyu Wang;Tingting Liu;Michael Correll;Zhanglin Cheng;Oliver Deussen;Michael Sedlmair",
-   "conference": "InfoVis",
-   "year": 2019
- },
- {
-   "title": "VisTA: Integrating Machine Intelligence with Visualization to Support the Investigation of Think-Aloud Sessions",
-   "keywords": "Think-aloud,visual analytics,machine intelligence,user study,usability problems,session review behavior,UX practices",
-   "authors": "Mingming Fan;Ke Wu;Jian Zhao;Yue Li;Winter Wei;Khai N. Truong",
-   "conference": "InfoVis",
-   "year": 2019
- },
- {
-   "title": "DeepDrawing: A Deep Learning Approach to Graph Drawing",
-   "keywords": "Graph Drawing,Deep Learning,LSTM,Procrustes Analysis",
-   "authors": "Yong Wang;Zhihua Jin;Qianwen Wang;Weiwei Cui;Tengfei Ma;Huamin Qu",
-   "conference": "InfoVis",
-   "year": 2019
- },
- {
-   "title": "Data Sampling in Multi-view and Multi-class Scatterplots via Set Cover Optimization",
-   "keywords": "Sampling,Scatterplot,SPLOM,Exact Cover Problem",
-   "authors": "Ruizhen Hu;Tingkai Sha;Oliver Van Kaick;Oliver Deussen;Hui Huang",
-   "conference": "InfoVis",
-   "year": 2019
- },
- {
-   "title": "RSATree: Distribution-Aware Data Representation of Large-Scale Tabular Datasets for Flexible Visual Query",
-   "keywords": "Aggregate query,visual query,large-scale data visualization,R-tree,summed area table,hashing",
-   "authors": "Honghui Mei;Wei Chen;Yating Wei;Yuanzhe Hu;Shuyue Zhou;Bingru Lin;Ying Zhao;Jiazhi Xia",
-   "conference": "InfoVis",
-   "year": 2019
- },
- {
-   "title": "Measures of the Benefit of Direct Encoding of Data Deltas for Data Pair Relation Perception",
-   "keywords": "Information visualization,marks,perception,attention,visual comparison,visual search,aggregation",
-   "authors": "Christine Nothelfer;Steven Franconeri",
-   "conference": "InfoVis",
-   "year": 2019
- },
- {
-   "title": "Persistent Homology Guided Force-Directed Graph Layouts",
-   "keywords": "Graph drawing,force-directed layout,Topological Data Analysis,persistent homology",
-   "authors": "Ashley Suh;Mustafa Hajij;Bei Wang;Carlos Scheidegger;Paul Rosen",
-   "conference": "InfoVis",
-   "year": 2019
- },
- {
-   "title": "There Is No Spoon: Evaluating Performance, Space Use, and Presence with Expert Domain Users in Immersive Analytics",
-   "keywords": "Design study,evaluation,economic analysis,immersive analytics",
-   "authors": "Andrea Batch;Andrew Cunningham;Maxime Cordeil;Niklas Elmqvist;Tim Dwyer;Bruce H. Thomas;Kim Marriott",
-   "conference": "InfoVis",
-   "year": 2019
- },
- {
-   "title": "Construct-A-Vis: Exploring the Free-Form Visualization Processes of Children",
-   "keywords": "Visualization in Education,Visualization with Children,Qualitative Evaluation,Visualization System and Toolkit Design",
-   "authors": "Fearn Bishop;Johannes Zagermann;Ulrike Pfeil;Gemma Sanderson;Harald Reiterer;Uta Hinrichs",
-   "conference": "InfoVis",
-   "year": 2019
- },
- {
-   "title": "Interactive Structure-aware Blending of Diverse Edge Bundling Visualizations",
-   "keywords": "path visualization,trajectory visualization,edge bundles",
-   "authors": "Yunhai Wang;Mingliang Xue;Yanyan Wang;Xinyuan Yan;Baoquan Chen;Chi-Wing Fu;Christophe Hurter",
-   "conference": "InfoVis",
-   "year": 2019
- },
- {
-   "title": "GenerativeMap: Visualization and Exploration of Dynamic Density Maps via Generative Learning Model",
-   "keywords": "Density map,deep learning,spatiotemporal data,generative model",
-   "authors": "Chen Chen;Changbo Wang;Xue Bai;Peiying Zhang;Chenhui Li",
-   "conference": "InfoVis",
-   "year": 2019
- },
- {
-   "title": "A Comparison of Visualizations for Identifying Correlation over Space and Time",
-   "keywords": "geo-temporal data,bivariate maps,correlation,controlled study,bar chart,Dorling cartogram,small multiples",
-   "authors": "Vanessa Pe√±a-Araya;Emmanuel Pietriga;Anastasia Bezerianos",
-   "conference": "InfoVis",
-   "year": 2019
- },
- {
-   "title": "Towards Automated Infographic Design: Deep Learning-based Auto-Extraction of Extensible Timeline",
-   "keywords": "Automated Infographic Design,Deep Learning-based Approach,Timeline Infographics,Multi-task Model",
-   "authors": "Zhutian Chen;Yun Wang;Qianwen Wang;Yong Wang;Huamin Qu",
-   "conference": "InfoVis",
-   "year": 2019
- },
- {
-   "title": "Winglets: Visualizing Association with Uncertainty in Multi-class Scatterplots",
-   "keywords": "Scatterplot,Gestalt laws,Association,Uncertainty",
-   "authors": "Min Lu;Shuaiqi Wang;Joel Lanir;Noa Fish;Yang Yue;Daniel Cohen-Or;Hui Huang",
-   "conference": "InfoVis",
-   "year": 2019
- },
- {
-   "title": "Uncertainty-Aware Principal Component Analysis",
-   "keywords": "Uncertainty,dimensionality reduction,principal component analysis,linear projection,machine learning",
-   "authors": "Jochen G√∂rtler;Thilo Spinner;Dirk Streeb;Daniel Weiskopf;Oliver Deussen",
-   "conference": "InfoVis",
-   "year": 2019
- },
- {
-   "title": "Origraph: Interactive Network Wrangling",
-   "keywords": "Graph visualization,Data abstraction,Data wrangling,Human-centered computing [Information visualization],[Human-centered computing]: Visualization systems and tools,Information systems [Graph-based database models]",
-   "authors": "Alex Bigelow;Carolina Nobre;Miriah Meyer;Alexander Lex",
-   "conference": "VAST",
-   "year": 2019
- },
- {
-   "title": "VIANA: Visual Interactive Annotation of Argumentation",
-   "keywords": "Argumentation annotation,machine learning,user interaction,layered interfaces,semantic transitions",
-   "authors": "Fabian Sperrle;Rita Sevastjanova;Rebecca Kehlbeck;Mennatallah El-Assady",
-   "conference": "VAST",
-   "year": 2019
- },
- {
-   "title": "Do What I Mean, Not What I Say! Design Considerations for Supporting Intent and Context in Analytical Conversation",
-   "keywords": "Visualization,Empirical studies in visualization,Human-centered computing,Interaction paradigms,Natural language interfaces",
-   "authors": "Melanie Tory;Vidya Setlur",
-   "conference": "VAST",
-   "year": 2019
- },
- {
-   "title": "TopicSifter: Interactive Search Space Reduction through Targeted Topic Modeling",
-   "keywords": "Human-centered computing,Visualization,Visualization application domains,Visual analytics,Information systems,Information retrieval,Users and interactive retrieval,Search interfaces",
-   "authors": "Hannah Kim;Dongjin Choi;Barry Drake;Alex Endert;Haesun Park",
-   "conference": "VAST",
-   "year": 2019
- },
- {
-   "title": "ICE: An Interactive Configuration Explorer for High Dimensional Categorical Parameter Spaces",
-   "keywords": "Data Clustering,Illustrative Visualization,User Interfaces,High Dimensional Data",
-   "authors": "Anjul Tyagi;Zhen Cao;Tyler Estro;Erez Zadok;Klaus Mueller",
-   "conference": "VAST",
-   "year": 2019
- },
- {
-   "title": "Influence Flowers of Academic Entities",
-   "keywords": "Human-centered computing,Visualization,Visualisation application domains,Visual analytics,Visualization systems and tools,Empirical studies in visualization",
-   "authors": "Minjeong Shin;Alexander Soen;Benjamin T. Readshaw;Stephen M. Blackburn;Mitchell Whitelaw;Lexing Xie",
-   "conference": "VAST",
-   "year": 2019
- },
- {
-   "title": "FDive: Learning Relevance Models Using Pattern-based Similarity Measures",
-   "keywords": "Visual analytics,similarity measure selection,relevance feedback,active learning,self-organizing maps",
-   "authors": "Frederik L. Dennig;Tom Polk;Zudi Lin;Tobias Schreck;Hanspeter Pfister;Michael Behrisch",
-   "conference": "VAST",
-   "year": 2019
- },
- {
-   "title": "Interactive Correction of Mislabeled Training Data",
-   "keywords": "Labeled data debugging,trusted item,tSNE",
-   "authors": "Shouxing Xiang;Xi Ye;Jiazhi Xia;Jing Wu;Yang Chen;Shixia Liu",
-   "conference": "VAST",
-   "year": 2019
- },
- {
-   "title": "FAIRVIS: Visual Analytics for Discovering Intersectional Bias in Machine Learning",
-   "keywords": "Machine learning fairness,visual analytics,intersectional bias,subgroup discovery",
-   "authors": "√Ångel Alexander Cabrera;Will Epperson;Fred Hohman;Minsuk Kahng;Jamie Morgenstern;Duen Horng Chau",
-   "conference": "VAST",
-   "year": 2019
- },
- {
-   "title": "VUSphere: Visual Analysis of Video Utilization in Online Distance Education",
-   "keywords": "Video utilization pattern,online distance education,visual analytics",
-   "authors": "Huan He;Oinghua Zheng;Bo Dong",
-   "conference": "VAST",
-   "year": 2018
- },
- {
-   "title": "Segue: Overviewing Evolution Patterns of Egocentric Networks by Interactive Construction of Spatial Layouts",
-   "keywords": "Human-centered computing,Visualization,Visualization techniques,Graph drawings",
-   "authors": "Po-Ming Law;Yanhong Wu;Rahul C. Basole",
-   "conference": "VAST",
-   "year": 2018
- },
- {
-   "title": "The Effect of Semantic Interaction on Foraging in Text Analysis",
-   "keywords": "Human-centered computing,Visualization,Empirical studies in visualization,Human-centered computing,Visualization,Visual analytics",
-   "authors": "John Wenskovitch;Lauren Bradel;Michelle Dowling;Leanna House;Chris North",
-   "conference": "VAST",
-   "year": 2018
- },
- {
-   "title": "The Effect of Proximity in Social Data Charts on Perceived Unity",
-   "keywords": "Social visualization,information visualization,Human-centered computing,Empirical studies in HCI,Displays and imagers,Social engineering (social sciences),Visualization theory, concepts and paradigms,Gestalt theory,controlled experiment,data density,data spread,perception,group identity,unity,priming",
-   "authors": "Marlen Promann;Sabine Brunswicker",
-   "conference": "VAST",
-   "year": 2018
- },
- {
-   "title": "EmbeddingVis: A Visual Analytics Approach to Comparative Network Embedding Inspection",
-   "keywords": "Human-centered computing,Visualization,Visualization application domains,Visual analytics,Human-centered computing,Visualization,Visualization design and evaluation methods",
-   "authors": "Quan Li;Kristanto Sean Njotoprawiro;Hammad Haleem;Qiaoan Chen;Chris Yi;Xiaojuan Ma",
-   "conference": "VAST",
-   "year": 2018
- },
- {
-   "title": "SMARTexplore: Simplifying High-Dimensional Data Analysis through a Table-Based Visual Analytics Approach",
-   "keywords": "High-dimensional data,visual exploration,pattern-driven analysis,tabular visualization,subspace,aggregation",
-   "authors": "Michael Blumenschein;Michael Behrisch;Stefanie Schmid;Simon Butscher;Deborah R. Wahl;Karoline Villinger;Britta Renner;Harald Reiterer;Daniel A. Keim",
-   "conference": "VAST",
-   "year": 2018
- },
- {
-   "title": "Analyzing the Noise Robustness of Deep Neural Networks",
-   "keywords": "Deep neural networks,robustness,adversarial examples,back propagation,multi-level visualization.",
-   "authors": "Mengchen Liu;Shixia Liu;Hang Su;Kelei Cao;Jun Zhu",
-   "conference": "VAST",
-   "year": 2018
- }
+[{
+      "title": "Evaluating Perceptual Bias During Geometric Scaling of Scatterplots",
+      "keywords": [
+         "Evaluation",
+         "scatterplot",
+         "geometric scaling",
+         "bias",
+         "perceptual consistency"
+      ],
+      "authors": "Yating Wei;Honghui Mei;Ying Zhao;Shuyue Zhou;Bingru Lin;Haojing Jiang;Wei Chen",
+      "conference": "VAST",
+      "year": 2019
+   },
+   {
+      "title": "Selection Bias Tracking and Detailed Subset Comparison for High-Dimensional Data",
+      "keywords": [
+         "High-dimensional visualization",
+         "visual analytics",
+         "cohort selection",
+         "medical informatics",
+         "selection bias"
+      ],
+      "authors": "David Borland;Wenyuan Wang;Jonathan Zhang;Joshua Shrestha;David Gotz",
+      "conference": "VAST",
+      "year": 2019
+   },
+   {
+      "title": "A Structural Average of Labeled Merge Trees for Uncertainty Visualization",
+      "keywords": [
+         "Topological data analysis",
+         "uncertainty visualization",
+         "merge trees"
+      ],
+      "authors": "Lin Yan;Yusu Wang;Elizabeth Munch;Ellen Gasparovic;Bei Wang",
+      "conference": "SciVis",
+      "year": 2019
+   },
+   {
+      "title": "CourtTime: Generating Actionable Insights into Tennis Matches Using Visual Analytics",
+      "keywords": [
+         "Visual analytics",
+         "tennis analysis",
+         "sports analytics",
+         "spatio-temporal analysis"
+      ],
+      "authors": "Tom Polk;Dominik J√§ckle;Johannes H√§u√üler;Jing Yang",
+      "conference": "VAST",
+      "year": 2019
+   },
+   {
+      "title": "Supporting Analysis of Dimensionality Reduction Results with Contrastive Learning",
+      "keywords": [
+         "Dimensionality reduction",
+         "contrastive learning",
+         "principal component analysis",
+         "high-dimensional data",
+         "visual analytics"
+      ],
+      "authors": "Takanori Fujiwara;Oh-Hyun Kwon;Kwan-Liu Ma",
+      "conference": "VAST",
+      "year": 2019
+   },
+   {
+      "title": "TSR-TVD: Temporal Super-Resolution for Time-Varying Data Analysis and Visualization",
+      "keywords": [
+         "Time-varying data visualization",
+         "super-resolution",
+         "deep learning",
+         "recurrent generative network"
+      ],
+      "authors": "Jun Han;Chaoli Wang",
+      "conference": "SciVis",
+      "year": 2019
+   },
+   {
+      "title": "Progressive Wasserstein Barycenters of Persistence Diagrams",
+      "keywords": [
+         "Topological data analysis",
+         "scalar data",
+         "ensemble data"
+      ],
+      "authors": "Jules Vidal;Joseph Budin;Julien Tierny",
+      "conference": "SciVis",
+      "year": 2019
+   },
+   {
+      "title": "Toward Localized Topological Data Structures: Querying the Forest for the Tree",
+      "keywords": [
+         "Merge tree",
+         "parallel computation",
+         "topology"
+      ],
+      "authors": "Pavol Klacansky;Attila Gyulassy;Peer-Timo Bremer;Valerio Pascucci",
+      "conference": "SciVis",
+      "year": 2019
+   },
+   {
+      "title": "Scale-Space Splatting: Reforming Spacetime for Cross-Scale Exploration of Integral Measures in Molecular Dynamics",
+      "keywords": [
+         "Scale space",
+         "time-series",
+         "scientific simulation",
+         "multi-scale analysis",
+         "space-time cube",
+         "molecular dynamics"
+      ],
+      "authors": "Juraj P√°lenik;Jan By≈°ka;Stefan Bruckner;Helwig Hauser",
+      "conference": "SciVis",
+      "year": 2019
+   },
+   {
+      "title": "OpenSpace: A System for Astrographics",
+      "keywords": [
+         "Astrographics",
+         "astronomy",
+         "astrophysics",
+         "system"
+      ],
+      "authors": "Alexander Bock;Emil Axelsson;Jonathas Costa;Gene Payne;Micah Acinapura;Vivian Trakinski;Carter Emmart;Cl√°udio Silva;Charles Hansen;Anders Ynnerman",
+      "conference": "SciVis",
+      "year": 2019
+   },
+   {
+      "title": "Artifact-Based Rendering: Harnessing Natural and Traditional Visual Media for More Expressive and Engaging 3D Visualizations",
+      "keywords": [
+         "Visualization Design",
+         "Art and Visualization",
+         "Data Physicalization",
+         "Multivariate Visualization"
+      ],
+      "authors": "Seth Johnson;Francesca Samsel;Gregory Abram;Daniel Olson;Andrew J. Solis;Bridger Herman;Phillip J. Wolfram;Christophe Lenglet;Daniel F. Keefe",
+      "conference": "SciVis",
+      "year": 2019
+   },
+   {
+      "title": "Ablate, Variate, and Contemplate: Visual Analytics for Discovering Neural Architectures",
+      "keywords": [
+         "visual analytics",
+         "neural networks",
+         "parameter space exploration"
+      ],
+      "authors": "Dylan Cashman;Adam Perer;Remco Chang;Hendrik Strobelt",
+      "conference": "VAST",
+      "year": 2019
+   },
+   {
+      "title": "FairSight: Visual Analytics for Fairness in Decision Making",
+      "keywords": [
+         "Fairness in Machine Learning",
+         "Visual Analytic"
+      ],
+      "authors": "Yongsu Ahn;Yu-Ru Lin",
+      "conference": "VAST",
+      "year": 2019
+   },
+   {
+      "title": "R-Map: A Map Metaphor for Visualizing Information Reposting Process in Social Media",
+      "keywords": [
+         "Social Media",
+         "Information Diffusion",
+         "Map-like Visual Metaphor"
+      ],
+      "authors": "Shuai Chen;Sihang Li;Siming Chen;Xiaoru Yuan",
+      "conference": "VAST",
+      "year": 2019
+   },
+   {
+      "title": "The Validity, Generalizability and Feasibility of Summative Evaluation Methods in Visual Analytics",
+      "keywords": [
+         "Summative evaluation",
+         "usefulness",
+         "evaluation process",
+         "taxonomy",
+         "visual analytics"
+      ],
+      "authors": "Mosab Khayat;Morteza Karimzadeh;David S. Ebert;Arif Ghafoor",
+      "conference": "VAST",
+      "year": 2019
+   },
+   {
+      "title": "VASSL: A Visual Analytics Toolkit for Social Spambot Labeling",
+      "keywords": [
+         "Spambot",
+         "Labeling",
+         "Detection",
+         "Visual Analytics",
+         "Social Media Annotation"
+      ],
+      "authors": "Mosab Khayat;Morteza Karimzadeh;Jieqiong Zhao;David S. Ebert",
+      "conference": "VAST",
+      "year": 2019
+   },
+   {
+      "title": "ProtoSteer: Steering Deep Sequence Model with Prototypes",
+      "keywords": [
+         "Sequence Data",
+         "Explainable Artificial Intelligence (XAI)",
+         "Recurrent Neural Networks (RNNs)",
+         "Prototype Learning"
+      ],
+      "authors": "Yao Ming;Panpan Xu;Furui Cheng;Huamin Qu;Liu Ren",
+      "conference": "VAST",
+      "year": 2019
+   },
+   {
+      "title": "PlanningVis: A Visual Analytics Approach to Production Planning in Smart Factories",
+      "keywords": [
+         "Production Planning",
+         "Time Series Data",
+         "Comparative Analysis",
+         "Visual Analytics",
+         "Smart Factory",
+         "Industry 4.0"
+      ],
+      "authors": "Dong Sun;Renfei Huang;Yuanzhe Chen;Yong Wang;Jia Zeng;Mingxuan Yuan;Ting-Chuen Pong;Huamin Qu",
+      "conference": "VAST",
+      "year": 2019
+   },
+   {
+      "title": "Motion Browser: Visualizing and Understanding Complex Upper Limb Movement Under Obstetrical Brachial Plexus Injuries",
+      "keywords": [
+         "Medical Data Visualization",
+         "Visual Analytics Application",
+         "Time Series Data",
+         "Multimodal Data",
+         "Brachial Plexus Injuries"
+      ],
+      "authors": "Gromit Yeuk-Yin Chan;Luis Gustavo Nonato;Alice Chu;Preeti Raghavan;Viswanath Aluru;Cl√°udio T. Silva",
+      "conference": "VAST",
+      "year": 2019
+   },
+   {
+      "title": "Critical Reflections on Visualization Authoring Systems",
+      "keywords": [
+         "Critical reflection",
+         "visualization authoring",
+         "expressivity",
+         "learnability",
+         "reusability"
+      ],
+      "authors": "Arvind Satyanarayan;Bongshin Lee;Donghao Ren;Jeffrey Heer;John Stasko;John Thompson;Matthew Brehmer;Zhicheng Liu",
+      "conference": "InfoVis",
+      "year": 2019
+   },
+   {
+      "title": "Designing for Mobile and Immersive Visual Analytics in the Field",
+      "keywords": [
+         "Immersive Analytics",
+         "Augmented Reality",
+         "Mobile Visualization",
+         "Outdoor Visualization",
+         "Emergency Response"
+      ],
+      "authors": "Matt Whitlock;Keke Wu;Danielle Albers Szafir",
+      "conference": "InfoVis",
+      "year": 2019
+   },
+   {
+      "title": "What is Interaction for Data Visualization?",
+      "keywords": [
+         "interaction",
+         "visualization",
+         "data",
+         "definition",
+         "human-computer interaction"
+      ],
+      "authors": "Evanthia Dimara;Charles Perin",
+      "conference": "InfoVis",
+      "year": 2019
+   },
+   {
+      "title": "Color Crafting: Automating the Construction of Designer Quality Color Ramps",
+      "keywords": [
+         "Visualization",
+         "Aesthetics in Visualization",
+         "Color Perception",
+         "Visual Design",
+         "Design Mining"
+      ],
+      "authors": "Stephen Smart;Keke Wu;Danielle Albers Szafir",
+      "conference": "InfoVis",
+      "year": 2019
+   },
+   {
+      "title": "Visualizing a Moving Target: A Design Study on Task Parallel Programs in the Presence of Evolving Data and Concerns",
+      "keywords": [
+         "design studies",
+         "software visualization",
+         "parallel computing",
+         "graph visualization"
+      ],
+      "authors": "Katy Williams;Alex Bigelow;Kate Isaacs",
+      "conference": "InfoVis",
+      "year": 2019
+   },
+   {
+      "title": "Toward Objective Evaluation of Working Memory in Visualizations: A Case Study Using Pupillometry and a Dual-Task Paradigm",
+      "keywords": [
+         "Working Memory",
+         "Cognitive Effort",
+         "Evaluation Methods",
+         "Pupillometry",
+         "Geographic/Geospatial Visualization",
+         "Quantitative Evaluation"
+      ],
+      "authors": "Lace M.K. Padilla;Spencer C. Castro;P. Samuel Quinan;Ian T. Ruginski;Sarah H. Creem-Regehr",
+      "conference": "InfoVis",
+      "year": 2019
+   },
+   {
+      "title": "Why Authors Don't Visualize Uncertainty",
+      "keywords": [
+         "Uncertainty visualization",
+         "graphical statistical inference",
+         "visualization rhetoric"
+      ],
+      "authors": "Jessica Hullman",
+      "conference": "InfoVis",
+      "year": 2019
+   },
+   {
+      "title": "Common Fate for Animated Transitions in Visualization",
+      "keywords": [
+         "Gestalt laws",
+         "common fate",
+         "animated transitions",
+         "evaluation",
+         "motion"
+      ],
+      "authors": "Amira Chalbi;Jacob Ritchie;Deokgun Park;Jungu Choi;Nicolas Roussel;Niklas Elmqvist;Fanny Chevalier",
+      "conference": "InfoVis",
+      "year": 2019
+   },
+   {
+      "title": "STBins: Visual Tracking and Comparison of Multiple Data Sequences Using Temporal Binning",
+      "keywords": [
+         "Visualization",
+         "time series data",
+         "data sequence"
+      ],
+      "authors": "Ji Qi;Vincent Bloemen;Shihan Wang;Jarke van Wijk;Huub van de Wetering",
+      "conference": "VAST",
+      "year": 2019
+   },
+   {
+      "title": "GUIRO: User-Guided Matrix Reordering",
+      "keywords": [
+         "Visual Analytics",
+         "matrix",
+         "black-box algorithms",
+         "seriation",
+         "ordering",
+         "sorting",
+         "steerable algorithm",
+         "interaction",
+         "2D projection"
+      ],
+      "authors": "Michael Behrisch;Tobias Schreck;Hanspeter Pfister",
+      "conference": "VAST",
+      "year": 2019
+   },
+   {
+      "title": "GPGPU Linear Complexity t-SNE Optimization",
+      "keywords": [
+         "High Dimensional Data",
+         "Dimensionality Reduction",
+         "Progressive Visual Analytics",
+         "Approximate Computation",
+         "GPGPU"
+      ],
+      "authors": "Nicola Pezzotti;Julian Thijssen;Alexander Mordvintsev;Thomas H√∂llt;Baldur Van Lew;Boudewijn P.F. Lelieveldt;Elmar Eisemann;Anna Vilanova",
+      "conference": "VAST",
+      "year": 2019
+   },
+   {
+      "title": "Extraction and Visual Analysis of Potential Vorticity Banners around the Alps",
+      "keywords": [
+         "Scientific Visualization",
+         "potential vorticity",
+         "meteorology",
+         "feature extraction"
+      ],
+      "authors": "Robin Bader;Michael Sprenger;Nikolina Ban;Stefan R√ºdis√ºhli;Christoph Sch√§r;Tobias G√ºnther",
+      "conference": "SciVis",
+      "year": 2019
+   },
+   {
+      "title": "InSituNet: Deep Image Synthesis for Parameter Space Exploration of Ensemble Simulations",
+      "keywords": [
+         "In situ visualization",
+         "ensemble visualization",
+         "parameter space exploration",
+         "deep learning",
+         "image synthesis"
+      ],
+      "authors": "Wenbin He;Junpeng Wang;Hanqi Guo;Ko-Chih Wang;Han-Wei Shen;Mukund Raj;Youssef S. G. Nashed;Tom Peterka",
+      "conference": "SciVis",
+      "year": 2019
+   },
+   {
+      "title": "Accelerated Monte Carlo Rendering of Finite-Time Lyapunov Exponents",
+      "keywords": [
+         "Scientific visualization",
+         "Monte Carlo",
+         "feature extraction",
+         "finite-time Lyapunov exponents",
+         "gradient domain",
+         "Fourier"
+      ],
+      "authors": "Irene Baeza Rojo;Markus Gross;Tobias G√ºnther",
+      "conference": "SciVis",
+      "year": 2019
+   },
+   {
+      "title": "Multi-Scale Topological Analysis of Asymmetric Tensor Fields on Surfaces",
+      "keywords": [
+         "Tensor field visualization",
+         "tensor field topology",
+         "2D asymmetric tensor fields",
+         "2D asymmetric tensor field topology",
+         "eigenvalue graphs",
+         "eigenvector graphs"
+      ],
+      "authors": "Fariba Khan;Lawrence Roy;Eugene Zhang;Botong Qu;Shih-Hsuan Hung;Harry Yeh;Robert S. Laramee;Yue Zhang",
+      "conference": "SciVis",
+      "year": 2019
+   },
+   {
+      "title": "LassoNet: Deep Lasso-Selection of 3D Point Clouds",
+      "keywords": [
+         "Point Clouds",
+         "Lasso Selection",
+         "Deep Learning"
+      ],
+      "authors": "Zhutian Chen;Wei Zeng;Zhiguang Yang;Lingyun Yu;Chi-Wing Fu;Huamin Qu",
+      "conference": "SciVis",
+      "year": 2019
+   },
+   {
+      "title": "Multiscale Visual Drilldown for the Analysis of Large Ensembles of Multi-Body Protein Complexes",
+      "keywords": [
+         "Molecular visualization",
+         "data filtering",
+         "coordinated and multiple views"
+      ],
+      "authors": "Katar√≠na Furmanov√°;Adam Jurƒç√≠k;Barbora Kozl√≠kov√°;Helwig Hauser;Jan By≈°ka",
+      "conference": "SciVis",
+      "year": 2019
+   },
+   {
+      "title": "Scale Trotter: Illustrative Visual Travels Across Negative Scales",
+      "keywords": [
+         "Multi-scale visualization",
+         "scale transition",
+         "abstraction",
+         "human genome",
+         "DNA",
+         "Hi-C data"
+      ],
+      "authors": "Sarkis Halladjian;Haichao Miao;David Kou≈ôil;M. Eduard Gr√∂ller;Ivan Viola;Tobias Isenberg",
+      "conference": "SciVis",
+      "year": 2019
+   },
+   {
+      "title": "Void-and-Cluster Sampling of Large Scattered Data and Trajectories",
+      "keywords": [
+         "Data reduction",
+         "sampling",
+         "blue noise",
+         "entropy-based sampling",
+         "scattered data",
+         "pathlines"
+      ],
+      "authors": "Tobias Rapp;Christoph Peters;Carsten Dachsbacher",
+      "conference": "SciVis",
+      "year": 2019
+   },
+   {
+      "title": "Temporal Views of Flattened Mitral Valve Geometries",
+      "keywords": [
+         "Mitral valve",
+         "quantification",
+         "medical visualization",
+         "parameterization",
+         "spatio-temporal visualization"
+      ],
+      "authors": "Pepe Eulzer;Sandy Engelhardt;Nils Lichtenberg;Raffaele de Simone;Kai Lawonn",
+      "conference": "SciVis",
+      "year": 2019
+   },
+   {
+      "title": "The Effect of Data Transformations on Scalar Field Topological Analysis of High-Order FEM Solutions",
+      "keywords": [
+         "High-Order Finite Element Methods",
+         "Filtering Techniques",
+         "Scalar Field Visualization",
+         "Topological Analysis"
+      ],
+      "authors": "Ashok Jallepalli;Joshua A. Levine;Robert M. Kirby",
+      "conference": "SciVis",
+      "year": 2019
+   },
+   {
+      "title": "Analysis of the Near-Wall Flow in a Turbine Cascade by Splat Visualization",
+      "keywords": [
+         "Flow Visualization",
+         "Visualization in Physical Sciences and Engineering",
+         "Feature Detection and Tracking",
+         "Vector Field Data"
+      ],
+      "authors": "Baldwin Nsonga;Gerik Scheuermann;Stefan Gumhold;Jordi Ventosa-Molina;Denis Koschichow;Jochen Fr√∂hlich",
+      "conference": "SciVis",
+      "year": 2019
+   },
+   {
+      "title": "Dynamic Nested Tracking Graphs",
+      "keywords": [
+         "Topological Data Analysis",
+         "Nested Tracking Graphs",
+         "Image Databases",
+         "Feature Tracking",
+         "Post Hoc Visual Analytics"
+      ],
+      "authors": "Jonas Lukasczyk;Christoph Garth;Gunther H. Weber;Tim Biedert;Ross Maciejewski;Heike Leitte",
+      "conference": "SciVis",
+      "year": 2019
+   },
+   {
+      "title": "DeepOrganNet: On-the-Fly Reconstruction and Visualization of 3D / 4D Lung Models from Single-View Projections by Deep Deformation Network",
+      "keywords": [
+         "Deep deformation network",
+         "organ meshes",
+         "3D / 4D shapes",
+         "2D projections",
+         "single-view"
+      ],
+      "authors": "Yifan Wang;Zichun Zhong;Jing Hua",
+      "conference": "SciVis",
+      "year": 2019
+   },
+   {
+      "title": "Deadeye Visualization Revisited: Investigation of Preattentiveness and Applicability in Virtual Environments",
+      "keywords": [
+         "Popout",
+         "virtual reality",
+         "preattentive vision",
+         "volume rendering",
+         "dichoptic presentation",
+         "binocular rivalry"
+      ],
+      "authors": "Andrey Krekhov;Sebastian Cmentowski;Andre Waschk;Jens Kr√ºger",
+      "conference": "SciVis",
+      "year": 2019
+   },
+   {
+      "title": "Vector Field Topology of Time-Dependent Flows in a Steady Reference Frame",
+      "keywords": [
+         "Scientific visualization",
+         "unsteady flow",
+         "vector field topology",
+         "reference frame optimization"
+      ],
+      "authors": "Irene Baeza Rojo;Tobias G√ºnther",
+      "conference": "SciVis",
+      "year": 2019
+   },
+   {
+      "title": "The Impact of Immersion on Cluster Identification Tasks",
+      "keywords": [
+         "Virtual reality",
+         "evaluation",
+         "visual analytics",
+         "clustering"
+      ],
+      "authors": "M. Kraus;N. Weiler;D. Oelke;J. Kehrer;D. A. Keim;J. Fuchs",
+      "conference": "InfoVis",
+      "year": 2019
+   },
+   {
+      "title": "A Deep Generative Model for Graph Layout",
+      "keywords": [
+         "Graph",
+         "network",
+         "visualization",
+         "layout",
+         "machine learning",
+         "deep learning",
+         "neural network",
+         "generative model",
+         "autoencoder"
+      ],
+      "authors": "Oh-Hyun Kwon;Kwan-Liu Ma",
+      "conference": "InfoVis",
+      "year": 2019
+   },
+   {
+      "title": "A Comparative Evaluation of Animation and Small Multiples for Trend Visualization on Mobile Phones",
+      "keywords": [
+         "Evaluation",
+         "graphical perception",
+         "mobile phones",
+         "trend visualization",
+         "animation",
+         "small multiples",
+         "crowdsourcing"
+      ],
+      "authors": "Matthew Brehmer;Bongshin Lee;Petra Isenberg;Eun Kyoung Choe",
+      "conference": "InfoVis",
+      "year": 2019
+   },
+   {
+      "title": "DataShot: Automatic Generation of Fact Sheets from Tabular Data",
+      "keywords": [
+         "Fact sheet",
+         "infographic",
+         "visualization",
+         "and automated design"
+      ],
+      "authors": "Yun Wang;Zhida Sun;Haidong Zhang;Weiwei Cui;Ke Xu;Xiaojuan Ma;Dongmei Zhang",
+      "conference": "InfoVis",
+      "year": 2019
+   },
+   {
+      "title": "Illusion of Causality in Visualized Data",
+      "keywords": [
+         "Information Visualization",
+         "Correlation and Causation",
+         "Visualization Design",
+         "Reasoning Affordance"
+      ],
+      "authors": "Cindy Xiong;Joel Shapiro;Jessica Hullman;Steven Franconeri",
+      "conference": "InfoVis",
+      "year": 2019
+   },
+   {
+      "title": "Biased Average Position Estimates in Line and Bar Graphs: Underestimation, Overestimation, and Perceptual Pull",
+      "keywords": [
+         "Perceptual biases",
+         "perception and cognition",
+         "cue combination",
+         "bar graphs",
+         "line graphs",
+         "position estimation"
+      ],
+      "authors": "Cindy Xiong;Cristina R. Ceja;Casimir J.H. Ludwig;Steven Franconeri",
+      "conference": "InfoVis",
+      "year": 2019
+   },
+   {
+      "title": "Decoding a Complex Visualization in a Science Museum ‚Äì An Empirical Study",
+      "keywords": [
+         "Museums",
+         "informal science learning",
+         "interactive exhibit",
+         "public data visualization",
+         "decoding",
+         "visual encoding"
+      ],
+      "authors": "Joyce Ma;Kwan-Liu Ma;Jennifer Frazier",
+      "conference": "InfoVis",
+      "year": 2019
+   },
+   {
+      "title": "CerebroVis: Designing an Abstract yet Spatially Contextualized Cerebral Artery Network Visualization",
+      "keywords": [
+         "Network Visualization",
+         "Spatial Context",
+         "Abstract Design",
+         "Flow Network",
+         "Medical Imaging",
+         "Cerebral Arteries"
+      ],
+      "authors": "Aditeya Pandey;Harsh Shukla;Geoffrey S. Young;Lei Qin;Amir A. Zamani;Liangge Hsu;Raymond Huang;Cody Dunne;Michelle A. Borkin",
+      "conference": "InfoVis",
+      "year": 2019
+   },
+   {
+      "title": "Evaluating an Immersive Space-Time Cube Geovisualization for Intuitive Trajectory Data Exploration",
+      "keywords": [
+         "Space-time cube",
+         "Trajectory visualization",
+         "Immersive analytics"
+      ],
+      "authors": "Jorge A. Wagner Filho;Wolfgang Stuerzlinger;Luciana Nedel",
+      "conference": "InfoVis",
+      "year": 2019
+   },
+   {
+      "title": "Searching the Visual Style and Structure of D3 Visualizations",
+      "keywords": [
+         "visualization search engine",
+         "visualization design",
+         "search user interfaces"
+      ],
+      "authors": "Enamul Hoque;Maneesh Agrawala",
+      "conference": "InfoVis",
+      "year": 2019
+   },
+   {
+      "title": "Discriminability Tests for Visualization Effectiveness and Scalability",
+      "keywords": [
+         "Scalability",
+         "Discriminability",
+         "Simulation",
+         "Perception"
+      ],
+      "authors": "Rafael Veras;Christopher Collins",
+      "conference": "InfoVis",
+      "year": 2019
+   },
+   {
+      "title": "An Incremental Dimensionality Reduction Method for Visualizing Streaming Multidimensional Data",
+      "keywords": [
+         "Dimensionality reduction",
+         "principal component analysis",
+         "streaming data",
+         "uncertainty",
+         "visual analytics"
+      ],
+      "authors": "Takanori Fujiwara;Jia-Kai Chou;Shilpika Shilpika;Panpan Xu;Liu Ren;Kwan-Liu Ma",
+      "conference": "InfoVis",
+      "year": 2019
+   },
+   {
+      "title": "SmartCube: An Adaptive Data Management Architecture for the Real-Time Visualization of Spatiotemporal Datasets",
+      "keywords": [
+         "data management",
+         "spatial-temporal data"
+      ],
+      "authors": "Can Liu;Cong Wu;Hanning Shao;Xiaoru Yuan",
+      "conference": "InfoVis",
+      "year": 2019
+   },
+   {
+      "title": "Investigating Direct Manipulation of Graphical Encodings as a Method for User Interaction",
+      "keywords": [
+         "Direct Manipulation",
+         "Data Visualization"
+      ],
+      "authors": "Bahador Saket;Samuel Huron;Charles Perin;Alex Endert",
+      "conference": "InfoVis",
+      "year": 2019
+   },
+   {
+      "title": "BarcodeTree: Scalable Comparison of Multiple Hierarchies",
+      "keywords": [
+         "tree visualization",
+         "comparison",
+         "multiple trees"
+      ],
+      "authors": "Guozheng Li;Yu Zhang;Yu Dong;Jie Liang;Jinson Zhang;Jinsong Wang;Michael J. Mcguffin;Xiaoru Yuan",
+      "conference": "InfoVis",
+      "year": 2019
+   },
+   {
+      "title": "Estimating Color-Concept Associations from Image Statistics",
+      "keywords": [
+         "Visual Reasoning",
+         "Visual Communication",
+         "Visual Encoding",
+         "Color Perception",
+         "Color Cognition",
+         "Color Categories"
+      ],
+      "authors": "Ragini Rathore;Zachary Leggon;Laurent Lessard;Karen B. Schloss",
+      "conference": "InfoVis",
+      "year": 2019
+   },
+   {
+      "title": "P5: Portable Progressive Parallel Processing Pipelines for Interactive Data Analysis and Visualization",
+      "keywords": [
+         "Information visualization",
+         "progressive analytics",
+         "visualization software",
+         "GPU computing",
+         "data exploration"
+      ],
+      "authors": "Jianping Kelvin Li;Kwan-Liu Ma",
+      "conference": "InfoVis",
+      "year": 2019
+   },
+   {
+      "title": "Data Changes Everything: Challenges and Opportunities in Data Visualization Design Handoff",
+      "keywords": [
+         "Information visualization",
+         "design handoff",
+         "data mapping",
+         "design process"
+      ],
+      "authors": "Jagoda Walny;Christian Frisson;Mieka West;Doris Kosminsky;S√∏ren Knudsen;Sheelagh Carpendale;Wesley Willett",
+      "conference": "InfoVis",
+      "year": 2019
+   },
+   {
+      "title": "Criteria for Rigor in Visualization Design Study",
+      "keywords": [
+         "design study",
+         "relativism",
+         "interpretivism",
+         "knowledge construction",
+         "qualitative research",
+         "research through design"
+      ],
+      "authors": "Miriah Meyer;Jason Dykes",
+      "conference": "InfoVis",
+      "year": 2019
+   },
+   {
+      "title": "Separating the Wheat from the Chaff: Comparative Visual Cues for Transparent Diagnostics of Competing Models",
+      "keywords": [
+         "Visual comparison",
+         "Visual cues",
+         "Model evaluation",
+         "Transparency",
+         "Simulation"
+      ],
+      "authors": "Aritra Dasgupta;Hong Wang;Nancy O'Brien;Susannah Burrows",
+      "conference": "InfoVis",
+      "year": 2019
+   },
+   {
+      "title": "A Recursive Subdivision Technique for Sampling Multi-class Scatterplots",
+      "keywords": [
+         "Scatterplot",
+         "multi-class sampling",
+         "kd-tree",
+         "outlier",
+         "relative density"
+      ],
+      "authors": "Xin Chen;Tong Ge;Jian Zhang;Baoquan Chen;Chi-Wing Fu;Oliver Deussen;Yunhai Wang",
+      "conference": "InfoVis",
+      "year": 2019
+   },
+   {
+      "title": "Cohort-based T-SSIM Visual Computing for Radiation Therapy Prediction and Exploration",
+      "keywords": [
+         "Biomedical and Medical Visualization",
+         "Spatial Techniques",
+         "Visual Design",
+         "High-Dimensional Data"
+      ],
+      "authors": "A. Wentzel;P. Hanula;T. Luciani;B. Elgohari;H. Elhalawani;G. Canahuate;D. Vock;C.D. Fuller;G.E. Marai",
+      "conference": "SciVis",
+      "year": 2019
+   },
+   {
+      "title": "Facetto: Combining Unsupervised and Supervised Learning for Hierarchical Phenotype Analysis in Multi-Channel Image Data",
+      "keywords": [
+         "Clustering",
+         "Classification",
+         "Visual Analysis",
+         "Multiplex Tissue Imaging",
+         "Digital Pathology",
+         "Cancer Systems Biology"
+      ],
+      "authors": "Robert Krueger;Johanna Beyer;Won-Dong Jang;Nam Wook Kim;Artem Sokolov;Peter K. Sorger;Hanspeter Pfister",
+      "conference": "VAST",
+      "year": 2019
+   },
+   {
+      "title": "Pattern-Driven Navigation in 2D Multiscale Visualizations with Scalable Insets",
+      "keywords": [
+         "Guided Navigation",
+         "Pattern Exploration",
+         "Multiscale Visualizations",
+         "Gigapixel Images",
+         "Geospatial Maps",
+         "Genomics"
+      ],
+      "authors": "Fritz Lekschas;Michael Behrisch;Benjamin Bach;Peter Kerpedjiev;Nils Gehlenborg;Hanspeter Pfister",
+      "conference": "InfoVis",
+      "year": 2019
+   },
+   {
+      "title": "The Role of Latency and Task Complexity in Predicting Visual Search Behavior",
+      "keywords": [
+         "Visual search",
+         "latency",
+         "system response time",
+         "SRT"
+      ],
+      "authors": "Leilani Battle;R. Jordan Crouser;Audace Nakeshimana;Ananda Montoly;Remco Chang;Michael Stonebraker",
+      "conference": "InfoVis",
+      "year": 2019
+   },
+   {
+      "title": "OntoPlot: A Novel Visualisation for Non-hierarchical Associations in Large Ontologies",
+      "keywords": [
+         "Ontology visualisation",
+         "visual compression",
+         "interactive exploration",
+         "ontology associations"
+      ],
+      "authors": "Ying Yang;Michael Wybrow;Yuan-Fang Li;Tobias Czauderna;Yongqun He",
+      "conference": "InfoVis",
+      "year": 2019
+   },
+   {
+      "title": "NNVA: Neural Network Assisted Visual Analysis of Yeast Cell Polarization Simulation",
+      "keywords": [
+         "Surrogate modeling",
+         "Neural networks",
+         "Computational biology",
+         "Visual analysis",
+         "Parameter analysis"
+      ],
+      "authors": "Subhashis Hazarika;Haoyu Li;Ko-Chih Wang;Han-Wei Shen;Ching-Shan Chou",
+      "conference": "VAST",
+      "year": 2019
+   },
+   {
+      "title": "Understanding the Role of Alternatives in Data Analysis Practices",
+      "keywords": [
+         "alternatives",
+         "data workers",
+         "data analysis",
+         "data science",
+         "sensemaking",
+         "qualitative study"
+      ],
+      "authors": "Jiali Liu;Nadia Boukhelifa;James R. Eagan",
+      "conference": "VAST",
+      "year": 2019
+   },
+   {
+      "title": "Scalable Topological Data Analysis and Visualization for Evaluating Data-Driven Models in Scientific Applications",
+      "keywords": [
+         "Model Evaluation",
+         "Deep Learning",
+         "High-Dimensional Space",
+         "Topological Data Analysis",
+         "Inertial Confinement Fusion"
+      ],
+      "authors": "Shusen Liu;Luc Peterson;Peter B. Robinson;Harsh Bhatia;Valerio Pascucci;Brian K. Spears;Peer-Timo Bremer;Di Wang;Dan Maljovec;Rushil Anirudh;Jayaraman J. Thiagarajan;Sam Ade Jacobs;Brian C. Van Essen;David Hysom;Jae-Seung Yeom;Jim Gaffney",
+      "conference": "VAST",
+      "year": 2019
+   },
+   {
+      "title": "Visual Interaction with Deep Learning Models through Collaborative Semantic Inference",
+      "keywords": [
+         "Human-Computer Collaboration",
+         "Deep Learning",
+         "Neural Networks",
+         "Interaction Design",
+         "Human-Centered Design"
+      ],
+      "authors": "Sebastian Gehrmann;Hendrik Strobelt;Robert Kr√ºger;Hanspeter Pfister;Alexander M. Rush",
+      "conference": "VAST",
+      "year": 2019
+   },
+   {
+      "title": "MetricsVis: A Visual Analytics System for Evaluating Employee Performance in Public Safety Agencies",
+      "keywords": [
+         "Organizational performance analysis",
+         "multi-dimensional data",
+         "hierarchical relationships",
+         "visual analytics"
+      ],
+      "authors": "Jieqiong Zhao;Morteza Karimzadeh;Luke S. Snyder;Chittayong Surakitbanharn;Zhenyu Cheryl Qian;David S. Ebert",
+      "conference": "VAST",
+      "year": 2019
+   },
+   {
+      "title": "VASABI: Hierarchical User Profiles for Interactive Visual User Behaviour Analytics",
+      "keywords": [
+         "hierarchical user profiles",
+         "user behaviour analytics",
+         "visual analytics",
+         "cybersecurity"
+      ],
+      "authors": "Phong H. Nguyen;Rafael Henkin;Siming Chen;Natalia Andrienko;Gennady Andrienko;Olivier Thonnard;Cagatay Turkay",
+      "conference": "VAST",
+      "year": 2019
+   },
+   {
+      "title": "Multi-Scale Procedural Animations of Microtubule Dynamics Based on Measured Data",
+      "keywords": [
+         "Procedural modeling",
+         "molecular visualization",
+         "animation",
+         "microtubules"
+      ],
+      "authors": "Tobias Klein;Ivan Viola;Eduard Gr√∂ller;Peter Mindek",
+      "conference": "SciVis",
+      "year": 2019
+   },
+   {
+      "title": "CloudDet: Interactive Visual Analysis of Anomalous Performances in Cloud Computing Systems",
+      "keywords": [
+         "Cloud computing",
+         "anomaly detection",
+         "multidimensional data",
+         "performance visualization",
+         "visual analytics"
+      ],
+      "authors": "Ke Xu;Yun Wang;Leni Yang;Yifang Wang;Bo Qiao;Si Qin;Yong Xu;Haidong Zhang;Huamin Qu",
+      "conference": "VAST",
+      "year": 2019
+   },
+   {
+      "title": "Interactive Learning for Identifying Relevant Tweets to Support Real-time Situational Awareness",
+      "keywords": [
+         "Interactive machine learning",
+         "human-computer interaction",
+         "social media analytics",
+         "emergency/disaster management",
+         "situational awareness"
+      ],
+      "authors": "Luke S. Snyder;Yi-Shan Lin;Morteza Karimzadeh;Dan Goldwasser;David S. Ebert",
+      "conference": "VAST",
+      "year": 2019
+   },
+   {
+      "title": "The What-If Tool: Interactive Probing of Machine Learning Models",
+      "keywords": [
+         "Interactive Machine Learning",
+         "Model Debugging",
+         "Model Comparison"
+      ],
+      "authors": "James Wexler;Mahima Pushkarna;Tolga Bolukbasi;Martin Wattenberg;Fernanda Vi√©gas;Jimbo Wilson",
+      "conference": "VAST",
+      "year": 2019
+   },
+   {
+      "title": "High-throughput feature extraction for measuring attributes of deforming open-cell foams",
+      "keywords": [
+         "Topological analysis",
+         "foam",
+         "features extraction",
+         "feature tracking"
+      ],
+      "authors": "Steve Petruzza;Attila Gyulassy;Samuel Leventhal;John J. Baglino;Michael Czabaj;Ashley D. Spear;Valerio Pascucci",
+      "conference": "SciVis",
+      "year": 2019
+   },
+   {
+      "title": "explAIner: A Visual Analytics Framework for Interactive and Explainable Machine Learning",
+      "keywords": [
+         "Explainable AI",
+         "Interactive Machine Learning",
+         "Deep Learning",
+         "Visual Analytics",
+         "Interpretability",
+         "Explainability"
+      ],
+      "authors": "Thilo Spinner;Udo Schlegel;Hanna Sch√§fer;Mennatallah El-Assady",
+      "conference": "VAST",
+      "year": 2019
+   },
+   {
+      "title": "Tac-Simur: Tactic-based Simulative Visual Analytics of Table Tennis",
+      "keywords": [
+         "Simulative Visual Analytics",
+         "Table Tennis",
+         "Design Study"
+      ],
+      "authors": "Jiachen Wang;Kejian Zhao;Dazhen Deng;Anqi Cao;Xiao Xie;Zheng Zhou;Hui Zhang;Yingcai Wu",
+      "conference": "VAST",
+      "year": 2019
+   },
+   {
+      "title": "Explaining Vulnerabilities to Adversarial Machine Learning through Visual Analytics",
+      "keywords": [
+         "Adversarial machine learning",
+         "data poisoning",
+         "visual analytics"
+      ],
+      "authors": "Yuxin Ma;Tiankai Xie;Jundong Li;Ross Maciejewski",
+      "conference": "VAST",
+      "year": 2019
+   },
+   {
+      "title": "Semantic Concept Spaces: Guided Topic Model Refinement using Word-Embedding Projections",
+      "keywords": [
+         "Topic Model Optimization",
+         "Word Embedding",
+         "Mixed-Initiative Refinement",
+         "Guided Visual Analytics",
+         "Semantic Mapping"
+      ],
+      "authors": "Mennatallah El-Assady;Rebecca Kehlbeck;Christopher Collins;Daniel Keim;Oliver Deussen",
+      "conference": "VAST",
+      "year": 2019
+   },
+   {
+      "title": "Visual Analytics for Electromagnetic Situation Awareness in Radio Monitoring and Management",
+      "keywords": [
+         "Radio monitoring and management",
+         "radio signal data",
+         "radio spectrum data",
+         "situation awareness",
+         "visual analytics"
+      ],
+      "authors": "Ying Zhao;Xiaobo Luo;Xiaoru Lin;Hairong Wang;Xiaoyan Kui;Fangfang Zhou;Jinsong Wang;Yi Chen;Wei Chen",
+      "conference": "VAST",
+      "year": 2019
+   },
+   {
+      "title": "EmoCo: Visual Analysis of Emotion Coherence in Presentation Videos",
+      "keywords": [
+         "Emotion",
+         "coherence",
+         "video analysis",
+         "visual analysis"
+      ],
+      "authors": "Haipeng Zeng;Xingbo Wang;Aoyu Wu;Yong Wang;Quan Li;Alex Endert;Huamin Qu",
+      "conference": "VAST",
+      "year": 2019
+   },
+   {
+      "title": "OD Morphing: Balancing Simplicity with Faithfulness for OD Bundling",
+      "keywords": [
+         "OD Visualization",
+         "Edge Bundling",
+         "Trajectory"
+      ],
+      "authors": "Yan Lyu;Xu Liu;Hanyi Chen;Arpan Mangal;Kai Liu;Chao Chen;Brian Lim",
+      "conference": "VAST",
+      "year": 2019
+   },
+   {
+      "title": "LightGuider: Guiding Interactive Lighting Design using Suggestions, Provenance, and Quality Visualization",
+      "keywords": [
+         "guidance",
+         "3D modeling",
+         "lighting design",
+         "provenance",
+         "global illumination"
+      ],
+      "authors": "Andreas Walch;Michael Schw√§rzler;Christian Luksch;Elmar Eisemann;Theresia Gschwandtner",
+      "conference": "VAST",
+      "year": 2019
+   },
+   {
+      "title": "Summit: Scaling Deep Learning Interpretability by Visualizing Activation and Attribution Summarizations",
+      "keywords": [
+         "Deep learning interpretability",
+         "visual analytics",
+         "scalable summarization",
+         "attribution graph"
+      ],
+      "authors": "Fred Hohman;Haekyu Park;Caleb Robinson;Duen Horng Polo Chau",
+      "conference": "VAST",
+      "year": 2019
+   },
+   {
+      "title": "sPortfolio: Stratified Visual Analysis of Stock Portfolios",
+      "keywords": [
+         "Stock portfolio",
+         "visual analytics",
+         "factor investment",
+         "financial data analysis"
+      ],
+      "authors": "Xuanwu Yue;Jiaxin Bai;Qinhan Liu;Yiyang Tang;Abishek Puri;Ke Li;Huamin Qu",
+      "conference": "VAST",
+      "year": 2019
+   },
+   {
+      "title": "Visual Analysis of High-Dimensional Event Sequence Data via Dynamic Hierarchical Aggregation",
+      "keywords": [
+         "Temporal event sequence visualization",
+         "visual analytics",
+         "hierarchical aggregation",
+         "medical informatics"
+      ],
+      "authors": "David Gotz;Jonathan Zhang;Wenyuan Wang;Joshua Shrestha;David Borland",
+      "conference": "VAST",
+      "year": 2019
+   },
+   {
+      "title": "You can't always sketch what you want: Understanding Sensemaking in Visual Query Systems",
+      "keywords": [
+         "Visual analytics",
+         "exploratory analysis",
+         "visual queries"
+      ],
+      "authors": "Doris Jung-Lin Lee;John Lee;Tarique Siddiqui;Jaewoo Kim;Karrie Karahalios;Aditya Parameswaran",
+      "conference": "VAST",
+      "year": 2019
+   },
+   {
+      "title": "Galex: Exploring the Evolution and Intersection of Disciplines",
+      "keywords": [
+         "Science evolution",
+         "science mapping",
+         "interdisciplinary",
+         "knowledge domain visualization",
+         "visual analysis"
+      ],
+      "authors": "Zeyu Li;Changhong Zhang;Shichao Jia;Jiawan Zhang",
+      "conference": "VAST",
+      "year": 2019
+   },
+   {
+      "title": "FlowSense: A Natural Language Interface for Visual Data Exploration within a Dataflow System",
+      "keywords": [
+         "Natural language interface",
+         "dataflow visualization system",
+         "visual data exploration"
+      ],
+      "authors": "Bowen Yu;Cl√°udio T. Silva",
+      "conference": "VAST",
+      "year": 2019
+   },
+   {
+      "title": "Exploranative Code Quality Documents",
+      "keywords": [
+         "Code quality",
+         "interactive documents",
+         "natural language generation",
+         "sparklines"
+      ],
+      "authors": "Haris Mumtaz;Shahid Latif;Fabian Beck;Daniel Weiskopf",
+      "conference": "VAST",
+      "year": 2019
+   },
+   {
+      "title": "AirVis: Visual Analytics of Air Pollution Propagation",
+      "keywords": [
+         "Air pollution propagation",
+         "pattern mining",
+         "graph visualization"
+      ],
+      "authors": "Zikun Deng;Di Weng;Jiahui Chen;Ren Liu;Zhibin Wang;Jie Bao;Yu Zheng;Yingcai Wu",
+      "conference": "VAST",
+      "year": 2019
+   },
+   {
+      "title": "A Natural-language-based Visual Query Approach of Uncertain Human Trajectories",
+      "keywords": [
+         "Natural-language-based Visual Query",
+         "Spatial Uncertaity",
+         "Trajectory Exploration"
+      ],
+      "authors": "Zhaosong Huang;Ye Zhao;Wei Chen;Shengjie Gao;Kejie Yu;Weixia Xu;Mingjie Tang;Minfeng Zhu;Mingliang Xu",
+      "conference": "VAST",
+      "year": 2019
+   },
+   {
+      "title": "ShapeWordle: Tailoring Wordles using Shape-aware Archimedean Spirals",
+      "keywords": [
+         "Wordle",
+         "Archimedean spiral",
+         "shape"
+      ],
+      "authors": "Yunhai Wang;Xiaowei Chu;Kaiyi Zhang;Chen Bao;Xiaotong Li;Jian Zhang;Chi-Wing Fu;Christophe Hurter;Oliver Deussen;Bongshin Lee",
+      "conference": "InfoVis",
+      "year": 2019
+   },
+   {
+      "title": "A Comparison of Radial and Linear Charts for Visualizing Daily Patterns",
+      "keywords": [
+         "Radial charts",
+         "time series series data",
+         "daily patterns",
+         "crowd-sourced experiment"
+      ],
+      "authors": "Manuela Waldner;Alexandra Diehl;Denis Graƒçanin;Rainer Splechtna;Claudio Delrieux;Kre≈°imir Matkoviƒá",
+      "conference": "InfoVis",
+      "year": 2019
+   },
+   {
+      "title": "Text-to-Viz: Automatic Generation of Infographics from Proportion-Related Natural Language Statements",
+      "keywords": [
+         "Visualization for the masses",
+         "infographic",
+         "automatic visualization",
+         "presentation",
+         "and dissemination"
+      ],
+      "authors": "Weiwei Cui;Xiaoyu Zhang;Yun Wang;He Huang;Bei Chen;Lei Fang;Haidong Zhang;Jian-Guan Lou;Dongmei Zhang",
+      "conference": "InfoVis",
+      "year": 2019
+   },
+   {
+      "title": "The Perceptual Proxies of Visual Comparison",
+      "keywords": [
+         "Graphical perception",
+         "visual perception",
+         "visual comparison",
+         "crowdsourced evaluation"
+      ],
+      "authors": "Nicole Jardine;Brian D. Ondov;Niklas Elmqvist;Steven Franconeri",
+      "conference": "InfoVis",
+      "year": 2019
+   },
+   {
+      "title": "Data by Proxy ‚Äî Material Traces as Autographic Visualizations",
+      "keywords": [
+         "Traces",
+         "indexicality",
+         "data physicalization",
+         "proxy data sources",
+         "data materiality"
+      ],
+      "authors": "Dietmar Offenhuber",
+      "conference": "InfoVis",
+      "year": 2019
+   },
+   {
+      "title": "Design by Immersion: A Transdisciplinary Approach to Problem-Driven Visualizations",
+      "keywords": [
+         "Visualization",
+         "problem-driven",
+         "design studies",
+         "collaboration",
+         "methodology",
+         "framework"
+      ],
+      "authors": "Kyle Wm. Hall;Adam J. Bradley;Uta Hinrichs;Samuel Huron;Jo Wood;Christopher Collins;Sheelagh Carpendale",
+      "conference": "InfoVis",
+      "year": 2019
+   },
+   {
+      "title": "Improving the Robustness of Scagnostics",
+      "keywords": [
+         "Scagnostics",
+         "scatterplots",
+         "sensitivity analysis",
+         "Robust Scagnostics"
+      ],
+      "authors": "Yunhai Wang;Zeyu Wang;Tingting Liu;Michael Correll;Zhanglin Cheng;Oliver Deussen;Michael Sedlmair",
+      "conference": "InfoVis",
+      "year": 2019
+   },
+   {
+      "title": "VisTA: Integrating Machine Intelligence with Visualization to Support the Investigation of Think-Aloud Sessions",
+      "keywords": [
+         "Think-aloud",
+         "visual analytics",
+         "machine intelligence",
+         "user study",
+         "usability problems",
+         "session review behavior",
+         "UX practices"
+      ],
+      "authors": "Mingming Fan;Ke Wu;Jian Zhao;Yue Li;Winter Wei;Khai N. Truong",
+      "conference": "InfoVis",
+      "year": 2019
+   },
+   {
+      "title": "DeepDrawing: A Deep Learning Approach to Graph Drawing",
+      "keywords": [
+         "Graph Drawing",
+         "Deep Learning",
+         "LSTM",
+         "Procrustes Analysis"
+      ],
+      "authors": "Yong Wang;Zhihua Jin;Qianwen Wang;Weiwei Cui;Tengfei Ma;Huamin Qu",
+      "conference": "InfoVis",
+      "year": 2019
+   },
+   {
+      "title": "Data Sampling in Multi-view and Multi-class Scatterplots via Set Cover Optimization",
+      "keywords": [
+         "Sampling",
+         "Scatterplot",
+         "SPLOM",
+         "Exact Cover Problem"
+      ],
+      "authors": "Ruizhen Hu;Tingkai Sha;Oliver Van Kaick;Oliver Deussen;Hui Huang",
+      "conference": "InfoVis",
+      "year": 2019
+   },
+   {
+      "title": "RSATree: Distribution-Aware Data Representation of Large-Scale Tabular Datasets for Flexible Visual Query",
+      "keywords": [
+         "Aggregate query",
+         "visual query",
+         "large-scale data visualization",
+         "R-tree",
+         "summed area table",
+         "hashing"
+      ],
+      "authors": "Honghui Mei;Wei Chen;Yating Wei;Yuanzhe Hu;Shuyue Zhou;Bingru Lin;Ying Zhao;Jiazhi Xia",
+      "conference": "InfoVis",
+      "year": 2019
+   },
+   {
+      "title": "Measures of the Benefit of Direct Encoding of Data Deltas for Data Pair Relation Perception",
+      "keywords": [
+         "Information visualization",
+         "marks",
+         "perception",
+         "attention",
+         "visual comparison",
+         "visual search",
+         "aggregation"
+      ],
+      "authors": "Christine Nothelfer;Steven Franconeri",
+      "conference": "InfoVis",
+      "year": 2019
+   },
+   {
+      "title": "Persistent Homology Guided Force-Directed Graph Layouts",
+      "keywords": [
+         "Graph drawing",
+         "force-directed layout",
+         "Topological Data Analysis",
+         "persistent homology"
+      ],
+      "authors": "Ashley Suh;Mustafa Hajij;Bei Wang;Carlos Scheidegger;Paul Rosen",
+      "conference": "InfoVis",
+      "year": 2019
+   },
+   {
+      "title": "There Is No Spoon: Evaluating Performance, Space Use, and Presence with Expert Domain Users in Immersive Analytics",
+      "keywords": [
+         "Design study",
+         "evaluation",
+         "economic analysis",
+         "immersive analytics"
+      ],
+      "authors": "Andrea Batch;Andrew Cunningham;Maxime Cordeil;Niklas Elmqvist;Tim Dwyer;Bruce H. Thomas;Kim Marriott",
+      "conference": "InfoVis",
+      "year": 2019
+   },
+   {
+      "title": "Construct-A-Vis: Exploring the Free-Form Visualization Processes of Children",
+      "keywords": [
+         "Visualization in Education",
+         "Visualization with Children",
+         "Qualitative Evaluation",
+         "Visualization System and Toolkit Design"
+      ],
+      "authors": "Fearn Bishop;Johannes Zagermann;Ulrike Pfeil;Gemma Sanderson;Harald Reiterer;Uta Hinrichs",
+      "conference": "InfoVis",
+      "year": 2019
+   },
+   {
+      "title": "Interactive Structure-aware Blending of Diverse Edge Bundling Visualizations",
+      "keywords": [
+         "path visualization",
+         "trajectory visualization",
+         "edge bundles"
+      ],
+      "authors": "Yunhai Wang;Mingliang Xue;Yanyan Wang;Xinyuan Yan;Baoquan Chen;Chi-Wing Fu;Christophe Hurter",
+      "conference": "InfoVis",
+      "year": 2019
+   },
+   {
+      "title": "GenerativeMap: Visualization and Exploration of Dynamic Density Maps via Generative Learning Model",
+      "keywords": [
+         "Density map",
+         "deep learning",
+         "spatiotemporal data",
+         "generative model"
+      ],
+      "authors": "Chen Chen;Changbo Wang;Xue Bai;Peiying Zhang;Chenhui Li",
+      "conference": "InfoVis",
+      "year": 2019
+   },
+   {
+      "title": "A Comparison of Visualizations for Identifying Correlation over Space and Time",
+      "keywords": [
+         "geo-temporal data",
+         "bivariate maps",
+         "correlation",
+         "controlled study",
+         "bar chart",
+         "Dorling cartogram",
+         "small multiples"
+      ],
+      "authors": "Vanessa Pe√±a-Araya;Emmanuel Pietriga;Anastasia Bezerianos",
+      "conference": "InfoVis",
+      "year": 2019
+   },
+   {
+      "title": "Towards Automated Infographic Design: Deep Learning-based Auto-Extraction of Extensible Timeline",
+      "keywords": [
+         "Automated Infographic Design",
+         "Deep Learning-based Approach",
+         "Timeline Infographics",
+         "Multi-task Model"
+      ],
+      "authors": "Zhutian Chen;Yun Wang;Qianwen Wang;Yong Wang;Huamin Qu",
+      "conference": "InfoVis",
+      "year": 2019
+   },
+   {
+      "title": "Winglets: Visualizing Association with Uncertainty in Multi-class Scatterplots",
+      "keywords": [
+         "Scatterplot",
+         "Gestalt laws",
+         "Association",
+         "Uncertainty"
+      ],
+      "authors": "Min Lu;Shuaiqi Wang;Joel Lanir;Noa Fish;Yang Yue;Daniel Cohen-Or;Hui Huang",
+      "conference": "InfoVis",
+      "year": 2019
+   },
+   {
+      "title": "Uncertainty-Aware Principal Component Analysis",
+      "keywords": [
+         "Uncertainty",
+         "dimensionality reduction",
+         "principal component analysis",
+         "linear projection",
+         "machine learning"
+      ],
+      "authors": "Jochen G√∂rtler;Thilo Spinner;Dirk Streeb;Daniel Weiskopf;Oliver Deussen",
+      "conference": "InfoVis",
+      "year": 2019
+   },
+   {
+      "title": "Origraph: Interactive Network Wrangling",
+      "keywords": [
+         "Graph visualization",
+         "Data abstraction",
+         "Data wrangling",
+         "Human-centered computing [Information visualization], [Human - centered computing]: Visualization systems and tools ",
+         "Information systems [Graph-based database models]"
+      ],
+      "authors": "Alex Bigelow;Carolina Nobre;Miriah Meyer;Alexander Lex",
+      "conference": "VAST",
+      "year": 2019
+   },
+   {
+      "title": "VIANA: Visual Interactive Annotation of Argumentation",
+      "keywords": [
+         "Argumentation annotation",
+         "machine learning",
+         "user interaction",
+         "layered interfaces",
+         "semantic transitions"
+      ],
+      "authors": "Fabian Sperrle;Rita Sevastjanova;Rebecca Kehlbeck;Mennatallah El-Assady",
+      "conference": "VAST",
+      "year": 2019
+   },
+   {
+      "title": "Do What I Mean, Not What I Say! Design Considerations for Supporting Intent and Context in Analytical Conversation",
+      "keywords": [
+         "Visualization",
+         "Empirical studies in visualization",
+         "Human-centered computing",
+         "Interaction paradigms",
+         "Natural language interfaces"
+      ],
+      "authors": "Melanie Tory;Vidya Setlur",
+      "conference": "VAST",
+      "year": 2019
+   },
+   {
+      "title": "TopicSifter: Interactive Search Space Reduction through Targeted Topic Modeling",
+      "keywords": [
+         "Human-centered computing",
+         "Visualization",
+         "Visualization application domains",
+         "Visual analytics",
+         "Information systems",
+         "Information retrieval",
+         "Users and interactive retrieval",
+         "Search interfaces"
+      ],
+      "authors": "Hannah Kim;Dongjin Choi;Barry Drake;Alex Endert;Haesun Park",
+      "conference": "VAST",
+      "year": 2019
+   },
+   {
+      "title": "ICE: An Interactive Configuration Explorer for High Dimensional Categorical Parameter Spaces",
+      "keywords": [
+         "Data Clustering",
+         "Illustrative Visualization",
+         "User Interfaces",
+         "High Dimensional Data"
+      ],
+      "authors": "Anjul Tyagi;Zhen Cao;Tyler Estro;Erez Zadok;Klaus Mueller",
+      "conference": "VAST",
+      "year": 2019
+   },
+   {
+      "title": "Influence Flowers of Academic Entities",
+      "keywords": [
+         "Human-centered computing",
+         "Visualization",
+         "Visualisation application domains",
+         "Visual analytics",
+         "Visualization systems and tools",
+         "Empirical studies in visualization"
+      ],
+      "authors": "Minjeong Shin;Alexander Soen;Benjamin T. Readshaw;Stephen M. Blackburn;Mitchell Whitelaw;Lexing Xie",
+      "conference": "VAST",
+      "year": 2019
+   },
+   {
+      "title": "FDive: Learning Relevance Models Using Pattern-based Similarity Measures",
+      "keywords": [
+         "Visual analytics",
+         "similarity measure selection",
+         "relevance feedback",
+         "active learning",
+         "self-organizing maps"
+      ],
+      "authors": "Frederik L. Dennig;Tom Polk;Zudi Lin;Tobias Schreck;Hanspeter Pfister;Michael Behrisch",
+      "conference": "VAST",
+      "year": 2019
+   },
+   {
+      "title": "Interactive Correction of Mislabeled Training Data",
+      "keywords": [
+         "Labeled data debugging",
+         "trusted item",
+         "tSNE"
+      ],
+      "authors": "Shouxing Xiang;Xi Ye;Jiazhi Xia;Jing Wu;Yang Chen;Shixia Liu",
+      "conference": "VAST",
+      "year": 2019
+   },
+   {
+      "title": "FAIRVIS: Visual Analytics for Discovering Intersectional Bias in Machine Learning",
+      "keywords": [
+         "Machine learning fairness",
+         "visual analytics",
+         "intersectional bias",
+         "subgroup discovery"
+      ],
+      "authors": "√Ångel Alexander Cabrera;Will Epperson;Fred Hohman;Minsuk Kahng;Jamie Morgenstern;Duen Horng Chau",
+      "conference": "VAST",
+      "year": 2019
+   },
+   {
+      "title": "VUSphere: Visual Analysis of Video Utilization in Online Distance Education",
+      "keywords": [
+         "Video utilization pattern",
+         "online distance education",
+         "visual analytics"
+      ],
+      "authors": "Huan He;Oinghua Zheng;Bo Dong",
+      "conference": "VAST",
+      "year": 2018
+   },
+   {
+      "title": "Segue: Overviewing Evolution Patterns of Egocentric Networks by Interactive Construction of Spatial Layouts",
+      "keywords": [
+         "Human-centered computing",
+         "Visualization",
+         "Visualization techniques",
+         "Graph drawings"
+      ],
+      "authors": "Po-Ming Law;Yanhong Wu;Rahul C. Basole",
+      "conference": "VAST",
+      "year": 2018
+   },
+   {
+      "title": "The Effect of Semantic Interaction on Foraging in Text Analysis",
+      "keywords": [
+         "Human-centered computing",
+         "Visualization",
+         "Empirical studies in visualization",
+         "Human-centered computing",
+         "Visualization",
+         "Visual analytics"
+      ],
+      "authors": "John Wenskovitch;Lauren Bradel;Michelle Dowling;Leanna House;Chris North",
+      "conference": "VAST",
+      "year": 2018
+   },
+   {
+      "title": "The Effect of Proximity in Social Data Charts on Perceived Unity",
+      "keywords": [
+         "Social visualization",
+         "information visualization",
+         "Human-centered computing",
+         "Empirical studies in HCI",
+         "Displays and imagers",
+         "Social engineering (social sciences)",
+         "Visualization theory",
+         " concepts and paradigms",
+         "Gestalt theory",
+         "controlled experiment",
+         "data density",
+         "data spread",
+         "perception",
+         "group identity",
+         "unity",
+         "priming"
+      ],
+      "authors": "Marlen Promann;Sabine Brunswicker",
+      "conference": "VAST",
+      "year": 2018
+   },
+   {
+      "title": "EmbeddingVis: A Visual Analytics Approach to Comparative Network Embedding Inspection",
+      "keywords": [
+         "Human-centered computing",
+         "Visualization",
+         "Visualization application domains",
+         "Visual analytics",
+         "Human-centered computing",
+         "Visualization",
+         "Visualization design and evaluation methods"
+      ],
+      "authors": "Quan Li;Kristanto Sean Njotoprawiro;Hammad Haleem;Qiaoan Chen;Chris Yi;Xiaojuan Ma",
+      "conference": "VAST",
+      "year": 2018
+   },
+   {
+      "title": "SMARTexplore: Simplifying High-Dimensional Data Analysis through a Table-Based Visual Analytics Approach",
+      "keywords": [
+         "High-dimensional data",
+         "visual exploration",
+         "pattern-driven analysis",
+         "tabular visualization",
+         "subspace",
+         "aggregation"
+      ],
+      "authors": "Michael Blumenschein;Michael Behrisch;Stefanie Schmid;Simon Butscher;Deborah R. Wahl;Karoline Villinger;Britta Renner;Harald Reiterer;Daniel A. Keim",
+      "conference": "VAST",
+      "year": 2018
+   },
+   {
+      "title": "Analyzing the Noise Robustness of Deep Neural Networks",
+      "keywords": [
+         "Deep neural networks",
+         "robustness",
+         "adversarial examples",
+         "back propagation",
+         "multi-level visualization."
+      ],
+      "authors": "Mengchen Liu;Shixia Liu;Hang Su;Kelei Cao;Jun Zhu",
+      "conference": "VAST",
+      "year": 2018
+   }
 ]
