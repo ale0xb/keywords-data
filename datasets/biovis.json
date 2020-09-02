@@ -1,0 +1,1205 @@
+[
+  {
+    "key":"CB5BCTAP",
+    "publication_name":"BMC Bioinformatics",
+    "year":2014,
+    "author_names":"Günter Jäger;Alexander Peltzer;Kay Nieselt",
+    "affiliations":"Universität Tübingen",
+    "title":"InPHAP: Interactive visualization of genotype and phased haplotype data",
+    "author_keywords":[
+      "1000 genomes project",
+      "Genotype data",
+      "Interactive visualization",
+      "Phased haplotype data"
+    ],
+    "abstract":"Background: To understand individual genomes it is necessary to look at the variations that lead to changes in phenotype and possibly to disease. However, genotype information alone is often not sufficient and additional knowledge regarding the phase of the variation is needed to make correct interpretations. Interactive visualizations, that allow the user to explore the data in various ways, can be of great assistance in the process of making well informed decisions. But, currently there is a lack for visualizations that are able to deal with phased haplotype data.Results: We present inPHAP, an interactive visualization tool for genotype and phased haplotype data. inPHAP features a variety of interaction possibilities such as zooming, sorting, filtering and aggregation of rows in order to explore patterns hidden in large genetic data sets. As a proof of concept, we apply inPHAP to the phased haplotype data set of Phase 1 of the 1000 Genomes Project. Thereby, inPHAP's ability to show genetic variations on the population as well as on the individuals level is demonstrated for several disease related loci.Conclusions: As of today, inPHAP is the only visual analytical tool that allows the user to explore unphased and phased haplotype data interactively. Due to its highly scalable design, inPHAP can be applied to large datasets with up to 100 GB of data, enabling users to visualize even large scale input data. inPHAP closes the gap between common visualization tools for unphased genotype data and introduces several new features, such as the visualization of phased data. inPHAP is available for download at http:\/\/bit.ly\/1iJgKmX. © 2014 Jäger et al.; licensee BioMed Central Ltd.",
+    "doi":"10.1186\/1471-2105-15-200",
+    "outer_cite_count":5.0
+  },
+  {
+    "key":"MYNC2HWJ",
+    "publication_name":"BMC Bioinformatics",
+    "year":2017,
+    "author_names":"Rensu P. Theart;Ben Loos;Thomas R. Niesler",
+    "affiliations":"Stellenbosch University",
+    "title":"Virtual reality assisted microscopy data visualization and colocalization analysis",
+    "author_keywords":[
+      "3D Microscopic reconstruction",
+      "Colocalization analysis",
+      "Confocal microscopy visualization",
+      "Hand tracking",
+      "Region of interest selection",
+      "Virtual reality",
+      "Volume rendering"
+    ],
+    "abstract":"© 2017 The Author(s). Background: Confocal microscopes deliver detailed three-dimensional data and are instrumental in biological analysis and research. Usually, this three-dimensional data is rendered as a projection onto a two-dimensional display. We describe a system for rendering such data using a modern virtual reality (VR) headset. Sample manipulation is possible by fully-immersive hand-tracking and also by means of a conventional gamepad. We apply this system to the specific task of colocalization analysis, an important analysis tool in biological microscopy. We evaluate our system by means of a set of user trials. Results: The user trials show that, despite inaccuracies which still plague the hand tracking, this is the most productive and intuitive interface. The inaccuracies nevertheless lead to a perception among users that productivity is low, resulting in a subjective preference for the gamepad. Fully-immersive manipulation was shown to be particularly effective when defining a region of interest (ROI) for colocalization analysis. Conclusions: Virtual reality offers an attractive and powerful means of visualization for microscopy data. Fully immersive interfaces using hand tracking show the highest levels of intuitiveness and consequent productivity. However, current inaccuracies in hand tracking performance still lead to a disproportionately critical user perception.",
+    "doi":"10.1186\/s12859-016-1446-2",
+    "outer_cite_count":11.0
+  },
+  {
+    "key":"XI6X6RE7",
+    "publication_name":"BioVis 2013 - IEEE Symposium on Biological Data Visualization 2013, Proceedings",
+    "year":2013,
+    "author_names":"Do Young Park;Desiree Jones;Nicanor I. Moldovan;Raghu Machiraju;Thierry Pécot",
+    "affiliations":"Dorothy M. Davis Heart and Lung Research Institute;The Ohio State University",
+    "title":"Robust detection and visualization of cytoskeletal structures in fibrillar scaffolds from 3-dimensional confocal image",
+    "author_keywords":[
+      "Actin",
+      "CAB",
+      "Energy",
+      "Fitting",
+      "Scaffold",
+      "Template",
+      "Tracking",
+      "Visualization"
+    ],
+    "abstract":"Polymerized actin-based cytoskeletal structures provide the cells with shape, resilience and dynamics. A mechanistic understanding of actin-based structures is crucial for finding solutions to practical problems occurring in tissue engineering constructs that require the interaction of cells with materials. In this regard, the first step is to detect and quantify actin-based structures in 3D cellular ensembles. In this work, we propose visual-analytic tools to delineate specific structures involving F-actin in cells. Concave actin bundles (CABs) often occur in hybrid cell-seeded fibrillar scaffolds and seem to envelope the fibers, as a possible mechanism of stable attachment. There is much uncertainty that accompanies the detection and the identification of fibers. Our tools rely on well-known algorithms of image analysis. We first delineate fibers by employing an adaptive min-cut-max-flow algorithm. Then, from the extremities of the segmented fibers, a template matching and a fiber tracking algorithm is applied to more precisely characterize the fibers in the image. CABs that surround the scaffold fibers transversally are located by observing their radial distribution around the nearby templates in focus. Finally, we visually examine candidate templates that possibly contain CABs and further determine if candidate CABs are indeed legitimate. It can be unequivocally stated that in the absence of the proposed visual analytic tools, the detection of CABs is intractable tasks. © 2013 IEEE.",
+    "doi":"10.1109\/BioVis.2013.6664343",
+    "outer_cite_count":2.0
+  },
+  {
+    "key":"5LH2L2V4",
+    "publication_name":"IEEE Symposium on Biological Data Visualization 2012, BioVis 2012 - Proceedings",
+    "year":2012,
+    "author_names":"Paul Craig;Alan Cannon;Robert Kukla;Jessie Kennedy",
+    "affiliations":"Edinburgh Napier University;Universidad Technológica de la Mixteca",
+    "title":"MaTSE: The microarray time-series explorer",
+    "author_keywords":[
+      "animation",
+      "bioinformatics",
+      "Information visualization",
+      "microarray",
+      "timeseries"
+    ],
+    "abstract":"This paper describes the design, development and evaluation of the Microarray Time-Series Explorer (MaTSE), a novel information visualization application for the exploratory analysis of large scale microarray timeseries data. The software combines a variety of visualization and interaction techniques, which work together to allow biologists to explore their data and reveal patterns that would otherwise be impossible to find. These include a scatter-plot that can be animated to view different temporal intervals of the data, a multiple coordinated view framework to support the cross reference of multiple experimental conditions, a novel method for highlighting overlapping groups in the scatter-plot, and a pattern browser component that can be used with scatterplot box queries to support cooperative visualization. © 2012 IEEE.",
+    "doi":"10.1109\/BioVis.2012.6378591",
+    "outer_cite_count":3.0
+  },
+  {
+    "key":"46CMJKJ7",
+    "publication_name":"BMC Bioinformatics",
+    "year":2014,
+    "author_names":"Shawn M. Waldon;Peter M. Thompson;Patrick J. Hahn;Russell M. Taylor",
+    "affiliations":"The University of North Carolina at Chapel Hill",
+    "title":"SketchBio: A scientist's 3D interface for molecular modeling and animation",
+    "author_keywords":[
+      "Animation",
+      "Collision detection",
+      "Molecular modelling"
+    ],
+    "abstract":"© 2014 Waldon et al. Background: Because of the difficulties involved in learning and using 3D modeling and rendering software, many scientists hire programmers or animators to create models and animations. This both slows the discovery process and provides opportunities for miscommunication. Working with multiple collaborators, a tool was developed (based on a set of design goals) to enable them to directly construct models and animations. Results: SketchBio is presented, a tool that incorporates state-of-the-art bimanual interaction and drop shadows to enable rapid construction of molecular structures and animations. It includes three novel features: crystal-by-example, pose-mode physics, and spring-based layout that accelerate operations common in the formation of molecular models. Design decisions and their consequences are presented, including cases where iterative design was required to produce effective approaches. Conclusions: The design decisions, novel features, and inclusion of state-of-the-art techniques enabled SketchBio to meet all of its design goals. These features and decisions can be incorporated into existing and new tools to improve their effectiveness.",
+    "doi":"10.1186\/1471-2105-15-334",
+    "outer_cite_count":9.0
+  },
+  {
+    "key":"YXMHJTQM",
+    "publication_name":"IEEE Symposium on Biological Data Visualization 2012, BioVis 2012 - Proceedings",
+    "year":2012,
+    "author_names":"Sabrina A. Silveira;Artur O. Rodrigues;Raquel C. De Melo-Minardi;Carlos Henrique Da Silveira;Wagner Meira",
+    "affiliations":"Universidade Federal de Minas Gerais;Universidade Federal de Itajuba",
+    "title":"ADVISe: Visualizing the dynamics of enzyme annotations in UniProt\/Swiss-Prot",
+    "author_keywords":[
+      "Annotation",
+      "Bioinformatics",
+      "Database dynamics",
+      "EC number",
+      "Enzymes",
+      "Information visualization",
+      "Processing",
+      "SwissProt",
+      "UniProt"
+    ],
+    "abstract":"In this paper, we propose an interactive visualization called ADVISe (Annotation Dynamics Visualization), which tackles the problem of visualizing evolutions in enzyme annotations across several releases of the UniProt\/SwissProt database. More specifically, we visualize the dynamics of Enzyme Commission numbers (EC numbers), which are a numerical and hierarchical classification scheme for enzymes based on the chemical reactions they catalyze. An EC number consists of four numbers separated by periods and represents a progressively finer classification of the catalyzed reaction. The proposed interactive visualization gives a macro view of the changes and presents further details on demand, such as frequencies of change types segmented by levels of generalization and specialization as well as by enzyme families. Users can also explore entry metadata. With this tool, we were able to identify trends of specialization, database growth and exceptions in which EC numbers were deleted, divided or created and revisions of past annotation errors. © 2012 IEEE.",
+    "doi":"10.1109\/BioVis.2012.6378592",
+    "outer_cite_count":6.0
+  },
+  {
+    "key":"DZTWQX5X",
+    "publication_name":"BMC Bioinformatics",
+    "year":2018,
+    "author_names":"Hani Z. Girgis;Alfredo Velasco;Zachary E. Reyes",
+    "affiliations":"The University of Tulsa",
+    "title":"HebbPlot: An intelligent tool for learning and visualizing chromatin mark signatures",
+    "author_keywords":[
+      "Artificial neural networks",
+      "Associative learning",
+      "Chromatin modifications",
+      "Epigenetic signatures",
+      "Hebbian learning",
+      "Histone marks",
+      "Visualization"
+    ],
+    "abstract":"© 2018 The Author(s). Background: Histone modifications play important roles in gene regulation, heredity, imprinting, and many human diseases. The histone code is complex and consists of more than 100 marks. Therefore, biologists need computational tools to characterize general signatures representing the distributions of tens of chromatin marks around thousands of regions. Results: To this end, we developed a software tool, HebbPlot, which utilizes a Hebbian neural network in learning a general chromatin signature from regions with a common function. Hebbian networks can learn the associations between tens of marks and thousands of regions. HebbPlot presents a signature as a digital image, which can be easily interpreted. Moreover, signatures produced by HebbPlot can be compared quantitatively. We validated HebbPlot in six case studies. The results of these case studies are novel or validating results already reported in the literature, indicating the accuracy of HebbPlot. Our results indicate that promoters have a directional chromatin signature; several marks tend to stretch downstream or upstream. H3K4me3 and H3K79me2 have clear directional distributions around active promoters. In addition, the signatures of high- and low-CpG promoters are different; H3K4me3, H3K9ac, and H3K27ac are the most different marks. When we studied the signatures of enhancers active in eight tissues, we observed that these signatures are similar, but not identical. Further, we identified some histone modifications - H3K36me3, H3K79me1, H3K79me2, and H4K8ac - that are associated with coding regions of active genes. Other marks - H4K12ac, H3K14ac, H3K27me3, and H2AK5ac - were found to be weakly associated with coding regions of inactive genes. Conclusions: This study resulted in a novel software tool, HebbPlot, for learning and visualizing the chromatin signature of a genetic element. Using HebbPlot, we produced a visual catalog of the signatures of multiple genetic elements in 57 cell types available through the Roadmap Epigenomics Project. Furthermore, we made a progress toward a functional catalog consisting of 22 histone marks. In sum, HebbPlot is applicable to a wide array of studies, facilitating the deciphering of the histone code.",
+    "doi":"10.1186\/s12859-018-2312-1",
+    "outer_cite_count":1.0
+  },
+  {
+    "key":"3PIXQLRT",
+    "publication_name":"BMC Bioinformatics",
+    "year":2017,
+    "author_names":"Lan Huong Nguyen;Susan Holmes",
+    "affiliations":"Stanford University",
+    "title":"Bayesian unidimensional scaling for visualizing uncertainty in high dimensional datasets with latent ordering of observations",
+    "author_keywords":[
+      "Bayesian model",
+      "Dimensionality reduction",
+      "Microbiome",
+      "Ordering",
+      "Pseudotime",
+      "Single cell",
+      "Uncertainty"
+    ],
+    "abstract":"© 2017 The Author(s). Background: Detecting patterns in high-dimensional multivariate datasets is non-trivial. Clustering and dimensionality reduction techniques often help in discerning inherent structures. In biological datasets such as microbial community composition or gene expression data, observations can be generated from a continuous process, often unknown. Estimating data points' 'natural ordering' and their corresponding uncertainties can help researchers draw insights about the mechanisms involved. Results: We introduce a Bayesian Unidimensional Scaling (BUDS) technique which extracts dominant sources of variation in high dimensional datasets and produces their visual data summaries, facilitating the exploration of a hidden continuum. The method maps multivariate data points to latent one-dimensional coordinates along their underlying trajectory, and provides estimated uncertainty bounds. By statistically modeling dissimilarities and applying a DiSTATIS registration method to their posterior samples, we are able to incorporate visualizations of uncertainties in the estimated data trajectory across different regions using confidence contours for individual data points. We also illustrate the estimated overall data density across different areas by including density clouds. One-dimensional coordinates recovered by BUDS help researchers discover sample attributes or covariates that are factors driving the main variability in a dataset. We demonstrated usefulness and accuracy of BUDS on a set of published microbiome 16S and RNA-seq and roll call data. Conclusions: Our method effectively recovers and visualizes natural orderings present in datasets. Automatic visualization tools for data exploration and analysis are available at: https:\/\/nlhuong.shinyapps.io\/visTrajectory\/.",
+    "doi":"10.1186\/s12859-017-1790-x",
+    "outer_cite_count":2.0
+  },
+  {
+    "key":"KRK9NWAW",
+    "publication_name":"BMC Proceedings",
+    "year":2015,
+    "author_names":"Tuan Nhon Dang;Paul Murray;Angus Graeme Forbes",
+    "affiliations":"University of Illinois at Chicago",
+    "title":"PathwayMatrix: Visualizing binary relationships between proteins in biological pathways",
+    "author_keywords":[
+      "Binary Relationships",
+      "Biological networks",
+      "Matrix visualization",
+      "Pathway visualization"
+    ],
+    "abstract":"© 2015 Dang et al. Background: Molecular activation pathways are inherently complex, and understanding relations across many biochemical reactions and reaction types is difficult. Visualizing and analyzing a pathway is a challenge due to the network size and the diversity of relations between proteins and molecules. Results: In this paper, we introduce PathwayMatrix, a visualization tool that presents the binary relations between proteins in the pathway via the use of an interactive adjacency matrix. We provide filtering, lensing, clustering, and brushing and linking capabilities in order to present relevant details about proteins within a pathway. Conclusions: We evaluated PathwayMatrix by conducting a series of in-depth interviews with domain experts who provided positive feedback, leading us to believe that our visualization technique could be helpful for the larger community of researchers utilizing pathway visualizations. PathwayMatrix is freely available at https:\/\/github.com\/CreativeCodingLab\/PathwayMatrix.",
+    "doi":"10.1186\/1753-6561-9-S6-S3",
+    "outer_cite_count":12.0
+  },
+  {
+    "key":"G4B52AAU",
+    "publication_name":"BioVis 2013 - IEEE Symposium on Biological Data Visualization 2013, Proceedings",
+    "year":2013,
+    "author_names":"Orit Shaer;Consuelo Valdes;Sirui Liu;Kara Lu;Traci L. Haddock;Swapnil Bhatia;Douglas Densmore;Robert Kincaid",
+    "affiliations":"Agilent Technologies;Boston University;Wellesley College",
+    "title":"MoClo planner: Interactive visualization for Modular Cloning bio-design",
+    "author_keywords":[
+      "Bio-design",
+      "Modular Cloning",
+      "Synthetic biology"
+    ],
+    "abstract":"MoClo Planner is an interactive visualization system for collaborative bio-design, utilizing a multi-touch interactive surface. The system integrates the information gathering, design, and specification of complex synthetic biological constructs using the Modular Cloning (MoClo) assembly method. Modular Cloning is a hierarchical DNA construction method that allows for the assembly of multi-part constructs from a library of biological parts in a one-pot reaction. This cutting-edge method facilitates and expedites the assembly of complex biological designs. However, it is an intricate multi-step process, which to date, has not been adequately supported by existing bio-design tools. Novel visual tools are needed in order to make MoClo more tractable and accessible to a broad range of users, to facilitate a less error prone bio-design process, and to improve workflow. MoClo Planner is a result of a participatory and user-centered design process, which included close collaboration with domain experts. Using multi-touch interactions and a rich graphical interface, the system accelerates the MoClo learning process, and reduces design time and errors. In this paper, we present user requirements and describe the design, implementation, and evaluation of MoClo Planner. © 2013 IEEE.",
+    "doi":"10.1109\/BioVis.2013.6664347",
+    "outer_cite_count":2.0
+  },
+  {
+    "key":"GXR2HDG5",
+    "publication_name":"IEEE Symposium on Biological Data Visualization 2012, BioVis 2012 - Proceedings",
+    "year":2012,
+    "author_names":"Corinna Vehlow;Jan Hasenauer;Andrei Kramer;Julian Heinrich;Nicole Radde;Frank Allgöwer;Daniel Weiskopf",
+    "affiliations":"Universität Stuttgart",
+    "title":"Uncertainty-aware visual analysis of biochemical reaction networks",
+    "author_keywords":[
+      "biochemical reaction networks",
+      "Network visualization",
+      "uncertainty visualization"
+    ],
+    "abstract":"We present a visual analytics system that supports an uncertainty-aware analysis of static and dynamic attributes of biochemical reaction networks (BRNs). These are often described by mathematical models, such as ordinary differential equations (ODEs), which enable the integration of a multitude of different data and data types using parameter estimation. Due to the limited amount of data, parameter estimation does not necessarily yield a single point in parameter space and many attributes of the model remain uncertain. Our system visualizes the model as a graph, where the statistics of the attributes are mapped to the color of edges and vertices. The graph view is combined with several linked views such as lineplots, scatterplots, and correlation matrices, to support the identification of uncertainties and the analysis of their mutual dependencies as well as their time dependencies. To assess the utility of the individual visualization approaches and multiple linked views, a qualitative user study with domain experts was performed. We found that all users were able to process analysis tasks using our system. © 2012 IEEE.",
+    "doi":"10.1109\/BioVis.2012.6378598",
+    "outer_cite_count":3.0
+  },
+  {
+    "key":"EV6SYQPD",
+    "publication_name":"BMC Bioinformatics",
+    "year":2014,
+    "author_names":"Ivan Kolesar;Julius Parulek;Ivan Viola;Stefan Bruckner;Anne Kristin Stavrum;Helwig Hauser",
+    "affiliations":"Universitetet i Bergen;Technische Universitat Wien",
+    "title":"Interactively illustrating polymerization using three-level model fusion",
+    "author_keywords":[
+      "Biochemical visualization",
+      "L-system modeling",
+      "Multi-agent modeling",
+      "Polymerization",
+      "Visualization of physiology"
+    ],
+    "abstract":"© 2014 Kolesar et al. Background: Research in cell biology is steadily contributing new knowledge about many aspects of physiological processes, both with respect to the involved molecular structures as well as their related function. Illustrations of the spatio-temporal development of such processes are not only used in biomedical education, but also can serve scientists as an additional platform for in-silico experiments. Results: In this paper, we contribute a new, three-level modeling approach to illustrate physiological processes from the class of polymerization at different time scales. We integrate physical and empirical modeling, according to which approach best suits the different involved levels of detail, and we additionally enable a form of interactive steering, while the process is illustrated. We demonstrate the suitability of our approach in the context of several polymerization processes and report from a first evaluation with domain experts. Conclusion: We conclude that our approach provides a new, hybrid modeling approach for illustrating the process of emergence in physiology, embedded in a densely filled environment. Our approach of a complementary fusion of three systems combines the strong points from the different modeling approaches and is capable to bridge different spatial and temporal scales.",
+    "doi":"10.1186\/1471-2105-15-345",
+    "outer_cite_count":7.0
+  },
+  {
+    "key":"D8RSW8MI",
+    "publication_name":"IEEE Symposium on Biological Data Visualization 2011, BioVis 2011 - Proceedings",
+    "year":2011,
+    "author_names":"Robert Patro;Cheuk Yiu Ip;Sujal Bista;D. Thirumalai;Samuel S. Cho;Amitabh Varshney",
+    "affiliations":"Wake Forest University;University of Maryland",
+    "title":"MDMap: A system for data-driven layout and exploration of molecular dynamics simulations",
+    "author_keywords":[
+      "Bioinformatics",
+      "Clustering",
+      "Graph layout",
+      "Molecular dynamics",
+      "Protein folding",
+      "Time varying visualization"
+    ],
+    "abstract":"Contemporary molecular dynamics simulations result in a glut of simulation data, making analysis and discovery a difficult and burdensome task. We present MDMap, a system designed to summarize long-running molecular dynamics (MD) simulations. We represent a molecular dynamics simulation as a state transition graph over a set of intermediate (stable and semi-stable) states. The transitions amongst the states together with their frequencies represent the flow of a biomolecule through the trajectory space. MDMap automatically determines potential intermediate conformations and the transitions amongst them by analyzing the conformational space explored by the MD simulation. MDMap is an automated system to visualize MD simulations as state-transition diagrams, and can replace the current tedious manual layouts of biomolecular folding landscapes with an automated tool. The layout of the representative states and the corresponding transitions among them is presented to the user as a visual synopsis of the long-running MD simulation. We compare and contrast multiple presentations of the state transition diagrams, such as conformational embedding, and spectral, hierarchical, and force-directed graph layouts. We believe this system could provide a road-map for the visualization of other stochastic time-varying simulations in a variety of different domains. © 2011 IEEE.",
+    "doi":"10.1109\/BioVis.2011.6094055",
+    "outer_cite_count":5.0
+  },
+  {
+    "key":"TXTW9V5I",
+    "publication_name":"BMC Bioinformatics",
+    "year":2014,
+    "author_names":"William C. Ray;Samuel L. Wolock;Nicholas W. Callahan;Min Dong;Q. Quinn Li;Chun Liang;Thomas J. Magliery;Christopher W. Bartlett",
+    "affiliations":"Miami University;The Ohio State University;Children's Hospital Columbus",
+    "title":"Addressing the unmet need for visualizing conditional random fields in biological data",
+    "author_keywords":[
+      "Bioinformatics",
+      "Conditional random fields",
+      "Graphical probabilistic models",
+      "Parallel coordinates"
+    ],
+    "abstract":"Background: The biological world is replete with phenomena that appear to be ideally modeled and analyzed by one archetypal statistical framework - the Graphical Probabilistic Model (GPM). The structure of GPMs is a uniquely good match for biological problems that range from aligning sequences to modeling the genome-to-phenome relationship. The fundamental questions that GPMs address involve making decisions based on a complex web of interacting factors. Unfortunately, while GPMs ideally fit many questions in biology, they are not an easy solution to apply. Building a GPM is not a simple task for an end user. Moreover, applying GPMs is also impeded by the insidious fact that the \" complex web of interacting factors\" inherent to a problem might be easy to define and also intractable to compute upon.Discussion: We propose that the visualization sciences can contribute to many domains of the bio-sciences, by developing tools to address archetypal representation and user interaction issues in GPMs, and in particular a variety of GPM called a Conditional Random Field(CRF). CRFs bring additional power, and additional complexity, because the CRF dependency network can be conditioned on the query data.Conclusions: In this manuscript we examine the shared features of several biological problems that are amenable to modeling with CRFs, highlight the challenges that existing visualization and visual analytics paradigms induce for these data, and document an experimental solution called StickWRLD which, while leaving room for improvement, has been successfully applied in several biological research projects.Software and tutorials are available at http:\/\/www.stickwrld.org\/. © 2014 Ray et al.; licensee BioMed Central Ltd.",
+    "doi":"10.1186\/1471-2105-15-202",
+    "outer_cite_count":1.0
+  },
+  {
+    "key":"2CAIF9B5",
+    "publication_name":"BMC Bioinformatics",
+    "year":2017,
+    "author_names":"Katarína Furmanová;Miroslava Jarešová;Jan Byška;Adam Jurčík;Július Parulek;Helwig Hauser;Barbora Kozlíková",
+    "affiliations":"Universitetet i Bergen;Masaryk University",
+    "title":"Interactive exploration of ligand transportation through protein tunnels",
+    "author_keywords":[
+      "Bioinformatics visualization",
+      "Computational proteomics",
+      "Molecular visualization"
+    ],
+    "abstract":"© 2017 The Author(s). Background: Protein structures and their interaction with ligands have been in the focus of biochemistry and structural biology research for decades. The transportation of ligand into the protein active site is often complex process, driven by geometric and physico-chemical properties, which renders the ligand path full of jitter and impasses. This prevents understanding of the ligand transportation and reasoning behind its behavior along the path. Results: To address the needs of the domain experts we design an explorative visualization solution based on a multi-scale simplification model. It helps to navigate the user to the most interesting parts of the ligand trajectory by exploring different attributes of the ligand and its movement, such as its distance to the active site, changes of amino acids lining the ligand, or ligand \"stuckness\". The process is supported by three linked views - 3D representation of the simplified trajectory, scatterplot matrix, and bar charts with line representation of ligand-lining amino acids. Conclusions: The usage of our tool is demonstrated on molecular dynamics simulations provided by the domain experts. The tool was tested by the domain experts from protein engineering and the results confirm that it helps to navigate the user to the most interesting parts of the ligand trajectory and to understand the ligand behavior.",
+    "doi":"10.1186\/s12859-016-1448-0",
+    "outer_cite_count":8.0
+  },
+  {
+    "key":"HW8ABU2L",
+    "publication_name":"BMC Bioinformatics",
+    "year":2017,
+    "author_names":"Viktor Vad;Douglas Cedrim;Wolfgang Busch;Peter Filzmoser;Ivan Viola",
+    "affiliations":"Technische Universitat Wien;Gregor Mendel Institute of Molecular Plant Biology;Universidade de Sao Paulo - USP",
+    "title":"Generalized box-plot for root growth ensembles",
+    "author_keywords":[
+      "Bioinformatics visualization",
+      "Curve ensembles",
+      "Uncertainty visualization"
+    ],
+    "abstract":"© 2017 The Author(s). Background: In the field of root biology there has been a remarkable progress in root phenotyping, which is the efficient acquisition and quantitative description of root morphology. What is currently missing are means to efficiently explore, exchange and present the massive amount of acquired, and often time dependent root phenotypes. Results: In this work, we present visual summaries of root ensembles by aggregating root images with identical genetic characteristics. We use the generalized box plot concept with a new formulation of data depth. In addition to spatial distributions, we created a visual representation to encode temporal distributions associated with the development of root individuals. Conclusions: The new formulation of data depth allows for much faster implementation close to interactive frame rates. This allows us to present the statistics from bootstrapping that characterize the root sample set quality. As a positive side effect of the new data-depth formulation we are able to define the geometric median for the curve ensemble, which was well received by the domain experts.",
+    "doi":"10.1186\/s12859-016-1445-3",
+    "outer_cite_count":2.0
+  },
+  {
+    "key":"82I28JJJ",
+    "publication_name":"BMC Bioinformatics",
+    "year":2015,
+    "author_names":"André Hennig;Jörg Bernhardt;Kay Nieselt",
+    "affiliations":"Ernst-Moritz-Arndt-Universität Greifswald;Universität Tübingen",
+    "title":"Pan-Tetris: An interactive visualisation for Pan-genomes",
+    "author_keywords":[
+      "Bioinformatics Visualization",
+      "Data Aggregation",
+      "Gene Sequence analysis",
+      "Genomics",
+      "Software Visualization"
+    ],
+    "abstract":"© 2015 Hennig et al. Background: Large-scale genome projects have paved the way to microbial pan-genome analyses. Pan-genomes describe the union of all genes shared by all members of the species or taxon under investigation. They offer a framework to assess the genomic diversity of a given collection of individual genomes and moreover they help to consolidate gene predictions and annotations. The computation of pan-genomes is often a challenge, and many techniques that use a global alignment-independent approach run the risk of not separating paralogs from orthologs. Also alignment-based approaches which take the gene neighbourhood into account often need additional manual curation of the results. This is quite time consuming and so far there is no visualisation tool available that offers an interactive GUI for the pan-genome to support curating pan-genomic computations or annotations of orthologous genes. Results: We introduce Pan-Tetris, a Java based interactive software tool that provides a clearly structured and suitable way for the visual inspection of gene occurrences in a pan-genome table. The main features of Pan-Tetris are a standard coordinate based presentation of multiple genomes complemented by easy to use tools compensating for algorithmic weaknesses in the pan-genome generation workflow. We demonstrate an application of Pan-Tetris to the pan-genome of Staphylococcus aureus. Conclusions: Pan-Tetris is currently the only interactive pan-genome visualisation tool. Pan-Tetris is available from http:\/\/bit.ly\/1vVxYZT",
+    "doi":"10.1186\/1471-2105-16-S11-S3",
+    "outer_cite_count":11.0
+  },
+  {
+    "key":"GI7DLXRE",
+    "publication_name":"BMC Bioinformatics",
+    "year":2017,
+    "author_names":"Sophie Engle;Sean Whalen;Alark Joshi;Katherine S. Pollard",
+    "affiliations":"University of San Francisco;The J. David Gladstone Institutes;University of California, San Francisco",
+    "title":"Unboxing cluster heatmaps",
+    "author_keywords":[
+      "Bioinformatics visualization",
+      "Data clustering",
+      "Hierarchy data",
+      "Qualitative evaluation",
+      "Quantitative evaluation",
+      "Systems biology\/omics data"
+    ],
+    "abstract":"© 2017 The Author(s). Background: Cluster heatmaps are commonly used in biology and related fields to reveal hierarchical clusters in data matrices. This visualization technique has high data density and reveal clusters better than unordered heatmaps alone. However, cluster heatmaps have known issues making them both time consuming to use and prone to error. We hypothesize that visualization techniques without the rigid grid constraint of cluster heatmaps will perform better at clustering-related tasks. Results: We developed an approach to \"unbox\" the heatmap values and embed them directly in the hierarchical clustering results, allowing us to use standard hierarchical visualization techniques as alternatives to cluster heatmaps. We then tested our hypothesis by conducting a survey of 45 practitioners to determine how cluster heatmaps are used, prototyping alternatives to cluster heatmaps using pair analytics with a computational biologist, and evaluating those alternatives with hour-long interviews of 5 practitioners and an Amazon Mechanical Turk user study with approximately 200 participants. We found statistically significant performance differences for most clustering-related tasks, and in the number of perceived visual clusters. Visit git.io\/vw0t3 for our results. Conclusions: The optimal technique varied by task. However, gapmaps were preferred by the interviewed practitioners and outperformed or performed as well as cluster heatmaps for clustering-related tasks. Gapmaps are similar to cluster heatmaps, but relax the heatmap grid constraints by introducing gaps between rows and\/or columns that are not closely clustered. Based on these results, we recommend users adopt gapmaps as an alternative to cluster heatmaps.",
+    "doi":"10.1186\/s12859-016-1442-6",
+    "outer_cite_count":9.0
+  },
+  {
+    "key":"FSEASSDN",
+    "publication_name":"BMC Proceedings",
+    "year":2015,
+    "author_names":"Tuan Nhon Dang;Paul Murray;Jillian Aurisano;Angus Graeme Forbes",
+    "affiliations":"University of Illinois at Chicago",
+    "title":"ReactionFlow: An interactive visualization tool for causality analysis in biological pathways",
+    "author_keywords":[
+      "Biological networks",
+      "Causality analysis",
+      "Pathway visualization",
+      "Topological ordering"
+    ],
+    "abstract":"© 2015 Dang et al. Background: Molecular and systems biologists are tasked with the comprehension and analysis of incredibly complex networks of biochemical interactions, called pathways, that occur within a cell. Through interviews with domain experts, we identified four common tasks that require an understanding of the causality within pathways, that is, the downstream and upstream relationships between proteins and biochemical reactions, including: visualizing downstream consequences of perturbing a protein; finding the shortest path between two proteins; detecting feedback loops within the pathway; and identifying common downstream elements from two or more proteins. Results: We introduce ReactionFlow, a visual analytics application for pathway analysis that emphasizes the structural and causal relationships amongst proteins, complexes, and biochemical reactions within a given pathway. To support the identified causality analysis tasks, user interactions allow an analyst to filter, cluster, and select pathway components across linked views. Animation is used to highlight the flow of activity through a pathway. Conclusions: We evaluated ReactionFlow by providing our application to two domain experts who have significant experience with biomolecular pathways, after which we conducted a series of in-depth interviews focused on each of the four causality analysis tasks. Their feedback leads us to believe that our techniques could be useful to researchers who must be able to understand and analyze the complex nature of biological pathways. ReactionFlow is available at https:\/\/github.com\/CreativeCodingLab\/ReactionFlow.",
+    "doi":"10.1186\/1753-6561-9-S6-S6",
+    "outer_cite_count":19.0
+  },
+  {
+    "key":"N3Z3RFAV",
+    "publication_name":"BMC Bioinformatics",
+    "year":2017,
+    "author_names":"Paul Murray;Fintan McGee;Angus G. Forbes",
+    "affiliations":"Luxembourg Institute of Science and Technology;University of Illinois at Chicago",
+    "title":"A taxonomy of visualization tasks for the analysis of biological pathway data",
+    "author_keywords":[
+      "Biological pathways",
+      "Pathway visualization",
+      "Task taxonomy"
+    ],
+    "abstract":"© 2017 The Author(s). Background: Understanding complicated networks of interactions and chemical components is essential to solving contemporary problems in modern biology, especially in domains such as cancer and systems research. In these domains, biological pathway data is used to represent chains of interactions that occur within a given biological process. Visual representations can help researchers understand, interact with, and reason about these complex pathways in a number of ways. At the same time, these datasets offer unique challenges for visualization, due to their complexity and heterogeneity. Results: Here, we present taxonomy of tasks that are regularly performed by researchers who work with biological pathway data. The generation of these tasks was done in conjunction with interviews with several domain experts in biology. These tasks require further classification than is provided by existing taxonomies. We also examine existing visualization techniques that support each task, and we discuss gaps in the existing visualization space revealed by our taxonomy. Conclusions: Our taxonomy is designed to support the development and design of future biological pathway visualization applications. We conclude by suggesting future research directions based on our taxonomy and motivated by the comments received by our domain experts.",
+    "doi":"10.1186\/s12859-016-1443-5",
+    "outer_cite_count":15.0
+  },
+  {
+    "key":"JV2D4QB9",
+    "publication_name":"IEEE Symposium on Biological Data Visualization 2012, BioVis 2012 - Proceedings",
+    "year":2012,
+    "author_names":"Christian Partl;Denis Kalkofen;Alexander Lex;Karl Kashofer;Marc Streit;Dieter Schmalstieg",
+    "affiliations":"Johannes Kepler University Linz;Technische Universitat Graz;Medizinische Universität Graz",
+    "title":"enRoute: Dynamic path extraction from biological pathway maps for in-depth experimental data analysis",
+    "author_keywords":[
+      "biological processes",
+      "cellular networks",
+      "copy number variation",
+      "expression data",
+      "path extraction",
+      "Pathway analysis"
+    ],
+    "abstract":"Pathway maps are an important source of information when analyzing functional implications of experimental data on biological processes. However, associating large quantities of data with nodes on a pathway map and allowing in depth-analysis at the same time is a challenging task. While a wide variety of approaches for doing so exist, they either do not scale beyond a few experiments or fail to represent the pathway appropriately. To remedy this, we introduce enRoute, a new approach for interactively exploring experimental data along paths that are dynamically extracted from pathways. By showing an extracted path side-by-side with experimental data, enRoute can present large amounts of data for every pathway node. It can visualize hundreds of samples, dozens of experimental conditions, and even multiple datasets capturing different aspects of a node at the same time. Another important property of this approach is its conceptual compatibility with arbitrary forms of pathways. Most notably, enRoute works well with pathways that are manually created, as they are available in large, public pathway databases. We demonstrate enRoute with pathways from the well-established KEGG database and expression as well as copy number datasets from humans and mice with more than 1,000 experiments. We validate enRoute using case studies with domain experts, who used enRoute to explore data for glioblastoma multiforme in humans and a model of steatohepatitis in mice. © 2012 IEEE.",
+    "doi":"10.1109\/BioVis.2012.6378600",
+    "outer_cite_count":13.0
+  },
+  {
+    "key":"STPTBTYX",
+    "publication_name":"BMC Bioinformatics",
+    "year":2015,
+    "author_names":"A. J. Pretorius;Y. Zhou;R. A. Ruddle",
+    "affiliations":"University of Central Lancashire;University of Leeds",
+    "title":"Visual parameter optimisation for biomedical image processing",
+    "author_keywords":[
+      "Biology",
+      "Biomedicine",
+      "Design study",
+      "Histology",
+      "Image analysis",
+      "Image processing",
+      "Parameter optimisation",
+      "Visualisation"
+    ],
+    "abstract":"© 2015 Pretorius et al. Background: Biomedical image processing methods require users to optimise input parameters to ensure high-quality output. This presents two challenges. First, it is difficult to optimise multiple input parameters for multiple input images. Second, it is difficult to achieve an understanding of underlying algorithms, in particular, relationships between input and output. Results: We present a visualisation method that transforms users' ability to understand algorithm behaviour by integrating input and output, and by supporting exploration of their relationships. We discuss its application to a colour deconvolution technique for stained histology images and show how it enabled a domain expert to identify suitable parameter values for the deconvolution of two types of images, and metrics to quantify deconvolution performance. It also enabled a breakthrough in understanding by invalidating an underlying assumption about the algorithm. Conclusions: The visualisation method presented here provides analysis capability for multiple inputs and outputs in biomedical image processing that is not supported by previous analysis software. The analysis supported by our method is not feasible with conventional trial-and-error approaches.",
+    "doi":"10.1186\/1471-2105-16-S11-S9",
+    "outer_cite_count":9.0
+  },
+  {
+    "key":"TA7F8ENG",
+    "publication_name":"IEEE Symposium on Biological Data Visualization 2012, BioVis 2012 - Proceedings",
+    "year":2012,
+    "author_names":"Adam Price;Robert Kosara;Cynthia Gibas",
+    "affiliations":"The University of North Carolina at Charlotte",
+    "title":"Gene-RiViT: A visualization tool for comparative analysis of gene neighborhoods in prokaryotes",
+    "author_keywords":[
+      "biology and genetics",
+      "multi-scale visualization",
+      "Visual programming"
+    ],
+    "abstract":"The genomes of prokaryotes are dynamic and shuffling of gene order occurs frequently, along with horizontal transfer of genes from external sources. Local conservation of gene order tends to reflect functional constraints on the genome or on a biochemical subsystem. Comparison of the local gene neighborhoods surrounding a gene of interest gives insight into evolutionary history and functional potential of the gene. The Genomic Ring Visualization Tool (Gene-RiViT) is a high speed, intuitive visualization tool for investigating sequence environments of conserved genes among related genomes. Gene-RiViT allows the user to interact with interconnected global and local visualizations of gene neighborhoods and gene order, through a web-based interface that is easily accessible in any browser. The primary visualization is a wheel of nested rotating circles, each of which represents a single genome. This visualization is similar to common circular genome alignment views, except that the rings can be realigned with each other dynamically based on user selections within the ring view or one of the coordinated views. By allowing the user to dynamically realign genomes and focus on a locally conserved region of interest, and using or-thology connections to highlight corresponding structures among genomes, this view provides insight into gene context and preservation of neighbor relationships as genomes evolve. Visualizations are linked into a coordinated multiple view interface to provide multiple selection methods and entry points into the data. These approaches make Gene-RiViT a flexible, unique tool for examining gene neighborhoods that improves on existing methods. © 2012 IEEE.",
+    "doi":"10.1109\/BioVis.2012.6378593",
+    "outer_cite_count":3.0
+  },
+  {
+    "key":"8KUL2PJ2",
+    "publication_name":"IEEE Symposium on Biological Data Visualization 2011, BioVis 2011 - Proceedings",
+    "year":2011,
+    "author_names":"Adam M. Smith;Wen Xu;Yao Sun;James R. Faeder;G. Elisabeta Marai",
+    "affiliations":"University of Pittsburgh",
+    "title":"RuleBender: Integrated visualization for biochemical rule-based modeling",
+    "author_keywords":[
+      "bubble sets",
+      "cell signaling",
+      "computational biology",
+      "interaction",
+      "rule-based modeling and simulation",
+      "visualization"
+    ],
+    "abstract":"We introduce RuleBender, a novel visualization system for the integrated visualization, modeling and simulation of rule-based intra-cellular biochemistry. Rule-based modeling (RBM) is a powerful and increasingly popular approach to modeling cell signaling networks. However, novel visual tools are needed in order to make RBM accessible to a broad range of users, to make specification of models less error prone, and to improve workflows. We present the user requirements, visual paradigms, algorithms and design decisions behind RuleBender, with emphasis on visual global\/local model exploration and integrated execution of simulations. The support of RBM creation, debugging, and interactive visualization expedites the RBM learning process and reduces model construction time; while built-in model simulation and results with multiple linked views streamline the execution and analysis of newly created models and generated networks. A development cycle that includes close interaction with expert users allows RuleBender to better serve the needs of the systems biology community. © 2011 IEEE.",
+    "doi":"10.1109\/BioVis.2011.6094054",
+    "outer_cite_count":5.0
+  },
+  {
+    "key":"M692XSAE",
+    "publication_name":"BMC Bioinformatics",
+    "year":2017,
+    "author_names":"Henry Heberle;Marcelo Falsarella Carazzolle;Guilherme P. Telles;Gabriela Vaz Meirelles;Rosane Minghim",
+    "affiliations":"Laboratório Nacional de Biociências;Universidade Estadual de Campinas;Universidade de Sao Paulo - USP",
+    "title":"CellNetVis: A web tool for visualization of biological networks using force-directed layout constrained by cellular components",
+    "author_keywords":[
+      "Cell diagram",
+      "CellNetVis",
+      "Cellular component",
+      "Force-directed layout",
+      "IIS",
+      "Network"
+    ],
+    "abstract":"© 2017 The Author(s). Background: The advent of \"omics\" science has brought new perspectives in contemporary biology through the high-throughput analyses of molecular interactions, providing new clues in protein\/gene function and in the organization of biological pathways. Biomolecular interaction networks, or graphs, are simple abstract representations where the components of a cell (e.g. proteins, metabolites etc.) are represented by nodes and their interactions are represented by edges. An appropriate visualization of data is crucial for understanding such networks, since pathways are related to functions that occur in specific regions of the cell. The force-directed layout is an important and widely used technique to draw networks according to their topologies. Placing the networks into cellular compartments helps to quickly identify where network elements are located and, more specifically, concentrated. Currently, only a few tools provide the capability of visually organizing networks by cellular compartments. Most of them cannot handle large and dense networks. Even for small networks with hundreds of nodes the available tools are not able to reposition the network while the user is interacting, limiting the visual exploration capability. Results: Here we propose CellNetVis, a web tool to easily display biological networks in a cell diagram employing a constrained force-directed layout algorithm. The tool is freely available and open-source. It was originally designed for networks generated by the Integrated Interactome System and can be used with networks from others databases, like InnateDB. Conclusions: CellNetVis has demonstrated to be applicable for dynamic investigation of complex networks over a consistent representation of a cell on the Web, with capabilities not matched elsewhere.",
+    "doi":"10.1186\/s12859-017-1787-5",
+    "outer_cite_count":7.0
+  },
+  {
+    "key":"LC4A9PLP",
+    "publication_name":"BMC Bioinformatics",
+    "year":2017,
+    "author_names":"Divya Tej Sowpati;Surabhi Srivastava;Jyotsna Dhawan;Rakesh K. Mishra",
+    "affiliations":"Centre for Cellular and Molecular Biology india",
+    "title":"C-State: An interactive web app for simultaneous multi-gene visualization and comparative epigenetic pattern search",
+    "author_keywords":[
+      "ChIP-seq",
+      "Chromatin state",
+      "Epigenetic patterns",
+      "Genome browser",
+      "JavaScript",
+      "RNA-seq",
+      "Visualization",
+      "Web app"
+    ],
+    "abstract":"© 2017 The Author(s). Background: Comparative epigenomic analysis across multiple genes presents a bottleneck for bench biologists working with NGS data. Despite the development of standardized peak analysis algorithms, the identification of novel epigenetic patterns and their visualization across gene subsets remains a challenge. Results: We developed a fast and interactive web app, C-State (Chromatin-State), to query and plot chromatin landscapes across multiple loci and cell types. C-State has an interactive, JavaScript-based graphical user interface and runs locally in modern web browsers that are pre-installed on all computers, thus eliminating the need for cumbersome data transfer, pre-processing and prior programming knowledge. Conclusions: C-State is unique in its ability to extract and analyze multi-gene epigenetic information. It allows for powerful GUI-based pattern searching and visualization. We include a case study to demonstrate its potential for identifying user-defined epigenetic trends in context of gene expression profiles.",
+    "doi":"10.1186\/s12859-017-1786-6",
+    "outer_cite_count":1.0
+  },
+  {
+    "key":"QBH2SYLK",
+    "publication_name":"BMC Bioinformatics",
+    "year":2015,
+    "author_names":"Sehi L'Yi;Bongkyung Ko;Dong Hwa Shin;Young Joon Cho;Jaeyong Lee;Bohyoung Kim;Jinwook Seo",
+    "affiliations":"Seoul National University Bundang Hospital;Seoul National University",
+    "title":"XCluSim: A visual analytics tool for interactively comparing multiple clustering results of bioinformatics data",
+    "author_keywords":[
+      "Cluster Analysis",
+      "Gene Expression",
+      "Multiple Clustering Results",
+      "Visualization Technique"
+    ],
+    "abstract":"© 2015 L'Yi et al. Background: Though cluster analysis has become a routine analytic task for bioinformatics research, it is still arduous for researchers to assess the quality of a clustering result. To select the best clustering method and its parameters for a dataset, researchers have to run multiple clustering algorithms and compare them. However, such a comparison task with multiple clustering results is cognitively demanding and laborious. Results: In this paper, we present XCluSim, a visual analytics tool that enables users to interactively compare multiple clustering results based on the Visual Information Seeking Mantra. We build a taxonomy for categorizing existing techniques of clustering results visualization in terms of the Gestalt principles of grouping. Using the taxonomy, we choose the most appropriate interactive visualizations for presenting individual clustering results from different types of clustering algorithms. The efficacy of XCluSim is shown through case studies with a bioinformatician. Conclusions: Compared to other relevant tools, XCluSim enables users to compare multiple clustering results in a more scalable manner. Moreover, XCluSim supports diverse clustering algorithms and dedicated visualizations and interactions for different types of clustering results, allowing more effective exploration of details on demand. Through case studies with a bioinformatics researcher, we received positive feedback on the functionalities of XCluSim, including its ability to help identify stably clustered items across multiple clustering results.",
+    "doi":"10.1186\/1471-2105-16-S11-S5",
+    "outer_cite_count":16.0
+  },
+  {
+    "key":"JCJMJFJL",
+    "publication_name":"BioVis 2013 - IEEE Symposium on Biological Data Visualization 2013, Proceedings",
+    "year":2013,
+    "author_names":"Roy A. Ruddle;Waleed Fateen;Darren Treanor;Peter Sondergeld;Phil Ouirke",
+    "affiliations":"University of Leeds, School of Medicine;St James's University Hospital;University of Leeds",
+    "title":"Leveraging wall-sized high-resolution displays for comparative genomics analyses of copy number variation",
+    "author_keywords":[
+      "Comparative genomics",
+      "Copy number variation",
+      "User interface",
+      "Visualization",
+      "Wall-sized high-resolution displays"
+    ],
+    "abstract":"The scale of comparative genomics data frequently overwhelms current data visualization methods on conventional (desktop) displays. This paper describes two types of solution that take advantage of wall-sized high-resolution displays (WHirDs), which have orders of magnitude more display real estate (i.e., pixels) than desktop displays. The first allows users to view detailed graphics of copy number variation (CNV) that were output by existing software. A WHirD's resolution allowed a 10× increase in the granularity of bioinformatics output that was feasible for users to visually analyze, and this revealed a pattern that had previously been smoothed out from the underlying data. The second involved interactive visualization software that was innovative because it uses a music score metaphor to lay out CNV data, overcomes a perceptual distortion caused by amplification\/deletion thresholds, uses filtering to reduce graphical data overload, and is the first comparative genomics visualization software that is designed to leverage a WHirD's real estate. In a field evaluation, a clinical user discovered a fundamental error in the way their data had been processed, and established confidence in the software by using it to 'find' known genetic patterns in hepatitis C-driven hepatocellular cancer. © 2013 IEEE.",
+    "doi":"10.1109\/BioVis.2013.6664351",
+    "outer_cite_count":7.0
+  },
+  {
+    "key":"EDRLPKJZ",
+    "publication_name":"BMC Bioinformatics",
+    "year":2015,
+    "author_names":"Jillian Aurisano;Khairi Reda;Andrew Johnson;Elisabeta G. Marai;Jason Leigh",
+    "affiliations":"Argonne National Laboratory;University of Illinois at Chicago;University of Hawaiʻi at Mānoa",
+    "title":"BactoGeNIE: A large-scale comparative genome visualization for big displays",
+    "author_keywords":[
+      "Comparative Genomics",
+      "Large Displays",
+      "Visualization"
+    ],
+    "abstract":"© 2015 Aurisano et al. Background: The volume of complete bacterial genome sequence data available to comparative genomics researchers is rapidly increasing. However, visualizations in comparative genomics--which aim to enable analysis tasks across collections of genomes--suffer from visual scalability issues. While large, multi-tiled and high-resolution displays have the potential to address scalability issues, new approaches are needed to take advantage of such environments, in order to enable the effective visual analysis of large genomics datasets. Results: In this paper, we present Bacterial Gene Neighborhood Investigation Environment, or BactoGeNIE, a novel and visually scalable design for comparative gene neighborhood analysis on large display environments. We evaluate BactoGeNIE through a case study on close to 700 draft Escherichia coli genomes, and present lessons learned from our design process. Conclusions: BactoGeNIE accommodates comparative tasks over substantially larger collections of neighborhoods than existing tools and explicitly addresses visual scalability. Given current trends in data generation, scalable designs of this type may inform visualization design for large-scale comparative research problems in genomics.",
+    "doi":"10.1186\/1471-2105-16-S11-S6",
+    "outer_cite_count":5.0
+  },
+  {
+    "key":"9MNP6NBM",
+    "publication_name":"BMC Bioinformatics",
+    "year":2017,
+    "author_names":"Alexandre V. Fassio;Pedro M. Martins;Samuel da S. Guimarães;Sócrates S.A. Junior;Vagner S. Ribeiro;Raquel C. de Melo-Minardi;Sabrina de A. Silveira",
+    "affiliations":"Universidade Federal de Minas Gerais;Universidade Federal de Vicosa",
+    "title":"Vermont: A multi-perspective visual interactive platform for mutational analysis",
+    "author_keywords":[
+      "Complex network",
+      "Intramolecular network",
+      "Mutational analysis",
+      "Point mutation",
+      "Visual analytics platform"
+    ],
+    "abstract":"© 2017 The Author(s). Background: A huge amount of data about genomes and sequence variation is available and continues to grow on a large scale, which makes experimentally characterizing these mutations infeasible regarding disease association and effects on protein structure and function. Therefore, reliable computational approaches are needed to support the understanding of mutations and their impacts. Here, we present VERMONT 2.0, a visual interactive platform that combines sequence and structural parameters with interactive visualizations to make the impact of protein point mutations more understandable. Results: We aimed to contribute a novel visual analytics oriented method to analyze and gain insight on the impact of protein point mutations. To assess the ability of VERMONT to do this, we visually examined a set of mutations that were experimentally characterized to determine if VERMONT could identify damaging mutations and why they can be considered so. Conclusions: VERMONT allowed us to understand mutations by interpreting position-specific structural and physicochemical properties. Additionally, we note some specific positions we believe have an impact on protein function\/structure in the case of mutation.",
+    "doi":"10.1186\/s12859-017-1789-3",
+    "outer_cite_count":5.0
+  },
+  {
+    "key":"MTJFZKBA",
+    "publication_name":"BMC Bioinformatics",
+    "year":2014,
+    "author_names":"Hao Ding;Chao Wang;Kun Huang;Raghu Machiraju",
+    "affiliations":"The Ohio State University;Electrical and Computer Engineering",
+    "title":"IGPSe: A visual analytic system for integrative genomic based cancer patient stratification",
+    "author_keywords":[
+      "Computational biology",
+      "Molecular biology",
+      "Molecular genomic analysis"
+    ],
+    "abstract":"Background: Cancers are highly heterogeneous with different subtypes. These subtypes often possess different genetic variants, present different pathological phenotypes, and most importantly, show various clinical outcomes such as varied prognosis and response to treatment and likelihood for recurrence and metastasis. Recently, integrative genomics (or panomics) approaches are often adopted with the goal of combining multiple types of omics data to identify integrative biomarkers for stratification of patients into groups with different clinical outcomes.Results: In this paper we present a visual analytic system called Interactive Genomics Patient Stratification explorer (iGPSe) which significantly reduces the computing burden for biomedical researchers in the process of exploring complicated integrative genomics data. Our system integrates unsupervised clustering with graph and parallel sets visualization and allows direct comparison of clinical outcomes via survival analysis. Using a breast cancer dataset obtained from the The Cancer Genome Atlas (TCGA) project, we are able to quickly explore different combinations of gene expression (mRNA) and microRNA features and identify potential combined markers for survival prediction.Conclusions: Visualization plays an important role in the process of stratifying given population patients. Visual tools allowed for the selection of possibly features across various datasets for the given patient population. We essentially made a case for visualization for a very important problem in translational informatics. © 2014 Ding et al.; licensee BioMed Central Ltd.",
+    "doi":"10.1186\/1471-2105-15-203",
+    "outer_cite_count":13.0
+  },
+  {
+    "key":"9QG34P3M",
+    "publication_name":"BioVis 2013 - IEEE Symposium on Biological Data Visualization 2013, Proceedings",
+    "year":2013,
+    "author_names":"Christian Nowke;Maximilian Schmidt;Sacha J. Van Albada;Jochen M. Eppler;Rembrandt Bakker;Markus Diesrnann;Bernd Hentschel;Torsten Kuhlen",
+    "affiliations":"Rheinisch-Westfälische Technische Hochschule Aachen;Jülich Research Center",
+    "title":"VisNEST - Interactive analysis of neural activity data",
+    "author_keywords":[
+      "Computational neuroscience",
+      "Interactive visualization",
+      "Multi-view visualization"
+    ],
+    "abstract":"The aim of computational neuroscience is to gain insight into the dynamics and functionality of the nervous system by means of modeling and simulation. Current research leverages the power of High Performance Computing facilities to enable multi-scale simulations capturing both low-level neural activity and large-scalce interactions between brain regions. In this paper, we describe an interactive analysis tool that enables neuroscientists to explore data from such simulations. One of the driving challenges behind this work is the integration of macroscopic data at the level of brain regions with microscopic simulation results, such as the activity of individual neurons. While researchers validate their findings mainly by visualizing these data in a non-interactive fashion, state-of-the-art visu-alizations, tailored to the scientific question yet sufficiently general to accommodate different types of models, enable such analyses to be performed more efficiently. This work describes several visualization designs, conceived in close collaboration with domain experts, for the analysis of network models. We primarily focus on the exploration of neural activity data, inspecting connectivity of brain regions and populations, and visualizing activity flux across regions. We demonstrate the effectiveness of our approach in a case study conducted with domain experts. © 2013 IEEE.",
+    "doi":"10.1109\/BioVis.2013.6664348",
+    "outer_cite_count":26.0
+  },
+  {
+    "key":"RXWBNRSY",
+    "publication_name":"BMC Bioinformatics",
+    "year":2015,
+    "author_names":"Christian Stolte;Kenneth S. Sabir;Julian Heinrich;Christopher J. Hammang;Andrea Schafferhans;Seán I. O'Donoghue",
+    "affiliations":"Commonwealth Scientific and Industrial Research Organization;The University of Sydney;Technical University of Munich;Garvan Institute of Medical Research",
+    "title":"Integrated visual analysis of protein structures, sequences, and feature data",
+    "author_keywords":[
+      "Computational Proteomics",
+      "Molecular Sequence Analysis",
+      "Molecular Structural Biology"
+    ],
+    "abstract":"© 2015 Stolte et al. Background: To understand the molecular mechanisms that give rise to a protein's function, biologists often need to (i) find and access all related atomic-resolution 3D structures, and (ii) map sequence-based features (e.g., domains, single-nucleotide polymorphisms, post-translational modifications) onto these structures. Results: To streamline these processes we recently developed Aquaria, a resource offering unprecedented access to protein structure information based on an all-against-all comparison of SwissProt and PDB sequences. In this work, we provide a requirements analysis for several frequently occuring tasks in molecular biology and describe how design choices in Aquaria meet these requirements. Finally, we show how the interface can be used to explore features of a protein and gain biologically meaningful insights in two case studies conducted by domain experts. Conclusions: The user interface design of Aquaria enables biologists to gain unprecedented access to molecular structures and simplifies the generation of insight. The tasks involved in mapping sequence features onto structures can be conducted easier and faster using Aquaria.",
+    "doi":"10.1186\/1471-2105-16-S11-S7",
+    "outer_cite_count":4.0
+  },
+  {
+    "key":"KEGTJELR",
+    "publication_name":"BMC Bioinformatics",
+    "year":2014,
+    "author_names":"Justin Feigelman;Fabian J. Theis;Carsten Marr",
+    "affiliations":"Helmholtz Center Munich German Research Center for Environmental Health;Technical University of Munich",
+    "title":"MCA: Multiresolution Correlation Analysis, a graphical tool for subpopulation identification in single-cell gene expression data",
+    "author_keywords":[
+      "Correlation",
+      "Multiresolution",
+      "QPCR analysis",
+      "Subpopulation identification"
+    ],
+    "abstract":"Background: Biological data often originate from samples containing mixtures of subpopulations, corresponding e.g. to distinct cellular phenotypes. However, identification of distinct subpopulations may be difficult if biological measurements yield distributions that are not easily separable.Results: We present Multiresolution Correlation Analysis (MCA), a method for visually identifying subpopulations based on the local pairwise correlation between covariates, without needing to define an a priori interaction scale. We demonstrate that MCA facilitates the identification of differentially regulated subpopulations in simulated data from a small gene regulatory network, followed by application to previously published single-cell qPCR data from mouse embryonic stem cells. We show that MCA recovers previously identified subpopulations, provides additional insight into the underlying correlation structure, reveals potentially spurious compartmentalizations, and provides insight into novel subpopulations.Conclusions: MCA is a useful method for the identification of subpopulations in low-dimensional expression data, as emerging from qPCR or FACS measurements. With MCA it is possible to investigate the robustness of covariate correlations with respect subpopulations, graphically identify outliers, and identify factors contributing to differential regulation between pairs of covariates. MCA thus provides a framework for investigation of expression correlations for genes of interests and biological hypothesis generation. © 2014 Feigelman et al.; licensee BioMed Central Ltd.",
+    "doi":"10.1186\/1471-2105-15-240",
+    "outer_cite_count":6.0
+  },
+  {
+    "key":"6H8PE2P4",
+    "publication_name":"IEEE Symposium on Biological Data Visualization 2012, BioVis 2012 - Proceedings",
+    "year":2012,
+    "author_names":"Juan B. Hernando;Felix Schürmann;Luis Pastor",
+    "affiliations":"Universidad Politécnica de Madrid;Ecole Polytechnique Fédérale de Lausanne;Universidad Rey Juan Carlos",
+    "title":"Towards real-time visualization of detailed neural tissue models: View frustum culling for parallel rendering",
+    "author_keywords":[
+      "Cortical neuron simulation visualization",
+      "view frustum culling"
+    ],
+    "abstract":"Recent efforts to model neural tissue in great anatomical detail play an important role in the shift towards simulation-based brain research. Visualization of those detailed models is an important part of the scientific workflow, allowing domain scientists to inspect and analyze the models as a virtual tissue. However, these visualizations pose several computational and interface challenges, from issues such as data size and geometrical and visual complexity. Manual or query driven selection of visual attributes such as color, transparency, transfer functions, visibility are important components for the usability of those visualizations, yet this requires the rendering to be as responsive as possible. Given the data complexity (several million triangles) - despite the power of current GPUs - parallel rendering is the only choice to visualize the full circuits at interactive levels. In particular, sort-first is an appropriate choice to deal with transparency, however it requires efficient view frustum culling. This paper presents two novel techniques for view frustum culling based on a bounding volume skeleton which is created from the geometrical skeleton of the neurons. These skeletons are combined with spatial partitions and some GPU processing to extract the portions of the neurons that need to be rendered while still facilitating interactive changes in the attributes. Experimental results show that the proposed method yields better results than classical approaches such as OBB-trees and looks promising for sort-first environments. © 2012 IEEE.",
+    "doi":"10.1109\/BioVis.2012.6378589",
+    "outer_cite_count":10.0
+  },
+  {
+    "key":"JIDPIKAR",
+    "publication_name":"BioVis 2019 - IEEE Symposium on Biological Data Visualization 2019",
+    "year":2019,
+    "author_names":"Bharadwaj, Aditya;Gwizdala, David;Kim, Yoonjin;Luther, Kurt;Murali, T. M.",
+    "affiliations":null,
+    "title":"Flud: a hybrid crowd-algorithm approach for visualizing biological networks",
+    "author_keywords":[
+      "crowdsourcing, human computation, graph drawing, computational biology, protein networks, graphs, citizen science, serious games, games with a purpose, optimization"
+    ],
+    "abstract":"Modern experiments in many disciplines generate large quantities of network (graph) data. Researchers require aesthetic layouts of these networks that clearly convey the domain knowledge and meaning. However, the problem remains challenging due to multiple conflicting aesthetic criteria and complex domain-specific constraints. In this paper, we present a strategy for generating visualizations that can help network biologists understand the protein interactions that underlie processes that take place in the cell. Specifically, we have developed Flud, an online game with a purpose (GWAP) that allows humans with no expertise to design biologically meaningful graph layouts with the help of algorithmically generated suggestions. Further, we propose a novel hybrid approach for graph layout wherein crowdworkers and a simulated annealing algorithm build on each other's progress. To showcase the effectiveness of Flud, we recruited crowd workers on Amazon Mechanical Turk to lay out complex networks that represent signaling pathways. Our results show that the proposed hybrid approach outperforms state-of-the-art techniques for graphs with a large number of feedback loops. We also found that the algorithmically generated suggestions guided the players when they are stuck and helped them improve their score. Finally, we discuss broader implications for mixed-initiative interactions in human computation games.",
+    "doi":null,
+    "outer_cite_count":null
+  },
+  {
+    "key":"HVPMQQ2Q",
+    "publication_name":"BMC Bioinformatics",
+    "year":2014,
+    "author_names":"Kasper Dinkla;Mohammed El-Kebir;Cristina Iulia Bucur;Marco Siderius;Martine J. Smit;Michel A. Westenberg;Gunnar W. Klau",
+    "affiliations":"Technische Universiteit Eindhoven;Centrum Wiskunde &amp; Informatica;Vrije Universiteit Amsterdam",
+    "title":"EXamine: Exploring annotated modules in networks",
+    "author_keywords":[
+      "Cytoscape",
+      "Module",
+      "Network analysis",
+      "Set-based annotation",
+      "Visualization"
+    ],
+    "abstract":"Background: Biological networks have a growing importance for the interpretation of high-throughput \" omics\" data. Integrative network analysis makes use of statistical and combinatorial methods to extract smaller subnetwork modules, and performs enrichment analysis to annotate the modules with ontology terms or other available knowledge. This process results in an annotated module, which retains the original network structure and includes enrichment information as a set system. A major bottleneck is a lack of tools that allow exploring both network structure of extracted modules and its annotations.Results: This paper presents a visual analysis approach that targets small modules with many set-based annotations, and which displays the annotations as contours on top of a node-link diagram. We introduce an extension of self-organizing maps to lay out nodes, links, and contours in a unified way. An implementation of this approach is freely available as the Cytoscape app eXamine. Conclusions: eXamine accurately conveys small and annotated modules consisting of several dozens of proteins and annotations. We demonstrate that eXamine facilitates the interpretation of integrative network analysis results in a guided case study. This study has resulted in a novel biological insight regarding the virally-encoded G-protein coupled receptor US28. © 2014 Dinkla et al.; licensee BioMed Central Ltd.",
+    "doi":"10.1186\/1471-2105-15-201",
+    "outer_cite_count":16.0
+  },
+  {
+    "key":"7SM5GW52",
+    "publication_name":"BioVis 2013 - IEEE Symposium on Biological Data Visualization 2013, Proceedings",
+    "year":2013,
+    "author_names":"Jessie Kennedy;Martin Graham;Trevor Paterson;Andy Law",
+    "affiliations":"University of Edinburgh, Roslin Institute;Edinburgh Napier University",
+    "title":"Visual cleaning of genotype data",
+    "author_keywords":[
+      "Data cleaning",
+      "Genotypes",
+      "Pedigree",
+      "User evaluation"
+    ],
+    "abstract":"While some data cleaning tasks can be performed automatically, many more require expert human guidance to steer the cleaning process, especially if erroneous or unclean data is a product of relationships between entities. An example is pedigree genotype data: inheritance hierarchies in which the correctness of genotype data for any individual is judged on comparison to their relations' genotypes, as individuals should inherit DNA from their assumed ancestors. Thus, cleaning this data must consider the relationships between individuals; sometimes this means more data must be cleaned than first assumed, while in other situations it means errors across many individuals can be remedied by cleaning the data of a shared relation. Such judgements require a domain expert to hypothesise the effect changing particular data has on the wider data set. Using a visualization tool with the ability to undertake what-if interactions can assist a user in correctly cleaning such data. We achieve this by closely coupling an existing pedigree visualisation technique, VIPER, with a genotype cleaning algorithm, and then develop necessary extensions to the visualization to allow interactive data cleaning. A comparative user evaluation with biologists shows the advantages of this visualisation design over an existing cleaning tool and we discuss the challenges in the design of visual cleaning tools in which errors may be transitive. © 2013 IEEE.",
+    "doi":"10.1109\/BioVis.2013.6664353",
+    "outer_cite_count":3.0
+  },
+  {
+    "key":"H8DEKMRK",
+    "publication_name":"BioVis 2013 - IEEE Symposium on Biological Data Visualization 2013, Proceedings",
+    "year":2013,
+    "author_names":"Keqin Wu;Jian Chen;William A. Pruett;Robert L. Hester",
+    "affiliations":"University of Maryland, Baltimore County;University of Mississippi Medical Center",
+    "title":"Hummod browser: An exploratory visualization tool for the analysis of whole-body physiology simulation data",
+    "author_keywords":[
+      "Design study",
+      "Information visualization",
+      "Interaction",
+      "Physiology"
+    ],
+    "abstract":"We present HumMod Browser, a multi-scale exploratory visualization tool that allows physiologists to explore human physiology simulation data with more than 6000 attributes. We first present a tag cloud technique to reveal the significance of time-varying attributes and then study how a chain of tag clouds can form an exploratory visuailzation that assist multiple dataset comparison and query. One purpose is to reduce the high cognitive workload of understanding complex interactions within the large attribute space. The HumMod Browser produced can give physiologists flexible control over the visualization displayed for quick understanding of complicated simulation results. The visualization is constructed through the metaphorical bubble interface to allow dynamic view controls and the data relationships and context informaiton unfold as physiologists querying groups of connected bubbles within the hierarchical or causal relationships. HumMod Browser contributions to the interaction design and provides multi-scale coordinated interactive exploration for a new type of physiological modeling data. Two case studies have been reported with real datasets containing more than 6000 physiology attributes, which provide supportive evidence on the usefulness of HumMod Browser in supporting effective large-attribute-space exploration. © 2013 IEEE.",
+    "doi":"10.1109\/BioVis.2013.6664352",
+    "outer_cite_count":2.0
+  },
+  {
+    "key":"XX873GXI",
+    "publication_name":"IEEE Symposium on Biological Data Visualization 2011, BioVis 2011 - Proceedings",
+    "year":2011,
+    "author_names":"Yanling Liu;Curtis Lisle;Jack Collins",
+    "affiliations":"SAIC-Frederick;KnowledgeVis, LLC",
+    "title":"Quick2Insight: A user-friendly framework for interactive rendering of biological image volumes",
+    "author_keywords":[
+      "Direct volume rendering",
+      "K-Means++",
+      "transfer function automation"
+    ],
+    "abstract":"This paper presents a new framework for simple, interactive volume exploration of biological datasets. We accomplish this by automatically creating dataset-specific transfer functions and utilizing them during direct volume rendering. The proposed method employs a K-Means++ clustering algorithm to classify a two-dimensional histogram created from the input volume. The classification process utilizes spatial and data properties from the volume. Then using properties derived from the classified clusters, our method automatically generates color and opacity transfer functions and presents the user with a high quality initial rendering of the volume data. Our method estimates classification parameters automatically, yet users are also allowed to input or override parameters to utilize pre-existing knowledge of their input data. User input is incorporated through the simple yet intuitive interface for transfer function manipulation included in our framework. Our new interface helps users focus on feature space exploration instead of the usual effort intensive, low-level widget manipulation. We evaluated the framework using three-dimensional medical and biological images. Our preliminary results demonstrate the effectiveness of our method of automating transfer function generation for high quality initial visualization. The proposed approach effectively generates automatic transfer functions and enables users to explore and interact with their data in an intuitive way, without requiring detailed knowledge of computer graphics or rendering techniques. © 2011 IEEE.",
+    "doi":"10.1109\/BioVis.2011.6094041",
+    "outer_cite_count":5.0
+  },
+  {
+    "key":"UZ9ZDJ3K",
+    "publication_name":"BMC Bioinformatics",
+    "year":2015,
+    "author_names":"Florin Chelaru;Héctor Corrada Bravo",
+    "affiliations":"University of Maryland",
+    "title":"Epiviz: A view inside the design of an integrated visual analysis software for genomics",
+    "author_keywords":[
+      "DNA Methylation",
+      "Functional Genomics",
+      "Visualization"
+    ],
+    "abstract":"© 2015 Chelaru and Bravo. Background: Computational and visual data analysis for genomics has traditionally involved a combination of tools and resources, of which the most ubiquitous consist of genome browsers, focused mainly on integrative visualization of large numbers of big datasets, and computational environments, focused on data modeling of a small number of moderately sized datasets. Workflows that involve the integration and exploration of multiple heterogeneous data sources, small and large, public and user specific have been poorly addressed by these tools. In our previous work, we introduced Epiviz, which bridges the gap between the two types of tools, simplifying these workflows. Results: In this paper we expand on the design decisions behind Epiviz, and introduce a series of new advanced features that further support the type of interactive exploratory workflow we have targeted. We discuss three ways in which Epiviz advances the field of genomic data analysis: 1) it brings code to interactive visualizations at various different levels; 2) takes the first steps in the direction of collaborative data analysis by incorporating user plugins from source control providers, as well as by allowing analysis states to be shared among the scientific community; 3) combines established analysis features that have never before been available simultaneously in a genome browser. In our discussion section, we present security implications of the current design, as well as a series of limitations and future research steps. Conclusions: Since many of the design choices of Epiviz are novel in genomics data analysis, this paper serves both as a document of our own approaches with lessons learned, as well as a start point for future efforts in the same direction for the genomics community.",
+    "doi":"10.1186\/1471-2105-16-S11-S4",
+    "outer_cite_count":3.0
+  },
+  {
+    "key":"FEMN7K25",
+    "publication_name":"IEEE Symposium on Biological Data Visualization 2011, BioVis 2011 - Proceedings",
+    "year":2011,
+    "author_names":"Mathias Goldau;Alexander Wiebel;Nico Stephan Gorbach;Corina Melzer;Mario Hlawitschka;Gerik Scheuermann;Marc Tittgemeyer",
+    "affiliations":"Zuse Institute Berlin;Max Planck Institute for Metabolism Research;Universität Leipzig",
+    "title":"Fiber stippling: An illustrative rendering for probabilistic diffusion tractography",
+    "author_keywords":[
+      "DTI",
+      "Illustrative Visualization",
+      "Probabilistic Tractography",
+      "Scalar Field Data",
+      "Tensor Field Data"
+    ],
+    "abstract":"One of the most promising avenues for compiling anatomical brain connectivity data arises from diffusion magnetic resonance imaging (dMRI). dMRI provides a rather novel family of medical imaging techniques with broad application in clinical as well as basic neu-roscience as it offers an estimate of the brain's fiber structure completely non-invasively and in vivo. A convenient way to reconstruct neuronal fiber pathways and to characterize anatomical connectivity from this data is the computation of diffusion tractograms. In this paper, we present a novel and effective method for visualizing probabilistic tractograms within their anatomical context. Our illustrative rendering technique, called fiber stippling, is inspired by visualization standards as found in anatomical textbooks. These illustrations typically show slice-based projections of fiber pathways and are typically hand-drawn. Applying the automatized technique to diffusion tractography, we demonstrate its expressiveness and intuitive usability as well as a more objective way to present white-matter structure in the human brain. © 2011 IEEE.",
+    "doi":"10.1109\/BioVis.2011.6094044",
+    "outer_cite_count":15.0
+  },
+  {
+    "key":"JKI9IG3G",
+    "publication_name":"BMC Proceedings",
+    "year":2015,
+    "author_names":"Francesco Paduano;Angus Graeme Forbes",
+    "affiliations":"University of Illinois at Chicago",
+    "title":"Extended LineSets: A visualization technique for the interactive inspection of biological pathways",
+    "author_keywords":[
+      "Eliminating Node Redundancy",
+      "Hierarchical Inspection",
+      "Interactive Visual Analysis",
+      "Line Sets",
+      "Pathway Visualization"
+    ],
+    "abstract":"© 2015 Paduano et al. Background: Biologists make use of pathway visualization tools for a range of tasks, including investigating inter-pathway connectivity and retrieving details about biological entities and interactions. Some of these tasks require an understanding of the hierarchical nature of elements within the pathway or the ability to make comparisons between multiple pathways. We introduce a technique inspired by LineSets that enables biologists to fulfill these tasks more effectively. Results: We introduce a novel technique, Extended LineSets, to facilitate new explorations of biological pathways. Our technique incorporates intuitive graphical representations of different levels of information and includes a well-designed set of user interactions for selecting, filtering, and organizing biological pathway data gathered from multiple databases. Conclusions: Based on interviews with domain experts and an analysis of two use cases, we show that our technique provides functionality not currently enabled by current techniques, and moreover that it helps biologists to better understand both inter-pathway connectivity and the hierarchical structure of biological elements within the pathways.",
+    "doi":"10.1186\/1753-6561-9-S6-S4",
+    "outer_cite_count":12.0
+  },
+  {
+    "key":"FJCTDGG6",
+    "publication_name":"IEEE Symposium on Biological Data Visualization 2011, BioVis 2011 - Proceedings",
+    "year":2011,
+    "author_names":"Ross E. Curtis;Peter Kinnaird;Eric P. Xing",
+    "affiliations":"Carnegie Mellon University",
+    "title":"GenAMap: Visualization strategies for structured association mapping",
+    "author_keywords":[
+      "eQTL analysis",
+      "genome-wide association studies",
+      "structured association mapping",
+      "visual analytics"
+    ],
+    "abstract":"Association mapping studies promise to link DNA mutations to gene expression data, possibly leading to innovative treatments for diseases. One challenge in large-scale association mapping studies is exploring the results of the computational analysis to find relevant and interesting associations. Although many association mapping studies find associations from a genome-wide collection of genomic data to hundreds or thousands of traits, current visualization software only allow these associations to be explored one trait at a time. The inability to explore the association of a genomic location to multiple traits hides the inherent interaction between traits in the analysis. Additionally, researchers must rely on collections of in-house scripts and multiple tools to perform an analysis, adding time and effort to find interesting associations. In this paper, we present a novel visual analytics system called GenAMap. GenAMap replaces the time-consuming analysis of large-scale association mapping studies with exploratory visualization tools that give geneticists an overview of the data and lead them to relevant information. We present the results of a preliminary evaluation that validated our basic approach. © 2011 IEEE.",
+    "doi":"10.1109\/BioVis.2011.6094052",
+    "outer_cite_count":4.0
+  },
+  {
+    "key":"CLV54H2Y",
+    "publication_name":"IEEE Symposium on Biological Data Visualization 2011, BioVis 2011 - Proceedings",
+    "year":2011,
+    "author_names":"Trevor Paterson;Martin Graham;Jessie Kennedy;Andy Law",
+    "affiliations":"University of Edinburgh, Roslin Institute;Edinburgh Napier University",
+    "title":"Evaluating the VIPER pedigree visualisation: Detecting inheritance inconsistencies in genotyped pedigrees",
+    "author_keywords":[
+      "Error Visualisation",
+      "Interface Design",
+      "Pedigree Visualisation",
+      "Utility Evaluation"
+    ],
+    "abstract":"VIPER (Visual Pedigree Explorer) is a tool for exploring large complex animal pedigrees and their associated genotype data. The tool combines a novel, space-efficient visualisation of the pedigree structure with an inheritance-checking algorithm. This allows users to explore the apparent errors within the genotype data in the full context of the family and pedigree structure. Ultimately, the aim is to develop an interactive software application that will allow users to identify, confirm and then remove errors from the pedigree structure and scored genotypes. This paper describes an evaluation of how VIPER displays the different scales and types of data set that can occur, along with a description of the further interface functionality necessary to meet the challenges such data presents. This is followed by an examination of a range of possible pedigree genotype errors by replicating these errors in controlled simulated data sets and showing how they are manifested in the VIPER interface and observed by a domain expert. The data sets used include both real and artificially generated data, the advantage of the latter being that they produce known effects in the visualization which the domain expert can then interpret as being useful or unhelpful as they see fit. © 2011 IEEE.",
+    "doi":"10.1109\/BioVis.2011.6094056",
+    "outer_cite_count":5.0
+  },
+  {
+    "key":"AGWTWQIN",
+    "publication_name":"IEEE Symposium on Biological Data Visualization 2011, BioVis 2011 - Proceedings",
+    "year":2011,
+    "author_names":"Günter Jäger;Florian Battke;Kay Nieselt",
+    "affiliations":"Universität Tübingen",
+    "title":"TIALA Time series alignment analysis",
+    "author_keywords":[
+      "expression analysis",
+      "microarrays",
+      "Multiple time series alignment",
+      "visual analytics"
+    ],
+    "abstract":"The analysis of time series expression data is widely employed for investigating biological mechanisms. Microarrays are often used to generate time series for several different experimental conditions. These time series then need to be compared to each other. For a successful comparison it is necessary to perform a time series alignment because the experiments can differ in the number of time points, as well as in the time points themselves. In this work we propose a novel visual analytics approach for the analysis of multiple time series experiments in parallel. Our time series alignment analysis tool Tiala allows one to align multiple time series experiments and to visually explore the aligned expression profiles. A two- and three-dimensional visualization strategy was implemented that is especially designed to enhance the display of multiple aligned time series expression profiles. Tiala is available as a part of the microarray data analysis software Mayday. Mayday itself is open source software distributed under the terms of the GNU General Public License. It is available from http:\/\/www.microarray-analysis.org. We apply our approach to time series showing abiotic stress responses of Arabidopsis thaliana and to data sets from two replicates of the antibiotics producing bacterium Streptomyces coelicolor. © 2011 IEEE.",
+    "doi":"10.1109\/BioVis.2011.6094048",
+    "outer_cite_count":5.0
+  },
+  {
+    "key":"J9AP7YGU",
+    "publication_name":"BMC Proceedings",
+    "year":2015,
+    "author_names":"Daekyoung Jung;Bohyoung Kim;Robert J. Freishtat;Mamta Giri;Eric Hoffman;Jinwook Seo",
+    "affiliations":"Seoul National University Bundang Hospital;Seoul National University;Childrens National Health System;The George Washington University",
+    "title":"MiRTarVis: An interactive visual analysis tool for microRNA-mRNA expression profile data",
+    "author_keywords":[
+      "Expression profile",
+      "MicroRNA",
+      "mRNA",
+      "Target prediction",
+      "Visualization"
+    ],
+    "abstract":"© 2015 Jung et al. Background: MicroRNAs (miRNA) are short nucleotides that down-regulate its target genes. Various miRNA target prediction algorithms have used sequence complementarity between miRNA and its targets. Recently, other algorithms tried to improve sequence-based miRNA target prediction by exploiting miRNA-mRNA expression profile data. Some web-based tools are also introduced to help researchers predict targets of miRNAs from miRNA-mRNA expression profile data. A demand for a miRNA-mRNA visual analysis tool that features novel miRNA prediction algorithms and more interactive visualization techniques exists. Results: We designed and implemented miRTarVis, which is an interactive visual analysis tool that predicts targets of miRNAs from miRNA-mRNA expression profile data and visualizes the resulting miRNA-target interaction network. miRTarVis has intuitive interface design in accordance with the analysis procedure of load, filter, predict, and visualize. It predicts targets of miRNA by adopting Bayesian inference and MINE analyses, as well as conventional correlation and mutual information analyses. It visualizes a resulting miRNA-mRNA network in an interactive Treemap, as well as a conventional node-link diagram. miRTarVis is available at http:\/\/hcil.snu.ac.kr\/~rati\/miRTarVis\/index.html. Conclusions: We reported findings from miRNA-mRNA expression profile data of asthma patients using miRTarVis in a case study. miRTarVis helps to predict and understand targets of miRNA from miRNA-mRNA expression profile data.",
+    "doi":"10.1186\/1753-6561-9-S6-S2",
+    "outer_cite_count":18.0
+  },
+  {
+    "key":"MKH77PFJ",
+    "publication_name":"BMC Bioinformatics",
+    "year":2017,
+    "author_names":"Chihua Ma;Timothy Luciani;Anna Terebus;Jie Liang;G. Elisabeta Marai",
+    "affiliations":"University of Illinois at Chicago",
+    "title":"PRODIGEN: Visualizing the probability landscape of stochastic gene regulatory networks in state and time space",
+    "author_keywords":[
+      "Feature detection and tracking",
+      "Modelling\/Simulation",
+      "Network analysis",
+      "Systems biology"
+    ],
+    "abstract":"© 2017 The Author(s). Background: Visualizing the complex probability landscape of stochastic gene regulatory networks can further biologists' understanding of phenotypic behavior associated with specific genes. Results: We present PRODIGEN (PRObability DIstribution of GEne Networks), a web-based visual analysis tool for the systematic exploration of probability distributions over simulation time and state space in such networks. PRODIGEN was designed in collaboration with bioinformaticians who research stochastic gene networks. The analysis tool combines in a novel way existing, expanded, and new visual encodings to capture the time-varying characteristics of probability distributions: spaghetti plots over one dimensional projection, heatmaps of distributions over 2D projections, enhanced with overlaid time curves to display temporal changes, and novel individual glyphs of state information corresponding to particular peaks. Conclusions: We demonstrate the effectiveness of the tool through two case studies on the computed probabilistic landscape of a gene regulatory network and of a toggle-switch network. Domain expert feedback indicates that our visual approach can help biologists: 1) visualize probabilities of stable states, 2) explore the temporal probability distributions, and 3) discover small peaks in the probability landscape that have potential relation to specific diseases.",
+    "doi":"10.1186\/s12859-016-1447-1",
+    "outer_cite_count":1.0
+  },
+  {
+    "key":"IFG5LCMC",
+    "publication_name":"BMC Bioinformatics",
+    "year":2017,
+    "author_names":"Marwan Abdellah;Ahmet Bilgili;Stefan Eilemann;Julian Shillcock;Henry Markram;Felix Schürmann",
+    "affiliations":"Ecole Polytechnique Fédérale de Lausanne",
+    "title":"Bio-physically plausible visualization of highly scattering fluorescent neocortical models for in silico experimentation",
+    "author_keywords":[
+      "Fluorescence rendering and visualization",
+      "Highly scattering volumes",
+      "In silico neuroscience",
+      "Modeling and simulation",
+      "Neocortical brain models"
+    ],
+    "abstract":"© 2017 The Author(s). Background: We present a visualization pipeline capable of accurate rendering of highly scattering fluorescent neocortical neuronal models. The pipeline is mainly developed to serve the computational neurobiology community. It allows the scientists to visualize the results of their virtual experiments that are performed in computer simulations, or in silico. The impact of the presented pipeline opens novel avenues for assisting the neuroscientists to build biologically accurate models of the brain. These models result from computer simulations of physical experiments that use fluorescence imaging to understand the structural and functional aspects of the brain. Due to the limited capabilities of the current visualization workflows to handle fluorescent volumetric datasets, we propose a physically-based optical model that can accurately simulate light interaction with fluorescent-tagged scattering media based on the basic principles of geometric optics and Monte Carlo path tracing. We also develop an automated and efficient framework for generating dense fluorescent tissue blocks from a neocortical column model that is composed of approximately 31000 neurons. Results: Our pipeline is used to visualize a virtual fluorescent tissue block of 50 μm3 that is reconstructed from the somatosensory cortex of juvenile rat. The fluorescence optical model is qualitatively analyzed and validated against experimental emission spectra of different fluorescent dyes from the Alexa Fluor family. Conclusion: We discussed a scientific visualization pipeline for creating images of synthetic neocortical neuronal models that are tagged virtually with fluorescent labels on a physically-plausible basis. The pipeline is applied to analyze and validate simulation data generated from neuroscientific in silico experiments.",
+    "doi":"10.1186\/s12859-016-1444-4",
+    "outer_cite_count":4.0
+  },
+  {
+    "key":"ILIHFVMK",
+    "publication_name":"BMC Bioinformatics",
+    "year":2015,
+    "author_names":"Marwan Abdellah;Ahmet Bilgili;Stefan Eilemann;Henry Markram;Felix Schürmann",
+    "affiliations":"Ecole Polytechnique Fédérale de Lausanne",
+    "title":"Physically-based in silico light sheet microscopy for visualizing fluorescent brain models",
+    "author_keywords":[
+      "Fluorescence rendering and visualization",
+      "In silico neuroscience",
+      "Light sheet fluorescence microscopy",
+      "Modelling and simulation",
+      "Neocortical brain models"
+    ],
+    "abstract":"© 2015 Abdellah et al. Background: We present a physically-based computational model of the light sheet fluorescence microscope (LSFM). Based on Monte Carlo ray tracing and geometric optics, our method simulates the operational aspects and image formation process of the LSFM. This simulated, in silico LSFM creates synthetic images of digital fluorescent specimens that can resemble those generated by a real LSFM, as opposed to established visualization methods producing visually-plausible images. We also propose an accurate fluorescence rendering model which takes into account the intrinsic characteristics of fluorescent dyes to simulate the light interaction with fluorescent biological specimen. Results: We demonstrate first results of our visualization pipeline to a simplified brain tissue model reconstructed from the somatosensory cortex of a young rat. The modeling aspects of the LSFM units are qualitatively analysed, and the results of the fluorescence model were quantitatively validated against the fluorescence brightness equation and characteristic emission spectra of different fluorescent dyes. AMS subject classification: Modelling and simulation.",
+    "doi":"10.1186\/1471-2105-16-S11-S8",
+    "outer_cite_count":9.0
+  },
+  {
+    "key":"YXM5SYEN",
+    "publication_name":"IEEE Symposium on Biological Data Visualization 2011, BioVis 2011 - Proceedings",
+    "year":2011,
+    "author_names":"Jeremy Goecks;Kanwei Li;Dave Clements;James Taylor",
+    "affiliations":"Emory University",
+    "title":"The Galaxy Track Browser: Transforming the genome browser from visualization tool to analysis tool",
+    "author_keywords":[
+      "Galaxy Track Browser",
+      "genome browser",
+      "genomics",
+      "visual analytics"
+    ],
+    "abstract":"The proliferation of next-generation sequencing (NGS) technologies and analysis tools present new challenges to genome browsers. These challenges include supporting very large datasets, integrating analysis tools with data visualization to help reason about and improve analyses, and sharing or publishing fully interactive visualizations. The Galaxy Track Browser (GTB) is a Web-based genome browser integrated into the Galaxy platform that addresses these challenges. GTB is the first Web-based genome browser to provide a full multi-resolution data model; this model supports efficient data retrieval from very large datasets. GTB leverages the Galaxy platform to combine data visualization and data analysis; users can specify parameter values and run tools to produce new data, all within GTB. GTB also provides interactive filters that dynamically show and hide data and can be used to identify data for further investigation. GTB is available on every Galaxy server, and visualizations can be created for both standard and custom genome builds. Fully interactive GTB visualizations can be shared with colleagues and published on the Web using a simple graphical user interface. © 2011 IEEE.",
+    "doi":"10.1109\/BioVis.2011.6094046",
+    "outer_cite_count":2.0
+  },
+  {
+    "key":"XSKUNT3R",
+    "publication_name":"IEEE Symposium on Biological Data Visualization 2011, BioVis 2011 - Proceedings",
+    "year":2011,
+    "author_names":"Philip Livengood;Ross MacIejewski;Wei Chen;David S. Ebert",
+    "affiliations":"Purdue University;Zhejiang University;Arizona State University",
+    "title":"A visual analysis system for metabolomics data",
+    "author_keywords":[
+      "GCXGC-MS",
+      "Metabolomics",
+      "TIC",
+      "visual analysis"
+    ],
+    "abstract":"When analyzing metabolomics data, cancer care researchers are searching for differences between known healthy samples and unhealthy samples. By analyzing and understanding these differences, researchers hope to identify cancer biomarkers. In this work we present a novel system that enables interactive comparative visualization and analysis of metabolomics data obtained by two-dimensional gas chromatography-mass spectrome-try (GCxGC-MS). Our system allows the user to produce, and interactively explore, visualizations of multiple GCxGC-MS data sets, thereby allowing a user to discover differences and features in real time. Our system provides statistical support in the form of mean and standard deviation calculations to aid users in identifying meaningful differences between sample groups. We combine these with multiform, linked visualizations in order to provide researchers with a powerful new tool for GCxGC-MS exploration and bio-marker discovery. © 2011 IEEE.",
+    "doi":"10.1109\/BioVis.2011.6094050",
+    "outer_cite_count":1.0
+  },
+  {
+    "key":"0ZYW1NED",
+    "publication_name":"BioVis 2014 - IEEE Symposium on Biological Data Visualization 2014",
+    "year":2014,
+    "author_names":"Taylor, Andy; McLeod, Kenneth; Armit, Chris; Baldock, Richard; Burger, Albert",
+    "affiliations":null,
+    "title":"Visualization of gene expression information within the context of the mouse anatomy",
+    "author_keywords":[
+      "Gene expression",
+      "Anatomy ontology",
+      "visualization",
+      "Developmental mouse"
+    ],
+    "abstract":"Background: The eMouse Atlas of Gene Expression (EMAGE) is an online resource that publishes the results of in situ gene expression experiments on the developmental mouse. The resource provides comprehensive search facilities, but few analytical tools or visual mechanisms for navigating the data set. To deal with the missing visual navigation, this paper explores the application of sunburst and icicle visualizations within EMAGE. Results: A prototype solution delivered a simple user interface that helps the user query EMAGE and generate a sunburst\/icicle diagram. An evaluation featuring test subjects from the EMAGE staff studied the visualizations and provided a range of suggested improvements. Moreover the evaluation discovered that in addition to providing a visual means of walking through the data, when grouped, the sunburst delivers an interactive overview that assists with analysing sets of related genes. Conclusions: The sunburst and icicle visualizations have been shown to be effective tools for summarising gene expression data. The sunburst with its space saving radial layout was found especially useful for providing an overview of gene families or pathways. Work is ongoing to integrate these visualizations into EMAGE.",
+    "doi":null,
+    "outer_cite_count":null
+  },
+  {
+    "key":"CM3YZIWX",
+    "publication_name":"IEEE Symposium on Biological Data Visualization 2011, BioVis 2011 - Proceedings",
+    "year":2011,
+    "author_names":"Corinna Vehlow;Julian Heinrich;Florian Battke;Daniel Weiskopf;Kay Nieselt",
+    "affiliations":"Universität Tübingen;Universität Stuttgart",
+    "title":"IHAT: Interactive hierarchical aggregation table",
+    "author_keywords":[
+      "genome wide association studies",
+      "hierarchical aggregation",
+      "phenotype-genotype correlation"
+    ],
+    "abstract":"In the search for single-nucleotide polymorphisms (SNPs), genome wide association studies have become an important technique for the identification of associations between genotype and phenotype of a diverse set of sequence-based data. In this work, we present a methodology for the visual assessment of SNPs using interactive hierarchical aggregation techniques combined with methods known from traditional sequence browsers and cluster heatmaps. Our prototype tool iHAT supports the visualization of multiple sequence alignments, associated metadata, and hierarchical clusterings. Moreover, data-type dependent colormaps and aggregation strategies as well as different filtering options support the user in finding correlations between sequences and metadata. Similar to other visualizations such as parallel coordinates or heatmaps, iHAT is aimed at exploiting the human pattern-recognition ability for spotting patterns that might indicate correlation or anticorrelation. Together with its interactive features and a database backend for fast data retrieval, we consider iHAT as a prototype for a visual analytics system for genome-wide association studies. © 2011 IEEE.",
+    "doi":"10.1109\/BioVis.2011.6094049",
+    "outer_cite_count":3.0
+  },
+  {
+    "key":"WN8KM2MI",
+    "publication_name":"IEEE Symposium on Biological Data Visualization 2011, BioVis 2011 - Proceedings",
+    "year":2011,
+    "author_names":"Corinna Vehlow;Bernhard Preim;Michael Lappe",
+    "affiliations":"Max Planck Institute for Molecular Genetics;Otto von Guericke University of Magdeburg;Universität Stuttgart",
+    "title":"Visualization of anisotropic contact potentials within protein structures",
+    "author_keywords":[
+      "geometric contact potential",
+      "protein model scoring",
+      "protein structure prediction"
+    ],
+    "abstract":"The use of local covalent geometry for quality assessment and refinement of protein structure models is a well-established methodology. The question arises whether information on non-covalent geometry contained within resolved structures can be harnessed to improve structure prediction. Moreover, incorporation of different combinations of priors would pave the way towards multi-body potentials. Existing empirical force-fields do not facilitate an interactive exploration of the parameter space and an assignment of spatial propensities to contacts. Hence, we investigate the possibility of making such propensities available for synergistic modeling. We present an approach that facilitates the extraction and analysis of anisotropic contact potentials for a multitude of parameters describing an amino acid and the conditions within its microenvi-ronment. For this purpose, two novel visualization principles will be introduced. The first visualization illustrates anisotropic residue-dependent contact density potentials in the form of a map projection. A second visualization is overlaid onto this, showing similar local neighborhoods as abstract traces of residues contained within each individual neighborhood. The Contact Geometry Analysis Plugin (CGAP) (for CMView) we developed allows incorporation of geometric orientation propensities into the process of interactive protein modeling and can be used for the generation of improved energy functions. It further supports the analysis of model quality, as it directly illustrates model consistency with known spatial propensities which, in turn, enables users to detect possible structural errors. © 2011 IEEE.",
+    "doi":"10.1109\/BioVis.2011.6094045",
+    "outer_cite_count":1.0
+  },
+  {
+    "key":"UNFG9UCL",
+    "publication_name":"BioVis 2013 - IEEE Symposium on Biological Data Visualization 2013, Proceedings",
+    "year":2013,
+    "author_names":"Kenneth Sabir;Christian Stolte;Bruce Tabor;Seán I. O'Donoghue",
+    "affiliations":"Garvan Institute of Medical Research;CSIRO Computational Informatics",
+    "title":"The molecular control toolkit: Controlling 3D molecular graphics via gesture and voice",
+    "author_keywords":[
+      "Gestural input",
+      "Macromolecules",
+      "Molecular graphics",
+      "Pointing",
+      "User interface toolkits",
+      "Voice control"
+    ],
+    "abstract":"Three-dimensional (3D) molecular graphic systems are widely used in the life sciences, both for research and communication. These systems need to enable a rich set of 3D operations, including three-axis rotation and translation, selection of parts of macromolecules, and the ability to redefine the center of rotation. As a result, graphical interfaces for these systems typically require users to learn complex keyboard and mouse combinations. This can be a significant barrier for new or occasional users, and even for experts, precise control of 3D molecular structures can be challenging. To help address these challenges, we developed the Molecular Control Toolkit to support multiple consumer gesture and voice recognition devices, and provide an API that allows adaption to multiple molecular graphics systems. The toolkit allows intuitive control, almost as if users are directly manipulating 3D objects in their hands. We applied the toolkit to the Kinect and Leap Motion devices, and to the Aquaria molecular graphics system. We did a pilot user study with 18 life scientists to test the resulting system in different scenarios. Overall, users gave quite favorable ratings to using the Kinect and Leap Motion gesture devices to control molecular graphics, even though these devices initially proved less efficient for common 3D control tasks, compared to the more familiar mouse\/keyboard. To our knowledge, this is the first toolkit for macromolecular graphics that supports multiple devices with a set of controls sufficiently rich to be useful in the day-to-day work of a broad range of life scientists. The Molecular Control Toolkit and Aquaria can be accessed at http:\/\/aquaria.ws. © 2013 IEEE.",
+    "doi":"10.1109\/BioVis.2013.6664346",
+    "outer_cite_count":27.0
+  },
+  {
+    "key":"TKYZM564",
+    "publication_name":"BMC Bioinformatics",
+    "year":2015,
+    "author_names":"Hao Ding;Chao Wang;Kun Huang;Raghu Machiraju",
+    "affiliations":"The Ohio State University",
+    "title":"GRAPHIE: Graph based histology image explorer",
+    "author_keywords":[
+      "Graph visualization",
+      "Histology image exploration",
+      "Phenotypical analysis",
+      "Visual analytics tool"
+    ],
+    "abstract":"© 2015 Ding et al. Background: Histology images comprise one of the important sources of knowledge for phenotyping studies in systems biology. However, the annotation and analyses of histological data have remained a manual, subjective and relatively low-throughput process. Results: We introduce Graph based Histology Image Explorer (GRAPHIE)-a visual analytics tool to explore, annotate and discover potential relationships in histology image collections within a biologically relevant context. The design of GRAPHIE is guided by domain experts' requirements and well-known InfoVis mantras. By representing each image with informative features and then subsequently visualizing the image collection with a graph, GRAPHIE allows users to effectively explore the image collection. The features were designed to capture localized morphological properties in the given tissue specimen. More importantly, users can perform feature selection in an interactive way to improve the visualization of the image collection and the overall annotation process. Finally, the annotation allows for a better prospective examination of datasets as demonstrated in the users study. Thus, our design of GRAPHIE allows for the users to navigate and explore large collections of histology image datasets. Conclusions: We demonstrated the usefulness of our visual analytics approach through two case studies. Both of the cases showed efficient annotation and analysis of histology image collection.",
+    "doi":"10.1186\/1471-2105-16-S11-S10",
+    "outer_cite_count":7.0
+  },
+  {
+    "key":"ZBCBRYJN",
+    "publication_name":"BMC Bioinformatics",
+    "year":2017,
+    "author_names":"Marwan Abdellah;Juan Hernando;Nicolas Antille;Stefan Eilemann;Henry Markram;Felix Schürmann",
+    "affiliations":"Ecole Polytechnique Fédérale de Lausanne",
+    "title":"Reconstruction and visualization of large-scale volumetric models of neocortical circuits for physically-plausible in silico optical studies",
+    "author_keywords":[
+      "In silico neuroscience",
+      "Modeling and simulation",
+      "Neocortical brain models",
+      "Polygonal and volumetric models"
+    ],
+    "abstract":"© 2017 The Author(s). Background: We present a software workflow capable of building large scale, highly detailed and realistic volumetric models of neocortical circuits from the morphological skeletons of their digitally reconstructed neurons. The limitations of the existing approaches for creating those models are explained, and then, a multi-stage pipeline is discussed to overcome those limitations. Starting from the neuronal morphologies, we create smooth piecewise watertight polygonal models that can be efficiently utilized to synthesize continuous and plausible volumetric models of the neurons with solid voxelization. The somata of the neurons are reconstructed on a physically-plausible basis relying on the physics engine in Blender. Results: Our pipeline is applied to create 55 exemplar neurons representing the various morphological types that are reconstructed from the somatsensory cortex of a juvenile rat. The pipeline is then used to reconstruct a volumetric slice of a cortical circuit model that contains 210,000 neurons. The applicability of our pipeline to create highly realistic volumetric models of neocortical circuits is demonstrated with an in silico imaging experiment that simulates tissue visualization with brightfield microscopy. The results were evaluated with a group of domain experts to address their demands and also to extend the workflow based on their feedback. Conclusion: A systematic workflow is presented to create large scale synthetic tissue models of the neocortical circuitry. This workflow is fundamental to enlarge the scale of in silico neuroscientific optical experiments from several tens of cubic micrometers to a few cubic millimeters. AMS Subject Classification: Modelling and Simulation",
+    "doi":"10.1186\/s12859-017-1788-4",
+    "outer_cite_count":5.0
+  },
+  {
+    "key":"PSJAUBAD",
+    "publication_name":"BioVis 2019 - IEEE Symposium on Biological Data Visualization 2019",
+    "year":2019,
+    "author_names":"Meili Vanegas-Hernandez;Fabio Andres Lopez-Corredor;Tiberio Hernandez;Alejandro Reyes;John Alexis Guerra-Gomez",
+    "affiliations":null,
+    "title":"BioCicle: A Tool for Summarizing and Comparing Taxonomic Profiles out of Biological Sequence Alignments",
+    "author_keywords":[
+      "Information Visualization",
+      "Bioinformatics",
+      "Biological Sequence Comparison"
+    ],
+    "abstract":"We present BioCicle, an open source and web-based application for summarizing and comparing taxonomic profiles for biological sequence alignments. BioCicle supports several input formats, as well as direct sequence comparisons using the NCBI\/EBI’s (d) and UniProt’s (e) APIs. Once data has been loaded, BioCicle presents an overview of sequence comparisons results (a) and allows the user to filter regions of interest (b) to specifically analyze the most representative species that match to the each query according to the score of similarity (c).",
+    "doi":null,
+    "outer_cite_count":null
+  },
+  {
+    "key":"W6JM8HTX",
+    "publication_name":"BMC Bioinformatics",
+    "year":2017,
+    "author_names":"Chen He;Luana Micallef;Zia ur Rehman Tanoli;Samuel Kaski;Tero Aittokallio;Giulio Jacucci",
+    "affiliations":"Aalto University;Helsingin Yliopisto",
+    "title":"MediSyn: Uncertainty-aware visualization of multiple biomedical datasets to support drug treatment selection",
+    "author_keywords":[
+      "Interactive visualization",
+      "Multiple datasets",
+      "Uncertainty visualization"
+    ],
+    "abstract":"© 2017 The Author(s). Background: Dispersed biomedical databases limit user exploration to generate structured knowledge. Linked Data unifies data structures and makes the dispersed data easy to search across resources, but it lacks supporting human cognition to achieve insights. In addition, potential errors in the data are difficult to detect in their free formats. Devising a visualization that synthesizes multiple sources in such a way that links between data sources are transparent, and uncertainties, such as data conflicts, are salient is challenging. Results: To investigate the requirements and challenges of uncertainty-aware visualizations of linked data, we developed MediSyn, a system that synthesizes medical datasets to support drug treatment selection. It uses a matrix-based layout to visually link drugs, targets (e.g., mutations), and tumor types. Data uncertainties are salient in MediSyn; for example, (i) missing data are exposed in the matrix view of drug-target relations; (ii) inconsistencies between datasets are shown via overlaid layers; and (iii) data credibility is conveyed through links to data provenance. Conclusions: Through the synthesis of two manually curated datasets, cancer treatment biomarkers and drug-target bioactivities, a use case shows how MediSyn effectively supports the discovery of drug-repurposing opportunities. A study with six domain experts indicated that MediSyn benefited the drug selection and data inconsistency discovery. Though linked publication sources supported user exploration for further information, the causes of inconsistencies were not easy to find. Additionally, MediSyn could embrace more patient data to increase its informativeness. We derive design implications from the findings.",
+    "doi":"10.1186\/s12859-017-1785-7",
+    "outer_cite_count":2.0
+  },
+  {
+    "key":"8E2H5B5M",
+    "publication_name":"BMC Bioinformatics",
+    "year":2015,
+    "author_names":"Hamid Younesy;Torsten Möller;Matthew C. Lorincz;Mohammad M. Karimi;Steven J.M. Jones",
+    "affiliations":"British Columbia Cancer Agency;Universitat Wien;Simon Fraser University;The University of British Columbia",
+    "title":"VisRseq: R-based visual framework for analysis of sequencing data",
+    "author_keywords":[
+      "Interactive Visualization",
+      "R-project",
+      "Sequencing Data"
+    ],
+    "abstract":"© 2015 Younesy et al. Background: Several tools have been developed to enable biologists to perform initial browsing and exploration of sequencing data. However the computational tool set for further analyses often requires significant computational expertise to use and many of the biologists with the knowledge needed to interpret these data must rely on programming experts. Results: We present VisRseq, a framework for analysis of sequencing datasets that provides a computationally rich and accessible framework for integrative and interactive analyses without requiring programming expertise. We achieve this aim by providing R apps, which offer a semi-auto generated and unified graphical user interface for computational packages in R and repositories such as Bioconductor. To address the interactivity limitation inherent in R libraries, our framework includes several native apps that provide exploration and brushing operations as well as an integrated genome browser. The apps can be chained together to create more powerful analysis workflows. Conclusions: To validate the usability of VisRseq for analysis of sequencing data, we present two case studies performed by our collaborators and report their workflow and insights.",
+    "doi":"10.1186\/1471-2105-16-S11-S2",
+    "outer_cite_count":18.0
+  },
+  {
+    "key":"Z95993C7",
+    "publication_name":"IEEE Symposium on Biological Data Visualization 2012, BioVis 2012 - Proceedings",
+    "year":2012,
+    "author_names":"Shinichi Mukosaka;Kanae Teramoto;Hideki Koike",
+    "affiliations":"The University of Electro-Communications;JEOL Ltd., Japan",
+    "title":"mzRepeat: Visual analysis of lipids in mass spectrometry",
+    "author_keywords":[
+      "lipid analysis",
+      "mass spectrometry",
+      "visual analysis"
+    ],
+    "abstract":"Mass spectrometry is widely used for identifying molecules that have similar structures. A mass spectrum obtain from lipids using MALDI-MS (matrix-assisted laser desorption\/ionization-mass spectrometer) was observed to have peaks at equal intervals on the m\/z axis. If these repeated peaks can be collectively shown, analysis can be optimized even further. In this study, we propose a visualization system for analyzing repeated observed peaks on the m\/z axis. The system, mzRepeat, was developed and evaluated by analyzing butter. A feature of mzRepeat is that ions that differ only in number of repeating structures are shown collectively. It is especially effective for analysis of many peaks from the samples that contain several molecular species. © 2012 IEEE.",
+    "doi":"10.1109\/BioVis.2012.6378594",
+    "outer_cite_count":1.0
+  },
+  {
+    "key":"633B3ARY",
+    "publication_name":"BioVis 2017 - IEEE Symposium on Biological Data Visualization 2014",
+    "year":2017,
+    "author_names":"Unen, Vincent van; Höllt, Thomas; Pezzotti, Nicola; Li, Na; Reinders, Marcel J. T.; Eisemann, Elmar; Koning, Frits; Vilanova, Anna; Lelieveldt, Boudewijn P. F.",
+    "affiliations":null,
+    "title":"Interactive Visual Analysis of Mass Cytometry Data by Hierarchical Stochastic Neighbor Embedding Reveals Rare Cell Types",
+    "author_keywords":[
+      "Mass cytometry",
+      "t-Distributed Stochastic Neighbor Embedding",
+      "t-SNE",
+      "Hierarchical SNE",
+      "HSNE",
+      "rare cells",
+      "single-cell analysis",
+      "high-dimensional data analysis "
+    ],
+    "abstract":null,
+    "doi":null,
+    "outer_cite_count":null
+  },
+  {
+    "key":"LE7EX68T",
+    "publication_name":"BMC Proceedings",
+    "year":2015,
+    "author_names":"Shareef M. Dabdoub;R. Wolfgang Rumpf;Amber D. Shindhelm;William C. Ray",
+    "affiliations":"The Ohio State University;Children's Hospital Columbus",
+    "title":"MoFlow: Visualizing conformational changes in molecules as molecular flow improves understanding",
+    "author_keywords":[
+      "Molecular Conformation",
+      "Molecular Dynamics",
+      "Molecular Structural Biology",
+      "Visualization"
+    ],
+    "abstract":"© 2015 Dabdoub et al. Background: Current visualizations of molecular motion use a Timeline-analogous representation that conveys first the molecule was shaped like this, then like this.. This scheme is orthogonal to the Pathline-like human understanding of motion this part of the molecule moved from here to here along this path. We present MoFlow, a system for visualizing molecular motion using a Pathline-analogous representation. Results: The MoFlow system produces high-quality renderings of molecular motion as atom pathlines, as well as interactive WebGL visualizations, and 3D printable models. In a preliminary user study, MoFlow representations are shown to be superior to canonical representations for conveying molecular motion. Conclusions: Pathline-based representations of molecular motion are more easily understood than timeline representations. Pathline representations provide other advantages because they represent motion directly, rather than representing structure with inferred motion.",
+    "doi":"10.1186\/1753-6561-9-S6-S5",
+    "outer_cite_count":5.0
+  },
+  {
+    "key":"AFZAL4TS",
+    "publication_name":"BMC Bioinformatics",
+    "year":2017,
+    "author_names":"Lucia Kocincová;Miroslava Jarešová;Jan Byška;Július Parulek;Helwig Hauser;Barbora Kozlíková",
+    "affiliations":"Universitetet i Bergen;Masaryk University",
+    "title":"Comparative visualization of protein secondary structures",
+    "author_keywords":[
+      "Molecular sequence analysis",
+      "Molecular structure and function",
+      "Molecular visualization"
+    ],
+    "abstract":"© 2017 The Author(s). Background: Protein function is determined by many factors, namely by its constitution, spatial arrangement, and dynamic behavior. Studying these factors helps the biochemists and biologists to better understand the protein behavior and to design proteins with modified properties. One of the most common approaches to these studies is to compare the protein structure with other molecules and to reveal similarities and differences in their polypeptide chains. Results: We support the comparison process by proposing a new visualization technique that bridges the gap between traditionally used 1D and 3D representations. By introducing the information about mutual positions of protein chains into the 1D sequential representation the users are able to observe the spatial differences between the proteins without any occlusion commonly present in 3D view. Our representation is designed to serve namely for comparison of multiple proteins or a set of time steps of molecular dynamics simulation. Conclusions: The novel representation is demonstrated on two usage scenarios. The first scenario aims to compare a set of proteins from the family of cytochromes P450 where the position of the secondary structures has a significant impact on the substrate channeling. The second scenario focuses on the protein flexibility when by comparing a set of time steps our representation helps to reveal the most dynamically changing parts of the protein chain.",
+    "doi":"10.1186\/s12859-016-1449-z",
+    "outer_cite_count":4.0
+  },
+  {
+    "key":"O7FGV0NI",
+    "publication_name":"BioVis 2014 - IEEE Symposium on Biological Data Visualization 2014",
+    "year":2014,
+    "author_names":"Edes, Mine; Özturan, Can; Haliloğlu, Türkan; Luna, Augustin; Nussinov, Ruth",
+    "affiliations":null,
+    "title":"MIMTool: A Tool for Drawing Molecular Interaction Maps",
+    "author_keywords":[
+      "Orthogonal Graph Drawing",
+      "Molecular Interaction Maps"
+    ],
+    "abstract":"Background: To understand protein function, it is important to study proteinprotein interaction networks. These networks can be represented in network diagrams called protein interaction maps that can lead to better understanding by visualization. We address the problem of drawing of protein interactions in Kohn's Molecular Interaction Map (MIM) notation. Even though there are some existing tools for graphical visualization of protein interactions in general, there is no tool that can draw protein interactions with MIM notation with full support. Results: MIMTool was developed for drawing protein interaction maps in Kohn's MIM notation. MIMTool was developed using the Qt toolkit libraries and introduces several unique features such as full interactivity, object dragging, ability to export files in MIMML, SBML and line drawing with automatic bending and crossover minimization, which are not available in other diagram editors. MIMTool also has a unique orthogonal edge drawing method that is both easy and more flexible than other orthogonal drawing methods present in other interaction drawing tools. Conclusions: MIMTool facilitates faster drawing, updating and exchanging of MIMs. Among its several features, it also includes a semi-automatic drawing algorithm that makes use of shortest path algorithm for constructing lines with small number of bends and crossings. MIMTool contributes a much needed software tool that was missing and will facilitate wider adoption of Kohn's MIM notation.",
+    "doi":null,
+    "outer_cite_count":null
+  },
+  {
+    "key":"LQEXY6SG",
+    "publication_name":"BioVis 2014 - IEEE Symposium on Biological Data Visualization 2014",
+    "year":2014,
+    "author_names":"Zeckzer, Dirk;Gerighausen, Daniel;Steiner, Lydia;Prohaska, Sonja J.",
+    "affiliations":null,
+    "title":"Analyzing Chromatin Using Tiled Binned Scatterplot Matrices",
+    "author_keywords":[
+      "Scatterplot Matrix",
+      "Chromatin"
+    ],
+    "abstract":"Background: Over the last years, more and more biological data became available. Besides the pure amount of new data, also its dimensionality—the number of dierent attributes per data point—increased. Recently, especially the amount of data on chromatin and its modifications increased considerably. In the field of epigenetics, appropriate visualization tools designed for highlighting the dierent aspects of epigenetic data are currently not available. Results: We present a tool called TiBi-Scatter enabling correlation analysis in 2D. This approach allows for analyzing multidimensional data while keeping the use of resources such as memory small. Thus, it is in particular applicable to large data sets. Conclusions: TiBi-Scatter is a resource-friendly and easy to use tool that allows for the hypothesis-free analysis of large multidimensional biological data sets.",
+    "doi":null,
+    "outer_cite_count":null
+  },
+  {
+    "key":"2B2RR3C3",
+    "publication_name":"IEEE Symposium on Biological Data Visualization 2011, BioVis 2011 - Proceedings",
+    "year":2011,
+    "author_names":"David Mayerich;Chris Bjornsson;Jonothan Taylor;Badrinath Roysam",
+    "affiliations":"Rensselaer Polytechnic Institute;University of Houston;University of Illinois at Urbana-Champaign",
+    "title":"Metrics for comparing explicit representations of interconnected biological networks",
+    "author_keywords":[
+      "segmentation",
+      "skeletonization",
+      "validation",
+      "vector tracking"
+    ],
+    "abstract":"One of the major goals in biomedical image processing is accurate segmentation of networks embedded in volumetric data sets. Biological networks are composed of a meshwork of thin filaments that span large volumes of tissue. Examples of these structures include neurons and microvasculature, which can take the form of both hierarchical trees and fully connected networks, depending on the imaging modality and resolution. Network function depends on both the geometric structure and connectivity. Therefore, there is considerable demand for algorithms that segment biological networks embedded in three-dimensional data. While a large number of tracking and segmentation algorithms have been published, most of these do not generalize well across data sets. One of the major reasons for the lack of general-purpose algorithms is the limited availability of metrics that can be used to quantitiatively compare their effectiveness against a pre-constructed ground-truth. In this paper, we propose a robust metric for measuring and visualizing the differences between network models. Our algorithm takes into account both geometry and connectivity to measure network similarity. These metrics are then mapped back onto an explicit model for visualization. © 2011 IEEE.",
+    "doi":"10.1109\/BioVis.2011.6094051",
+    "outer_cite_count":6.0
+  },
+  {
+    "key":"1WTNDI1R",
+    "publication_name":"BioVis 2014 - IEEE Symposium on Biological Data Visualization 2014",
+    "year":2014,
+    "author_names":"Brix, Tobias; Praßni, Jörg-Stefan; Hinrichs, Klaus",
+    "affiliations":null,
+    "title":"Visualization of Large Volumetric Multi-Channel Microscopy Data Streams on Standard PCs",
+    "author_keywords":[
+      "volumetric texture rendering",
+      "3-D display",
+      "stereoscopic 3-D",
+      "stem cell",
+      "time lapse",
+      "lineaging",
+      "validation and correction",
+      "confocal microscopy",
+      "CUDA",
+      "image montage reconstruction"
+    ],
+    "abstract":"Background: Neural stem cells are motile and proliferative cells that undergo mitosis, dividing to produce daughter cells and ultimately producing differentiated neurons and glia. Understanding the mechanisms controlling neural stem cell migration and proliferation will play a key role in the emerging field of regenerative medicine and in cancer therapeutics. Neural stem cell studies in vitro are maturing; however, the cell’s environment may play a pivotal role in determining cell fate. Thus cells must be observed in their native niche. Visualizing a three dimensional image of an intact tissue sample for quantitative and qualitative analysis is non-trivial. It becomes more difficult when the tissue sample is large and imaged at sub-cellular resolution or when imaged over time. Results: We present an application that enables the quantitative analysis of multichannel 5-D (x, y, z, t, channel) and large montage confocal fluorescence microscopy images. The image sequences show stem cells together with blood vessels, enabling quantification of the dynamic behaviors of stem cells in relation to their vascular niche, with applications in developmental and cancer biology. Our application automatically segments, tracks, and lineages the image sequence data and then allows the user to view and edit the results of automated algorithms in a stereoscopic 3-D window while simultaneously viewing the stem cell lineage tree in a 2-D window. Using the GPU to store and render the image sequence data enables a hybrid computational approach. An inference-based approach utilizing user-provided edits to automatically correct related mistakes executes interactively on the system CPU while the GPU handles 3-D visualization tasks. Conclusions: By exploiting commodity computer gaming hardware, we have developed an application that can be run in the laboratory to facilitate rapid iteration through biological experiments. There is a pressing need for visualization and analysis tools for 5-D live cell image data. We combine accurate unsupervised processes with an intuitive visualization of the results. Our validation interface allows for each data set to be corrected to 100% accuracy, ensuring that downstream data analysis is accurate and verifiable. Our tool is the first to combine all of these aspects, leveraging the synergies obtained by utilizing validation information from stereo visualization to improve the low level image processing tasks.",
+    "doi":null,
+    "outer_cite_count":null
+  }
+]
