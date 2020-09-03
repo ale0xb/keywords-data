@@ -6,7 +6,7 @@
     "author_names":"Günter Jäger;Alexander Peltzer;Kay Nieselt",
     "affiliations":"Universität Tübingen",
     "title":"InPHAP: Interactive visualization of genotype and phased haplotype data",
-    "author_keywords":[
+    "keywords":[
       "1000 genomes project",
       "Genotype data",
       "Interactive visualization",
@@ -23,7 +23,7 @@
     "author_names":"Rensu P. Theart;Ben Loos;Thomas R. Niesler",
     "affiliations":"Stellenbosch University",
     "title":"Virtual reality assisted microscopy data visualization and colocalization analysis",
-    "author_keywords":[
+    "keywords":[
       "3D Microscopic reconstruction",
       "Colocalization analysis",
       "Confocal microscopy visualization",
@@ -43,7 +43,7 @@
     "author_names":"Do Young Park;Desiree Jones;Nicanor I. Moldovan;Raghu Machiraju;Thierry Pécot",
     "affiliations":"Dorothy M. Davis Heart and Lung Research Institute;The Ohio State University",
     "title":"Robust detection and visualization of cytoskeletal structures in fibrillar scaffolds from 3-dimensional confocal image",
-    "author_keywords":[
+    "keywords":[
       "Actin",
       "CAB",
       "Energy",
@@ -64,7 +64,7 @@
     "author_names":"Paul Craig;Alan Cannon;Robert Kukla;Jessie Kennedy",
     "affiliations":"Edinburgh Napier University;Universidad Technológica de la Mixteca",
     "title":"MaTSE: The microarray time-series explorer",
-    "author_keywords":[
+    "keywords":[
       "animation",
       "bioinformatics",
       "Information visualization",
@@ -82,7 +82,7 @@
     "author_names":"Shawn M. Waldon;Peter M. Thompson;Patrick J. Hahn;Russell M. Taylor",
     "affiliations":"The University of North Carolina at Chapel Hill",
     "title":"SketchBio: A scientist's 3D interface for molecular modeling and animation",
-    "author_keywords":[
+    "keywords":[
       "Animation",
       "Collision detection",
       "Molecular modelling"
@@ -98,7 +98,7 @@
     "author_names":"Sabrina A. Silveira;Artur O. Rodrigues;Raquel C. De Melo-Minardi;Carlos Henrique Da Silveira;Wagner Meira",
     "affiliations":"Universidade Federal de Minas Gerais;Universidade Federal de Itajuba",
     "title":"ADVISe: Visualizing the dynamics of enzyme annotations in UniProt\/Swiss-Prot",
-    "author_keywords":[
+    "keywords":[
       "Annotation",
       "Bioinformatics",
       "Database dynamics",
@@ -120,7 +120,7 @@
     "author_names":"Hani Z. Girgis;Alfredo Velasco;Zachary E. Reyes",
     "affiliations":"The University of Tulsa",
     "title":"HebbPlot: An intelligent tool for learning and visualizing chromatin mark signatures",
-    "author_keywords":[
+    "keywords":[
       "Artificial neural networks",
       "Associative learning",
       "Chromatin modifications",
@@ -140,7 +140,7 @@
     "author_names":"Lan Huong Nguyen;Susan Holmes",
     "affiliations":"Stanford University",
     "title":"Bayesian unidimensional scaling for visualizing uncertainty in high dimensional datasets with latent ordering of observations",
-    "author_keywords":[
+    "keywords":[
       "Bayesian model",
       "Dimensionality reduction",
       "Microbiome",
@@ -160,7 +160,7 @@
     "author_names":"Tuan Nhon Dang;Paul Murray;Angus Graeme Forbes",
     "affiliations":"University of Illinois at Chicago",
     "title":"PathwayMatrix: Visualizing binary relationships between proteins in biological pathways",
-    "author_keywords":[
+    "keywords":[
       "Binary Relationships",
       "Biological networks",
       "Matrix visualization",
@@ -177,7 +177,7 @@
     "author_names":"Orit Shaer;Consuelo Valdes;Sirui Liu;Kara Lu;Traci L. Haddock;Swapnil Bhatia;Douglas Densmore;Robert Kincaid",
     "affiliations":"Agilent Technologies;Boston University;Wellesley College",
     "title":"MoClo planner: Interactive visualization for Modular Cloning bio-design",
-    "author_keywords":[
+    "keywords":[
       "Bio-design",
       "Modular Cloning",
       "Synthetic biology"
@@ -193,7 +193,7 @@
     "author_names":"Corinna Vehlow;Jan Hasenauer;Andrei Kramer;Julian Heinrich;Nicole Radde;Frank Allgöwer;Daniel Weiskopf",
     "affiliations":"Universität Stuttgart",
     "title":"Uncertainty-aware visual analysis of biochemical reaction networks",
-    "author_keywords":[
+    "keywords":[
       "biochemical reaction networks",
       "Network visualization",
       "uncertainty visualization"
@@ -209,7 +209,7 @@
     "author_names":"Ivan Kolesar;Julius Parulek;Ivan Viola;Stefan Bruckner;Anne Kristin Stavrum;Helwig Hauser",
     "affiliations":"Universitetet i Bergen;Technische Universitat Wien",
     "title":"Interactively illustrating polymerization using three-level model fusion",
-    "author_keywords":[
+    "keywords":[
       "Biochemical visualization",
       "L-system modeling",
       "Multi-agent modeling",
@@ -227,7 +227,7 @@
     "author_names":"Robert Patro;Cheuk Yiu Ip;Sujal Bista;D. Thirumalai;Samuel S. Cho;Amitabh Varshney",
     "affiliations":"Wake Forest University;University of Maryland",
     "title":"MDMap: A system for data-driven layout and exploration of molecular dynamics simulations",
-    "author_keywords":[
+    "keywords":[
       "Bioinformatics",
       "Clustering",
       "Graph layout",
@@ -246,7 +246,7 @@
     "author_names":"William C. Ray;Samuel L. Wolock;Nicholas W. Callahan;Min Dong;Q. Quinn Li;Chun Liang;Thomas J. Magliery;Christopher W. Bartlett",
     "affiliations":"Miami University;The Ohio State University;Children's Hospital Columbus",
     "title":"Addressing the unmet need for visualizing conditional random fields in biological data",
-    "author_keywords":[
+    "keywords":[
       "Bioinformatics",
       "Conditional random fields",
       "Graphical probabilistic models",
@@ -263,7 +263,7 @@
     "author_names":"Katarína Furmanová;Miroslava Jarešová;Jan Byška;Adam Jurčík;Július Parulek;Helwig Hauser;Barbora Kozlíková",
     "affiliations":"Universitetet i Bergen;Masaryk University",
     "title":"Interactive exploration of ligand transportation through protein tunnels",
-    "author_keywords":[
+    "keywords":[
       "Bioinformatics visualization",
       "Computational proteomics",
       "Molecular visualization"
@@ -279,7 +279,7 @@
     "author_names":"Viktor Vad;Douglas Cedrim;Wolfgang Busch;Peter Filzmoser;Ivan Viola",
     "affiliations":"Technische Universitat Wien;Gregor Mendel Institute of Molecular Plant Biology;Universidade de Sao Paulo - USP",
     "title":"Generalized box-plot for root growth ensembles",
-    "author_keywords":[
+    "keywords":[
       "Bioinformatics visualization",
       "Curve ensembles",
       "Uncertainty visualization"
@@ -295,7 +295,7 @@
     "author_names":"André Hennig;Jörg Bernhardt;Kay Nieselt",
     "affiliations":"Ernst-Moritz-Arndt-Universität Greifswald;Universität Tübingen",
     "title":"Pan-Tetris: An interactive visualisation for Pan-genomes",
-    "author_keywords":[
+    "keywords":[
       "Bioinformatics Visualization",
       "Data Aggregation",
       "Gene Sequence analysis",
@@ -313,7 +313,7 @@
     "author_names":"Sophie Engle;Sean Whalen;Alark Joshi;Katherine S. Pollard",
     "affiliations":"University of San Francisco;The J. David Gladstone Institutes;University of California, San Francisco",
     "title":"Unboxing cluster heatmaps",
-    "author_keywords":[
+    "keywords":[
       "Bioinformatics visualization",
       "Data clustering",
       "Hierarchy data",
@@ -332,7 +332,7 @@
     "author_names":"Tuan Nhon Dang;Paul Murray;Jillian Aurisano;Angus Graeme Forbes",
     "affiliations":"University of Illinois at Chicago",
     "title":"ReactionFlow: An interactive visualization tool for causality analysis in biological pathways",
-    "author_keywords":[
+    "keywords":[
       "Biological networks",
       "Causality analysis",
       "Pathway visualization",
@@ -349,7 +349,7 @@
     "author_names":"Paul Murray;Fintan McGee;Angus G. Forbes",
     "affiliations":"Luxembourg Institute of Science and Technology;University of Illinois at Chicago",
     "title":"A taxonomy of visualization tasks for the analysis of biological pathway data",
-    "author_keywords":[
+    "keywords":[
       "Biological pathways",
       "Pathway visualization",
       "Task taxonomy"
@@ -365,7 +365,7 @@
     "author_names":"Christian Partl;Denis Kalkofen;Alexander Lex;Karl Kashofer;Marc Streit;Dieter Schmalstieg",
     "affiliations":"Johannes Kepler University Linz;Technische Universitat Graz;Medizinische Universität Graz",
     "title":"enRoute: Dynamic path extraction from biological pathway maps for in-depth experimental data analysis",
-    "author_keywords":[
+    "keywords":[
       "biological processes",
       "cellular networks",
       "copy number variation",
@@ -384,7 +384,7 @@
     "author_names":"A. J. Pretorius;Y. Zhou;R. A. Ruddle",
     "affiliations":"University of Central Lancashire;University of Leeds",
     "title":"Visual parameter optimisation for biomedical image processing",
-    "author_keywords":[
+    "keywords":[
       "Biology",
       "Biomedicine",
       "Design study",
@@ -405,7 +405,7 @@
     "author_names":"Adam Price;Robert Kosara;Cynthia Gibas",
     "affiliations":"The University of North Carolina at Charlotte",
     "title":"Gene-RiViT: A visualization tool for comparative analysis of gene neighborhoods in prokaryotes",
-    "author_keywords":[
+    "keywords":[
       "biology and genetics",
       "multi-scale visualization",
       "Visual programming"
@@ -421,7 +421,7 @@
     "author_names":"Adam M. Smith;Wen Xu;Yao Sun;James R. Faeder;G. Elisabeta Marai",
     "affiliations":"University of Pittsburgh",
     "title":"RuleBender: Integrated visualization for biochemical rule-based modeling",
-    "author_keywords":[
+    "keywords":[
       "bubble sets",
       "cell signaling",
       "computational biology",
@@ -440,7 +440,7 @@
     "author_names":"Henry Heberle;Marcelo Falsarella Carazzolle;Guilherme P. Telles;Gabriela Vaz Meirelles;Rosane Minghim",
     "affiliations":"Laboratório Nacional de Biociências;Universidade Estadual de Campinas;Universidade de Sao Paulo - USP",
     "title":"CellNetVis: A web tool for visualization of biological networks using force-directed layout constrained by cellular components",
-    "author_keywords":[
+    "keywords":[
       "Cell diagram",
       "CellNetVis",
       "Cellular component",
@@ -459,7 +459,7 @@
     "author_names":"Divya Tej Sowpati;Surabhi Srivastava;Jyotsna Dhawan;Rakesh K. Mishra",
     "affiliations":"Centre for Cellular and Molecular Biology india",
     "title":"C-State: An interactive web app for simultaneous multi-gene visualization and comparative epigenetic pattern search",
-    "author_keywords":[
+    "keywords":[
       "ChIP-seq",
       "Chromatin state",
       "Epigenetic patterns",
@@ -480,7 +480,7 @@
     "author_names":"Sehi L'Yi;Bongkyung Ko;Dong Hwa Shin;Young Joon Cho;Jaeyong Lee;Bohyoung Kim;Jinwook Seo",
     "affiliations":"Seoul National University Bundang Hospital;Seoul National University",
     "title":"XCluSim: A visual analytics tool for interactively comparing multiple clustering results of bioinformatics data",
-    "author_keywords":[
+    "keywords":[
       "Cluster Analysis",
       "Gene Expression",
       "Multiple Clustering Results",
@@ -497,7 +497,7 @@
     "author_names":"Roy A. Ruddle;Waleed Fateen;Darren Treanor;Peter Sondergeld;Phil Ouirke",
     "affiliations":"University of Leeds, School of Medicine;St James's University Hospital;University of Leeds",
     "title":"Leveraging wall-sized high-resolution displays for comparative genomics analyses of copy number variation",
-    "author_keywords":[
+    "keywords":[
       "Comparative genomics",
       "Copy number variation",
       "User interface",
@@ -515,7 +515,7 @@
     "author_names":"Jillian Aurisano;Khairi Reda;Andrew Johnson;Elisabeta G. Marai;Jason Leigh",
     "affiliations":"Argonne National Laboratory;University of Illinois at Chicago;University of Hawaiʻi at Mānoa",
     "title":"BactoGeNIE: A large-scale comparative genome visualization for big displays",
-    "author_keywords":[
+    "keywords":[
       "Comparative Genomics",
       "Large Displays",
       "Visualization"
@@ -531,7 +531,7 @@
     "author_names":"Alexandre V. Fassio;Pedro M. Martins;Samuel da S. Guimarães;Sócrates S.A. Junior;Vagner S. Ribeiro;Raquel C. de Melo-Minardi;Sabrina de A. Silveira",
     "affiliations":"Universidade Federal de Minas Gerais;Universidade Federal de Vicosa",
     "title":"Vermont: A multi-perspective visual interactive platform for mutational analysis",
-    "author_keywords":[
+    "keywords":[
       "Complex network",
       "Intramolecular network",
       "Mutational analysis",
@@ -549,7 +549,7 @@
     "author_names":"Hao Ding;Chao Wang;Kun Huang;Raghu Machiraju",
     "affiliations":"The Ohio State University;Electrical and Computer Engineering",
     "title":"IGPSe: A visual analytic system for integrative genomic based cancer patient stratification",
-    "author_keywords":[
+    "keywords":[
       "Computational biology",
       "Molecular biology",
       "Molecular genomic analysis"
@@ -565,7 +565,7 @@
     "author_names":"Christian Nowke;Maximilian Schmidt;Sacha J. Van Albada;Jochen M. Eppler;Rembrandt Bakker;Markus Diesrnann;Bernd Hentschel;Torsten Kuhlen",
     "affiliations":"Rheinisch-Westfälische Technische Hochschule Aachen;Jülich Research Center",
     "title":"VisNEST - Interactive analysis of neural activity data",
-    "author_keywords":[
+    "keywords":[
       "Computational neuroscience",
       "Interactive visualization",
       "Multi-view visualization"
@@ -581,7 +581,7 @@
     "author_names":"Christian Stolte;Kenneth S. Sabir;Julian Heinrich;Christopher J. Hammang;Andrea Schafferhans;Seán I. O'Donoghue",
     "affiliations":"Commonwealth Scientific and Industrial Research Organization;The University of Sydney;Technical University of Munich;Garvan Institute of Medical Research",
     "title":"Integrated visual analysis of protein structures, sequences, and feature data",
-    "author_keywords":[
+    "keywords":[
       "Computational Proteomics",
       "Molecular Sequence Analysis",
       "Molecular Structural Biology"
@@ -597,7 +597,7 @@
     "author_names":"Justin Feigelman;Fabian J. Theis;Carsten Marr",
     "affiliations":"Helmholtz Center Munich German Research Center for Environmental Health;Technical University of Munich",
     "title":"MCA: Multiresolution Correlation Analysis, a graphical tool for subpopulation identification in single-cell gene expression data",
-    "author_keywords":[
+    "keywords":[
       "Correlation",
       "Multiresolution",
       "QPCR analysis",
@@ -614,7 +614,7 @@
     "author_names":"Juan B. Hernando;Felix Schürmann;Luis Pastor",
     "affiliations":"Universidad Politécnica de Madrid;Ecole Polytechnique Fédérale de Lausanne;Universidad Rey Juan Carlos",
     "title":"Towards real-time visualization of detailed neural tissue models: View frustum culling for parallel rendering",
-    "author_keywords":[
+    "keywords":[
       "Cortical neuron simulation visualization",
       "view frustum culling"
     ],
@@ -629,7 +629,7 @@
     "author_names":"Bharadwaj, Aditya;Gwizdala, David;Kim, Yoonjin;Luther, Kurt;Murali, T. M.",
     "affiliations":null,
     "title":"Flud: a hybrid crowd-algorithm approach for visualizing biological networks",
-    "author_keywords":[
+    "keywords":[
       "crowdsourcing, human computation, graph drawing, computational biology, protein networks, graphs, citizen science, serious games, games with a purpose, optimization"
     ],
     "abstract":"Modern experiments in many disciplines generate large quantities of network (graph) data. Researchers require aesthetic layouts of these networks that clearly convey the domain knowledge and meaning. However, the problem remains challenging due to multiple conflicting aesthetic criteria and complex domain-specific constraints. In this paper, we present a strategy for generating visualizations that can help network biologists understand the protein interactions that underlie processes that take place in the cell. Specifically, we have developed Flud, an online game with a purpose (GWAP) that allows humans with no expertise to design biologically meaningful graph layouts with the help of algorithmically generated suggestions. Further, we propose a novel hybrid approach for graph layout wherein crowdworkers and a simulated annealing algorithm build on each other's progress. To showcase the effectiveness of Flud, we recruited crowd workers on Amazon Mechanical Turk to lay out complex networks that represent signaling pathways. Our results show that the proposed hybrid approach outperforms state-of-the-art techniques for graphs with a large number of feedback loops. We also found that the algorithmically generated suggestions guided the players when they are stuck and helped them improve their score. Finally, we discuss broader implications for mixed-initiative interactions in human computation games.",
@@ -643,7 +643,7 @@
     "author_names":"Kasper Dinkla;Mohammed El-Kebir;Cristina Iulia Bucur;Marco Siderius;Martine J. Smit;Michel A. Westenberg;Gunnar W. Klau",
     "affiliations":"Technische Universiteit Eindhoven;Centrum Wiskunde &amp; Informatica;Vrije Universiteit Amsterdam",
     "title":"EXamine: Exploring annotated modules in networks",
-    "author_keywords":[
+    "keywords":[
       "Cytoscape",
       "Module",
       "Network analysis",
@@ -661,7 +661,7 @@
     "author_names":"Jessie Kennedy;Martin Graham;Trevor Paterson;Andy Law",
     "affiliations":"University of Edinburgh, Roslin Institute;Edinburgh Napier University",
     "title":"Visual cleaning of genotype data",
-    "author_keywords":[
+    "keywords":[
       "Data cleaning",
       "Genotypes",
       "Pedigree",
@@ -678,7 +678,7 @@
     "author_names":"Keqin Wu;Jian Chen;William A. Pruett;Robert L. Hester",
     "affiliations":"University of Maryland, Baltimore County;University of Mississippi Medical Center",
     "title":"Hummod browser: An exploratory visualization tool for the analysis of whole-body physiology simulation data",
-    "author_keywords":[
+    "keywords":[
       "Design study",
       "Information visualization",
       "Interaction",
@@ -695,7 +695,7 @@
     "author_names":"Yanling Liu;Curtis Lisle;Jack Collins",
     "affiliations":"SAIC-Frederick;KnowledgeVis, LLC",
     "title":"Quick2Insight: A user-friendly framework for interactive rendering of biological image volumes",
-    "author_keywords":[
+    "keywords":[
       "Direct volume rendering",
       "K-Means++",
       "transfer function automation"
@@ -711,7 +711,7 @@
     "author_names":"Florin Chelaru;Héctor Corrada Bravo",
     "affiliations":"University of Maryland",
     "title":"Epiviz: A view inside the design of an integrated visual analysis software for genomics",
-    "author_keywords":[
+    "keywords":[
       "DNA Methylation",
       "Functional Genomics",
       "Visualization"
@@ -727,7 +727,7 @@
     "author_names":"Mathias Goldau;Alexander Wiebel;Nico Stephan Gorbach;Corina Melzer;Mario Hlawitschka;Gerik Scheuermann;Marc Tittgemeyer",
     "affiliations":"Zuse Institute Berlin;Max Planck Institute for Metabolism Research;Universität Leipzig",
     "title":"Fiber stippling: An illustrative rendering for probabilistic diffusion tractography",
-    "author_keywords":[
+    "keywords":[
       "DTI",
       "Illustrative Visualization",
       "Probabilistic Tractography",
@@ -745,7 +745,7 @@
     "author_names":"Francesco Paduano;Angus Graeme Forbes",
     "affiliations":"University of Illinois at Chicago",
     "title":"Extended LineSets: A visualization technique for the interactive inspection of biological pathways",
-    "author_keywords":[
+    "keywords":[
       "Eliminating Node Redundancy",
       "Hierarchical Inspection",
       "Interactive Visual Analysis",
@@ -763,7 +763,7 @@
     "author_names":"Ross E. Curtis;Peter Kinnaird;Eric P. Xing",
     "affiliations":"Carnegie Mellon University",
     "title":"GenAMap: Visualization strategies for structured association mapping",
-    "author_keywords":[
+    "keywords":[
       "eQTL analysis",
       "genome-wide association studies",
       "structured association mapping",
@@ -780,7 +780,7 @@
     "author_names":"Trevor Paterson;Martin Graham;Jessie Kennedy;Andy Law",
     "affiliations":"University of Edinburgh, Roslin Institute;Edinburgh Napier University",
     "title":"Evaluating the VIPER pedigree visualisation: Detecting inheritance inconsistencies in genotyped pedigrees",
-    "author_keywords":[
+    "keywords":[
       "Error Visualisation",
       "Interface Design",
       "Pedigree Visualisation",
@@ -797,7 +797,7 @@
     "author_names":"Günter Jäger;Florian Battke;Kay Nieselt",
     "affiliations":"Universität Tübingen",
     "title":"TIALA Time series alignment analysis",
-    "author_keywords":[
+    "keywords":[
       "expression analysis",
       "microarrays",
       "Multiple time series alignment",
@@ -814,7 +814,7 @@
     "author_names":"Daekyoung Jung;Bohyoung Kim;Robert J. Freishtat;Mamta Giri;Eric Hoffman;Jinwook Seo",
     "affiliations":"Seoul National University Bundang Hospital;Seoul National University;Childrens National Health System;The George Washington University",
     "title":"MiRTarVis: An interactive visual analysis tool for microRNA-mRNA expression profile data",
-    "author_keywords":[
+    "keywords":[
       "Expression profile",
       "MicroRNA",
       "mRNA",
@@ -832,7 +832,7 @@
     "author_names":"Chihua Ma;Timothy Luciani;Anna Terebus;Jie Liang;G. Elisabeta Marai",
     "affiliations":"University of Illinois at Chicago",
     "title":"PRODIGEN: Visualizing the probability landscape of stochastic gene regulatory networks in state and time space",
-    "author_keywords":[
+    "keywords":[
       "Feature detection and tracking",
       "Modelling\/Simulation",
       "Network analysis",
@@ -849,7 +849,7 @@
     "author_names":"Marwan Abdellah;Ahmet Bilgili;Stefan Eilemann;Julian Shillcock;Henry Markram;Felix Schürmann",
     "affiliations":"Ecole Polytechnique Fédérale de Lausanne",
     "title":"Bio-physically plausible visualization of highly scattering fluorescent neocortical models for in silico experimentation",
-    "author_keywords":[
+    "keywords":[
       "Fluorescence rendering and visualization",
       "Highly scattering volumes",
       "In silico neuroscience",
@@ -867,7 +867,7 @@
     "author_names":"Marwan Abdellah;Ahmet Bilgili;Stefan Eilemann;Henry Markram;Felix Schürmann",
     "affiliations":"Ecole Polytechnique Fédérale de Lausanne",
     "title":"Physically-based in silico light sheet microscopy for visualizing fluorescent brain models",
-    "author_keywords":[
+    "keywords":[
       "Fluorescence rendering and visualization",
       "In silico neuroscience",
       "Light sheet fluorescence microscopy",
@@ -885,7 +885,7 @@
     "author_names":"Jeremy Goecks;Kanwei Li;Dave Clements;James Taylor",
     "affiliations":"Emory University",
     "title":"The Galaxy Track Browser: Transforming the genome browser from visualization tool to analysis tool",
-    "author_keywords":[
+    "keywords":[
       "Galaxy Track Browser",
       "genome browser",
       "genomics",
@@ -902,7 +902,7 @@
     "author_names":"Philip Livengood;Ross MacIejewski;Wei Chen;David S. Ebert",
     "affiliations":"Purdue University;Zhejiang University;Arizona State University",
     "title":"A visual analysis system for metabolomics data",
-    "author_keywords":[
+    "keywords":[
       "GCXGC-MS",
       "Metabolomics",
       "TIC",
@@ -919,7 +919,7 @@
     "author_names":"Taylor, Andy; McLeod, Kenneth; Armit, Chris; Baldock, Richard; Burger, Albert",
     "affiliations":null,
     "title":"Visualization of gene expression information within the context of the mouse anatomy",
-    "author_keywords":[
+    "keywords":[
       "Gene expression",
       "Anatomy ontology",
       "visualization",
@@ -936,7 +936,7 @@
     "author_names":"Corinna Vehlow;Julian Heinrich;Florian Battke;Daniel Weiskopf;Kay Nieselt",
     "affiliations":"Universität Tübingen;Universität Stuttgart",
     "title":"IHAT: Interactive hierarchical aggregation table",
-    "author_keywords":[
+    "keywords":[
       "genome wide association studies",
       "hierarchical aggregation",
       "phenotype-genotype correlation"
@@ -952,7 +952,7 @@
     "author_names":"Corinna Vehlow;Bernhard Preim;Michael Lappe",
     "affiliations":"Max Planck Institute for Molecular Genetics;Otto von Guericke University of Magdeburg;Universität Stuttgart",
     "title":"Visualization of anisotropic contact potentials within protein structures",
-    "author_keywords":[
+    "keywords":[
       "geometric contact potential",
       "protein model scoring",
       "protein structure prediction"
@@ -968,7 +968,7 @@
     "author_names":"Kenneth Sabir;Christian Stolte;Bruce Tabor;Seán I. O'Donoghue",
     "affiliations":"Garvan Institute of Medical Research;CSIRO Computational Informatics",
     "title":"The molecular control toolkit: Controlling 3D molecular graphics via gesture and voice",
-    "author_keywords":[
+    "keywords":[
       "Gestural input",
       "Macromolecules",
       "Molecular graphics",
@@ -987,7 +987,7 @@
     "author_names":"Hao Ding;Chao Wang;Kun Huang;Raghu Machiraju",
     "affiliations":"The Ohio State University",
     "title":"GRAPHIE: Graph based histology image explorer",
-    "author_keywords":[
+    "keywords":[
       "Graph visualization",
       "Histology image exploration",
       "Phenotypical analysis",
@@ -1004,7 +1004,7 @@
     "author_names":"Marwan Abdellah;Juan Hernando;Nicolas Antille;Stefan Eilemann;Henry Markram;Felix Schürmann",
     "affiliations":"Ecole Polytechnique Fédérale de Lausanne",
     "title":"Reconstruction and visualization of large-scale volumetric models of neocortical circuits for physically-plausible in silico optical studies",
-    "author_keywords":[
+    "keywords":[
       "In silico neuroscience",
       "Modeling and simulation",
       "Neocortical brain models",
@@ -1021,7 +1021,7 @@
     "author_names":"Meili Vanegas-Hernandez;Fabio Andres Lopez-Corredor;Tiberio Hernandez;Alejandro Reyes;John Alexis Guerra-Gomez",
     "affiliations":null,
     "title":"BioCicle: A Tool for Summarizing and Comparing Taxonomic Profiles out of Biological Sequence Alignments",
-    "author_keywords":[
+    "keywords":[
       "Information Visualization",
       "Bioinformatics",
       "Biological Sequence Comparison"
@@ -1037,7 +1037,7 @@
     "author_names":"Chen He;Luana Micallef;Zia ur Rehman Tanoli;Samuel Kaski;Tero Aittokallio;Giulio Jacucci",
     "affiliations":"Aalto University;Helsingin Yliopisto",
     "title":"MediSyn: Uncertainty-aware visualization of multiple biomedical datasets to support drug treatment selection",
-    "author_keywords":[
+    "keywords":[
       "Interactive visualization",
       "Multiple datasets",
       "Uncertainty visualization"
@@ -1053,7 +1053,7 @@
     "author_names":"Hamid Younesy;Torsten Möller;Matthew C. Lorincz;Mohammad M. Karimi;Steven J.M. Jones",
     "affiliations":"British Columbia Cancer Agency;Universitat Wien;Simon Fraser University;The University of British Columbia",
     "title":"VisRseq: R-based visual framework for analysis of sequencing data",
-    "author_keywords":[
+    "keywords":[
       "Interactive Visualization",
       "R-project",
       "Sequencing Data"
@@ -1069,7 +1069,7 @@
     "author_names":"Shinichi Mukosaka;Kanae Teramoto;Hideki Koike",
     "affiliations":"The University of Electro-Communications;JEOL Ltd., Japan",
     "title":"mzRepeat: Visual analysis of lipids in mass spectrometry",
-    "author_keywords":[
+    "keywords":[
       "lipid analysis",
       "mass spectrometry",
       "visual analysis"
@@ -1085,7 +1085,7 @@
     "author_names":"Unen, Vincent van; Höllt, Thomas; Pezzotti, Nicola; Li, Na; Reinders, Marcel J. T.; Eisemann, Elmar; Koning, Frits; Vilanova, Anna; Lelieveldt, Boudewijn P. F.",
     "affiliations":null,
     "title":"Interactive Visual Analysis of Mass Cytometry Data by Hierarchical Stochastic Neighbor Embedding Reveals Rare Cell Types",
-    "author_keywords":[
+    "keywords":[
       "Mass cytometry",
       "t-Distributed Stochastic Neighbor Embedding",
       "t-SNE",
@@ -1106,7 +1106,7 @@
     "author_names":"Shareef M. Dabdoub;R. Wolfgang Rumpf;Amber D. Shindhelm;William C. Ray",
     "affiliations":"The Ohio State University;Children's Hospital Columbus",
     "title":"MoFlow: Visualizing conformational changes in molecules as molecular flow improves understanding",
-    "author_keywords":[
+    "keywords":[
       "Molecular Conformation",
       "Molecular Dynamics",
       "Molecular Structural Biology",
@@ -1123,7 +1123,7 @@
     "author_names":"Lucia Kocincová;Miroslava Jarešová;Jan Byška;Július Parulek;Helwig Hauser;Barbora Kozlíková",
     "affiliations":"Universitetet i Bergen;Masaryk University",
     "title":"Comparative visualization of protein secondary structures",
-    "author_keywords":[
+    "keywords":[
       "Molecular sequence analysis",
       "Molecular structure and function",
       "Molecular visualization"
@@ -1139,7 +1139,7 @@
     "author_names":"Edes, Mine; Özturan, Can; Haliloğlu, Türkan; Luna, Augustin; Nussinov, Ruth",
     "affiliations":null,
     "title":"MIMTool: A Tool for Drawing Molecular Interaction Maps",
-    "author_keywords":[
+    "keywords":[
       "Orthogonal Graph Drawing",
       "Molecular Interaction Maps"
     ],
@@ -1154,7 +1154,7 @@
     "author_names":"Zeckzer, Dirk;Gerighausen, Daniel;Steiner, Lydia;Prohaska, Sonja J.",
     "affiliations":null,
     "title":"Analyzing Chromatin Using Tiled Binned Scatterplot Matrices",
-    "author_keywords":[
+    "keywords":[
       "Scatterplot Matrix",
       "Chromatin"
     ],
@@ -1169,7 +1169,7 @@
     "author_names":"David Mayerich;Chris Bjornsson;Jonothan Taylor;Badrinath Roysam",
     "affiliations":"Rensselaer Polytechnic Institute;University of Houston;University of Illinois at Urbana-Champaign",
     "title":"Metrics for comparing explicit representations of interconnected biological networks",
-    "author_keywords":[
+    "keywords":[
       "segmentation",
       "skeletonization",
       "validation",
@@ -1186,7 +1186,7 @@
     "author_names":"Brix, Tobias; Praßni, Jörg-Stefan; Hinrichs, Klaus",
     "affiliations":null,
     "title":"Visualization of Large Volumetric Multi-Channel Microscopy Data Streams on Standard PCs",
-    "author_keywords":[
+    "keywords":[
       "volumetric texture rendering",
       "3-D display",
       "stereoscopic 3-D",

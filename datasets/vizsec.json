@@ -6,7 +6,7 @@
     "author_names":"Maja Pusara;Carla E. Brodley",
     "affiliations":"Tufts University;Purdue University",
     "title":"User re-authentication via mouse movements",
-    "author_keywords":[
+    "keywords":[
       "Anomaly detection",
       "Mouse dynamics",
       "User re-authentication"
@@ -22,7 +22,7 @@
     "author_names":"Soon Tee Teoh;Ke Zhang;Shih Ming Tseng;Kwan Liu Ma;S. Felix Wu",
     "affiliations":"University of California, Davis",
     "title":"Combining visual and automated data mining for near-real-time anomaly detection and analysis in BGP",
-    "author_keywords":[
+    "keywords":[
       "Information visualization",
       "Internet routing",
       "Network visualization"
@@ -38,7 +38,7 @@
     "author_names":"Gregory Conti;Kulsoom Abdullah",
     "affiliations":"School of Electrical and Computer Engineering;Georgia Institute of Technology",
     "title":"Passive visual fingerprinting of network attack tools",
-    "author_keywords":[
+    "keywords":[
       "Application fingerprinting",
       "Information visualization",
       "Network attack visualization",
@@ -57,7 +57,7 @@
     "author_names":"Robert Ball;Glenn A. Fink;Chris North",
     "affiliations":"Virginia Polytechnic Institute and State University",
     "title":"Home-centric visualization of network traffic for security administration",
-    "author_keywords":[
+    "keywords":[
       "Information Visualization",
       "Networks",
       "Security"
@@ -73,7 +73,7 @@
     "author_names":"Inseon Yoo",
     "affiliations":"University of Fribourg",
     "title":"Visualizing windows executable viruses using self-organizing maps",
-    "author_keywords":[
+    "keywords":[
       "Self-Organizing Maps",
       "Visualization",
       "Windows Executable Viruses"
@@ -89,7 +89,7 @@
     "author_names":"Stefan Axelsson",
     "affiliations":"Chalmers University of Technology",
     "title":"Combining a Bayesian classifier with visualisation: Understanding the IDS",
-    "author_keywords":[
+    "keywords":[
       "Intrusion detection",
       "Naive Bayesian Classification"
     ],
@@ -104,7 +104,7 @@
     "author_names":"Steven Noel;Sushil Jajodia",
     "affiliations":"George Mason University, Fairfax Campus",
     "title":"Managing attack graph complexity through visual hierarchical aggregation",
-    "author_keywords":[
+    "keywords":[
       "Clustered graphs",
       "Network attack graphs",
       "Network attack modeling",
@@ -121,7 +121,7 @@
     "author_names":"Tom Goldring",
     "affiliations":"National Security Agency",
     "title":"Scatter (and other) plots for visualizing user profiling data and network traffic",
-    "author_keywords":[
+    "keywords":[
       "Visualization"
     ],
     "abstract":"The scatterplot continues to be one of the most useful tools for visualizing numeric data, however what we typically encounter in Computer Security is categorical and\/or textual in nature, and how to convert it into a form where scatter-plots apply is not always obvious. We outline some simple ideas for doing this and illustrate with two \"real data\" case studies: User Profiling and Network Traffic. In both cases the results can be quite surprising. Copyright 2004 ACM.",
@@ -135,7 +135,7 @@
     "author_names":"Alfonso Valdes;Martin Fong",
     "affiliations":null,
     "title":"Scalable visualization of propagating internet phenomena",
-    "author_keywords":[
+    "keywords":[
       "Data Mining",
       "Internet Worms",
       "Intrusion Detection",
@@ -152,7 +152,7 @@
     "author_names":"Wei Jen Li;Shlomo Hershkop;Salvatore J. Stolfo",
     "affiliations":"Columbia University in the City of New York",
     "title":"Email archive analysis through graphical visualization",
-    "author_keywords":[
+    "keywords":[
       "Email",
       "Spam",
       "Virus"
@@ -168,7 +168,7 @@
     "author_names":"Jeffrey B. Colombe;Gregory Stephens",
     "affiliations":"MITRE Corporation",
     "title":"Statistical profiling and visualization for detection of malicious insider attacks on computer networks",
-    "author_keywords":[
+    "keywords":[
       "Anomaly detection",
       "Cognitive load",
       "Human-computer interaction",
@@ -185,7 +185,7 @@
     "author_names":"Kulsoom Abdullah;Chris Lee;Gregory Conti;John A. Copeland;John Stasko",
     "affiliations":"Georgia Institute of Technology",
     "title":"IDS RainStorm: Visualizing IDS alarms",
-    "author_keywords":[
+    "keywords":[
       "Alarm visualization",
       "Alert visualization",
       "IDS alarms",
@@ -204,7 +204,7 @@
     "author_names":"Glenn A. Fink;Paul Muessig;Chris North",
     "affiliations":"Virginia Polytechnic Institute and State University",
     "title":"Visual correlation of host processes and network traffic",
-    "author_keywords":[
+    "keywords":[
       "Computer Security",
       "Information Visualization",
       "System Administration"
@@ -220,7 +220,7 @@
     "author_names":"Anita Komlodi;Penny Rheingans;Utkarsha Ayachit;John R. Goodall;Amit Joshi",
     "affiliations":"University of Maryland, Baltimore County",
     "title":"A user-centered look at glyph-based security visualization",
-    "author_keywords":[
+    "keywords":[
       "Glyphs",
       "Information visualization",
       "Intrusion detection",
@@ -237,7 +237,7 @@
     "author_names":"Chris Muelder;Kwan Liu Ma;Tony Bartoletti",
     "affiliations":"Lawrence Livermore National Laboratory;University of California, Davis",
     "title":"A visualization methodology for characterization of network scans",
-    "author_keywords":[
+    "keywords":[
       "Adversary characterization",
       "Clustering",
       "Cyber forensics",
@@ -259,7 +259,7 @@
     "author_names":"Pin Ren;Yan Gao;Zhichun Li;Yan Chen;Benjamin Watson",
     "affiliations":"Northwestern University",
     "title":"IDGraphs: Intrusion detection and analysis using histographs",
-    "author_keywords":[
+    "keywords":[
       "Brushing and Linking",
       "Correlation Matrix",
       "Dynamic Query",
@@ -278,7 +278,7 @@
     "author_names":"John R. Goodall;Wayne G. Lutters;Penny Rheingans;Anita Komlodi",
     "affiliations":"University of Maryland, Baltimore County",
     "title":"Preserving the big picture: Visual network traffic analysis with TNV",
-    "author_keywords":[
+    "keywords":[
       "Information visualization",
       "Intrusion detection",
       "Network analysis",
@@ -295,7 +295,7 @@
     "author_names":"Glenn A. Fink;Chris North",
     "affiliations":"Virginia Polytechnic Institute and State University",
     "title":"Root polar layout of internet address data for security administration",
-    "author_keywords":[
+    "keywords":[
       "Internet Protocol",
       "Occlusion",
       "Overlap",
@@ -314,7 +314,7 @@
     "author_names":"Danfeng Yao;Michael Shin;Roberto Tamassia;William H. Winsborough",
     "affiliations":"Brown University;University of Texas at San Antonio;Goldman Sachs, Inc",
     "title":"Visualization of automated trust negotiation",
-    "author_keywords":[
+    "keywords":[
       "Automated trust negotiation",
       "Interactive protocol visualization"
     ],
@@ -329,7 +329,7 @@
     "author_names":"Kiran Lakkaraju;Ratna Bearavolu;Adam Slagell;William Yurcik;Stephen North",
     "affiliations":"AT&amp;T Inc.;University of Illinois at Urbana-Champaign;NCSA",
     "title":"Closing-the-loop in NVisionIP: Integrating discovery and search in security visualizations",
-    "author_keywords":[
+    "keywords":[
       "Intrusion Detection Systems",
       "Network Security",
       "Security Visualization"
@@ -345,7 +345,7 @@
     "author_names":"Gregory Conti;Julian Grizzard;Mustaque Ahamad;Henry Owen",
     "affiliations":"Georgia Institute of Technology",
     "title":"Visual exploration of malicious network objects using semantic zoom, interactive encoding and dynamic queries",
-    "author_keywords":[
+    "keywords":[
       "Binary navigation",
       "Binary object visualization",
       "Network visualization",
@@ -364,7 +364,7 @@
     "author_names":"Hideki Koike;Kazuhiro Ohno;Kanba Koizumi",
     "affiliations":"The University of Electro-Communications;Keio University",
     "title":"Visualizing cyber attacks using IP matrix",
-    "author_keywords":[
+    "keywords":[
       "Computer virus",
       "Information security",
       "Information visualization",
@@ -385,7 +385,7 @@
     "author_names":"Steven Noel;Michael Jacobs;Pramod Kalapa;Sushil Jajodia",
     "affiliations":"George Mason University, Fairfax Campus",
     "title":"Multiple coordinated views for network attack graphs",
-    "author_keywords":[
+    "keywords":[
       "Graph clustering",
       "Graph filtering",
       "Graph visualization",
@@ -404,7 +404,7 @@
     "author_names":"Anita D'Amico;Michael Kocka",
     "affiliations":"Applied Visions, Inc.",
     "title":"Information assurance visualizations for specific stages of situational awareness and intended uses: Lessons learned",
-    "author_keywords":[
+    "keywords":[
       "Computer network defense",
       "Data representation",
       "Graphics",
@@ -426,7 +426,7 @@
     "author_names":"Adam Ohne;Dirk Reiners",
     "affiliations":"Iowa State University",
     "title":"Exploring three-dimensional visualization for intrusion detection",
-    "author_keywords":[
+    "keywords":[
       "Data reduction",
       "Intrusion detection",
       "Three-dimensional",
@@ -443,7 +443,7 @@
     "author_names":"Robert F. Erbacher;Kim Christensen;Amanda Sundberg",
     "affiliations":"Utah State University",
     "title":"Designing visualization capabilities for IDS challenges",
-    "author_keywords":[
+    "keywords":[
       "Graphical User Interfaces",
       "Intrusion Detection",
       "Visualization"
@@ -459,7 +459,7 @@
     "author_names":"Chris P. Lee;Jason Trost;Nicholas Gibbs;Raheem Beyah;John A. Copeland",
     "affiliations":"Georgia Institute of Technology",
     "title":"Visual firewall: Real-time network security monitor",
-    "author_keywords":[
+    "keywords":[
       "Firewall configuration",
       "Information visualization",
       "Network security",
@@ -477,7 +477,7 @@
     "author_names":"S. Mathew;R. Giomundo;S. Upadhyaya;M. Sudit;A. Stotz",
     "affiliations":"University at Buffalo, The State University of New York",
     "title":"Understanding multistage attacks by attack-track based visualization of heterogeneous event streams",
-    "author_keywords":[
+    "keywords":[
       "Attack tracks",
       "Intrusion detection",
       "Visualization"
@@ -493,7 +493,7 @@
     "author_names":"L. Li;P. Liu;G. Kesidis",
     "affiliations":"Pennsylvania State University",
     "title":"Visual toolkit for network security experiment specification and data analysis",
-    "author_keywords":[
+    "keywords":[
       "Animated topology",
       "Experiment specification",
       "Testbed",
@@ -510,7 +510,7 @@
     "author_names":"Asaf Shabtai;Denis Klimov;Yuval Shahar;Yuval Elovici",
     "affiliations":"Ben-Gurion University of the Negev",
     "title":"An intelligent, interactive tool for exploration and visualization of time-oriented security data",
-    "author_keywords":[
+    "keywords":[
       "Human-computer interaction",
       "Intelligent visualization",
       "Knowledge-based systems",
@@ -528,7 +528,7 @@
     "author_names":"Pin Ren;John Kristoff;Bruce Gooch",
     "affiliations":"Northwestern University;University of Victoria",
     "title":"Visualizing DNS traffic",
-    "author_keywords":[
+    "keywords":[
       "Domain name system",
       "Information visualization",
       "Network security visualization",
@@ -545,7 +545,7 @@
     "author_names":"Warren Harrop;Grenville Armitage",
     "affiliations":"Swinburne University of Technology",
     "title":"Real-time collaborative network monitoring and control using 3D game engines for representation and interaction",
-    "author_keywords":[
+    "keywords":[
       "Enterprise networks",
       "Network control",
       "Network visualisation"
@@ -561,7 +561,7 @@
     "author_names":"Charles V. Wright;Fabian Monrose;Gerald M. Masson",
     "affiliations":"Johns Hopkins University",
     "title":"Using visual motifs to classify encrypted traffic",
-    "author_keywords":[
+    "keywords":[
       "Network security",
       "Network traffic visualization",
       "Traffic classification"
@@ -577,7 +577,7 @@
     "author_names":"Weichao Wang;Aidong Lu",
     "affiliations":"The University of North Carolina at Charlotte;University of Kansas",
     "title":"Visualization assisted detection of sybil attacks in wireless networks",
-    "author_keywords":[
+    "keywords":[
       "Interactive detection",
       "Sybil attacks",
       "Topology visualization",
@@ -595,7 +595,7 @@
     "author_names":"Kulsoom Abdullah;John A. Copeland",
     "affiliations":"Georgia Institute of Technology",
     "title":"Tool update: High alarm count issues in IDS RainStorm",
-    "author_keywords":[
+    "keywords":[
       "Filtering network data",
       "IDS alarm visualization",
       "Network security information visualization"
@@ -611,7 +611,7 @@
     "author_names":"William Yurcik",
     "affiliations":"University of Illinois at Urbana-Champaign",
     "title":"Tool update: VisFlowConnect-IP with advanced filtering from usability testing",
-    "author_keywords":[
+    "keywords":[
       "Anomaly detection",
       "Intrusion detection",
       "Parallel coordinates",
@@ -629,7 +629,7 @@
     "author_names":"William Yurcik",
     "affiliations":"University of Illinois at Urbana-Champaign",
     "title":"Tool update: NVisionIP improvements (difference view, sparklines, and shapes)",
-    "author_keywords":[
+    "keywords":[
       "Difference view",
       "IP address space visualization",
       "Netflows",
@@ -648,7 +648,7 @@
     "author_names":"Pin Ren",
     "affiliations":"Northwestern University",
     "title":"Ensuring the continuing success of VizSec",
-    "author_keywords":[
+    "keywords":[
       "Dissemination",
       "Security visualization",
       "Visualization design",
@@ -665,7 +665,7 @@
     "author_names":"Jon Oberheide;Manish Karir;Dionysus Blazakis",
     "affiliations":"A. James Clark School of Engineering;Merit Network, Inc.",
     "title":"VAST: Visualizing autonomous system topology",
-    "author_keywords":[
+    "keywords":[
       "BGP",
       "Routing",
       "Security visualization"
@@ -681,7 +681,7 @@
     "author_names":"Soon Tee Teoh;Supranamaya Ranjan;Antonio Nucci;Chen Nee Chuah",
     "affiliations":"Narus, Inc;San Jose State University;University of California, Davis",
     "title":"BGP eye: A new visualization tool for real-time detection and analysis of BGP anomalies",
-    "author_keywords":[
+    "keywords":[
       "BGP",
       "Network security",
       "Routing",
@@ -698,7 +698,7 @@
     "author_names":"Dino Schweitzer;Leemon Baird",
     "affiliations":"United States Air Force Academy",
     "title":"Discovering an RC4 anomaly through visualization",
-    "author_keywords":[
+    "keywords":[
       "Algorithm analysis",
       "Cryptography",
       "Visualization"
@@ -714,7 +714,7 @@
     "author_names":"Patrick Hertzog",
     "affiliations":"NEXThink S.A. Parc Scientifique",
     "title":"Visualizations to improve reactivity towards security incidents inside corporate networks",
-    "author_keywords":[
+    "keywords":[
       "Alarm visualization",
       "Connection visualization",
       "Parallel-coordinates",
@@ -734,7 +734,7 @@
     "author_names":"Christopher P. Lee;John A. Copeland",
     "affiliations":"Georgia Institute of Technology",
     "title":"FlowTag: A collaborative attack-analysis, reporting, and sharing tool for security researchers",
-    "author_keywords":[
+    "keywords":[
       "Folksonomy",
       "Honeynet",
       "Information visualization",
@@ -755,7 +755,7 @@
     "author_names":"Amanda L. Stephano;Dennis P. Groth",
     "affiliations":"Indiana University Bloomington",
     "title":"USEable security: Interface design strategies for improving security",
-    "author_keywords":[
+    "keywords":[
       "Evaluation",
       "Security",
       "Usability",
@@ -772,7 +772,7 @@
     "author_names":"George Yee",
     "affiliations":"National Research Council Canada",
     "title":"Visualization for privacy compliance",
-    "author_keywords":[
+    "keywords":[
       "Compliance",
       "E-services",
       "Privacy",
@@ -790,7 +790,7 @@
     "author_names":"Erwan Le Malécot;Masayoshi Kohara;Yoshiaki Hori;Kouichi Sakurai",
     "affiliations":"Institute of Systems &amp; Information Technologies\/KYUSHU;Kyushu University",
     "title":"Interactively combining 2D and 3D visualization for network traffic monitoring",
-    "author_keywords":[
+    "keywords":[
       "2D",
       "3D",
       "Monitoring",
@@ -809,7 +809,7 @@
     "author_names":"X. Suo;Y. Zhu;G. Scott Owen",
     "affiliations":"Georgia State University",
     "title":"Measuring the complexity of computer security visualization designs",
-    "author_keywords":[
+    "keywords":[
       "Visual Search",
       "Cognitive Load",
       "User Study",
@@ -827,7 +827,7 @@
     "author_names":"A. D'Amico;K. Whitley",
     "affiliations":"Secure Decisions Division of Applied Visions, Inc.",
     "title":"The real work of computer network defense analysts the analysis roles and processes that transform network data into security situation awareness",
-    "author_keywords":[
+    "keywords":[
       "Situation Awareness",
       "Incident Report",
       "Forensic Analysis",
@@ -845,7 +845,7 @@
     "author_names":"T. H. Yu;B. W. Fuller;J. H. Bannick;L. M. Rossey;R. K. Cunningham",
     "affiliations":"Lincoln Laboratory",
     "title":"Integrated environment management for information operations testbeds",
-    "author_keywords":[
+    "keywords":[
       "Intrusion Detection System",
       "Distribute Hash Table",
       "Information Operation",
@@ -863,7 +863,7 @@
     "author_names":"J. Stoll;D. McColgin;M. Gregory;V. Crow;W. K. Edwards",
     "affiliations":"Pacific Northwest National Laboratory;Georgia Institute of Technology",
     "title":"Adapting personas for use in security visualization design",
-    "author_keywords":[
+    "keywords":[
       "User Requirement",
       "Computer Security",
       "Policy Analyst",
@@ -881,7 +881,7 @@
     "author_names":"D. Phan;J. Gerth;M. Lee;A. Paepcke;T. Winograd",
     "affiliations":"Stanford University",
     "title":"Visual analysis of network flow data with timelines and event plots",
-    "author_keywords":[
+    "keywords":[
       "Intrusion Detection System",
       "Computer Security",
       "Internet Service Provide",
@@ -898,7 +898,7 @@
     "author_names":"T. Taylor;S. Brooks;J. McHugh",
     "affiliations":"Dalhousie University",
     "title":"Netbytes viewer: An entity-based netflow visualization utility for identifying intrusive behavior",
-    "author_keywords":[
+    "keywords":[
       "Visualization Tool",
       "Intrusion Detection System",
       "Computer Security",
@@ -916,7 +916,7 @@
     "author_names":"D. Lalanne;E. Bertini;P. Hertzog;P. Bados",
     "affiliations":"University of Fribourg;NEXThink S.A. Parc Scientifique",
     "title":"Visual analysis of corporate network intelligence: Abstracting and reasoning on yesterdays for acting today",
-    "author_keywords":[
+    "keywords":[
       "Analysis Task",
       "Visualization Tool",
       "Network Security",
@@ -934,7 +934,7 @@
     "author_names":"J. Pearlman;P. Rheingans",
     "affiliations":"University of Maryland, Baltimore County",
     "title":"Visualizing network security events using compound glyphs from a service-oriented perspective",
-    "author_keywords":[
+    "keywords":[
       "Time Slice",
       "Service Activity",
       "Network Security",
@@ -952,7 +952,7 @@
     "author_names":"B. Irwin;N. Pilkington",
     "affiliations":"Rhodes University",
     "title":"High level internet scale traffic visualization using hilbert curve mapping",
-    "author_keywords":[
+    "keywords":[
       "Hilbert Curve",
       "Order Curve",
       "Unique Host",
@@ -970,7 +970,7 @@
     "author_names":"S. Foresti;J. Agutter",
     "affiliations":"The University of Utah",
     "title":"VisAlert: From idea to product",
-    "author_keywords":[
+    "keywords":[
       "Intrusion Detection",
       "Situational Awareness",
       "Network Security",
@@ -988,7 +988,7 @@
     "author_names":"D. Schweitzer;L. Baird;W. Bahn",
     "affiliations":"United States Air Force Academy",
     "title":"Visually understanding jam resistant communication",
-    "author_keywords":[
+    "keywords":[
       "Shared Secret",
       "Message Space",
       "Spread Spectrum Communication",
@@ -1006,7 +1006,7 @@
     "author_names":"F. Mansman;L. Meier;D. A. Keim",
     "affiliations":"Universität Konstanz",
     "title":"Visualization of host behavior for network security",
-    "author_keywords":[
+    "keywords":[
       "Network Security",
       "Computer Security",
       "Dimension Node",
@@ -1024,7 +1024,7 @@
     "author_names":"W. A. Pike;C. Scherrer;S. Zabriskie",
     "affiliations":"Pacific Northwest National Laboratory",
     "title":"Putting security in context: Visual correlation of network activity with real-world information",
-    "author_keywords":[
+    "keywords":[
       "Intrusion Detection",
       "Behavioral Model",
       "Situational Awareness",
@@ -1042,7 +1042,7 @@
     "author_names":"L. Williams;R. Lippmann;K. Ingols",
     "affiliations":"Lincoln Laboratory",
     "title":"An interactive attack graph cascade and reachability display",
-    "author_keywords":[
+    "keywords":[
       "External Network",
       "System Administrator",
       "Trust Relationship",
@@ -1060,7 +1060,7 @@
     "author_names":"C. Muelder;L. Chen;R. Thomason;K. L. Ma;T. Bartoletti",
     "affiliations":"Lawrence Livermore National Laboratory;University of California, Davis",
     "title":"Intelligent classification and visualization of network scans",
-    "author_keywords":[
+    "keywords":[
       "Wavelet Analysis",
       "Intrusion Detection",
       "Associative Memory",
@@ -1078,7 +1078,7 @@
     "author_names":"B. Irwin;J. P. Van Riel",
     "affiliations":"Rhodes University",
     "title":"Using inetvis to evaluate snort and bro scan detection on a network telescope",
-    "author_keywords":[
+    "keywords":[
       "Intrusion Detection",
       "Intrusion Detection System",
       "False Negative Case",
@@ -1096,7 +1096,7 @@
     "author_names":"Gregory Conti;Erik Dean;Matthew Sinda;Benjamin Sangster",
     "affiliations":"United States Military Academy at West Point",
     "title":"Visual reverse engineering of binary and data files",
-    "author_keywords":[
+    "keywords":[
       "File Format",
       "Reverse Engineering",
       "Binary File",
@@ -1114,7 +1114,7 @@
     "author_names":"Alexander Heitzmann;Bernardo Palazzi;Charalampos Papamanthou;Roberto Tamassia",
     "affiliations":"Università degli Studi Roma Tre;Brown University;ISCOM - Italian Communication Ministry",
     "title":"Effective visualization of file system access-control",
-    "author_keywords":[
+    "keywords":[
       "Access Control",
       "File System",
       "Information Visualization",
@@ -1132,7 +1132,7 @@
     "author_names":"Ying Xia;Kevin Fairbanks;Henry Owen",
     "affiliations":"Georgia Institute of Technology",
     "title":"Visual analysis of program flow data with data propagation",
-    "author_keywords":[
+    "keywords":[
       "Intrusion Detection",
       "Program Execution",
       "Information Visualization",
@@ -1150,7 +1150,7 @@
     "author_names":"Moses Schwartz;L. M. Liebrock",
     "affiliations":"New Mexico Institute of Mining and Technology",
     "title":"A term distribution visualization approach to digital forensic string search",
-    "author_keywords":[
+    "keywords":[
       "Digital forensics",
       "Term distribution visualizations",
       "Text string search"
@@ -1166,7 +1166,7 @@
     "author_names":"Leevar Williams;Richard Lippmann;Kyle Ingols",
     "affiliations":"Lincoln Laboratory",
     "title":"GARNET: A graphical attack graph and reachability network evaluation tool",
-    "author_keywords":[
+    "keywords":[
       "Adversary model",
       "Attack graph",
       "Attack path",
@@ -1189,7 +1189,7 @@
     "author_names":"Scott O'Hare;Steven Noel;Kenneth Prole",
     "affiliations":"George Mason University, Fairfax Campus;Applied Visions, Inc.",
     "title":"A graph-theoretic visualization approach to network risk analysis",
-    "author_keywords":[
+    "keywords":[
       "Attack graph",
       "Exploit analysis",
       "Network security",
@@ -1208,7 +1208,7 @@
     "author_names":"John Homer;Ashok Varikuti;Xinming Ou;Miles A. McQueen",
     "affiliations":"Idaho National Laboratory;Kansas State University",
     "title":"Improving attack graph visualization through data reduction and attack grouping",
-    "author_keywords":[
+    "keywords":[
       "Attack graph",
       "Attack graph visualization",
       "Dominator",
@@ -1226,7 +1226,7 @@
     "author_names":"T. J. Jankun-Kelly;Josh Franck;David Wilson;Jeffery Carver;David Dampier;J. Edward Swan",
     "affiliations":"Mississippi State University;University of Alabama",
     "title":"Show me how you see: Lessons from studying computer forensics experts for visualization",
-    "author_keywords":[
+    "keywords":[
       "Task Analysis",
       "Child Pornography",
       "Computer Crime",
@@ -1244,7 +1244,7 @@
     "author_names":"Xiaoyuan Suo;Ying Zhu;Scott Owen",
     "affiliations":"Georgia State University",
     "title":"A task centered framework for computer security data visualization",
-    "author_keywords":[
+    "keywords":[
       "Computer security",
       "Task",
       "Visualization"
@@ -1260,7 +1260,7 @@
     "author_names":"James Shearer;Kwan Liu Ma;Toby Kohlenberg",
     "affiliations":"Intel Corporation;University of California, Davis",
     "title":"BGPeep: An IP-space centered view for internet routing data",
-    "author_keywords":[
+    "keywords":[
       "Interface Element",
       "Border Gateway Protocol",
       "Data View",
@@ -1278,7 +1278,7 @@
     "author_names":"Fabian Fischer;Florian Mansmann;Daniel A. Keim;Stephan Pietzko;Marcel Waldvogel",
     "affiliations":"Universität Konstanz",
     "title":"Large-scale network monitoring for visual analysis of attacks",
-    "author_keywords":[
+    "keywords":[
       "Large-scale netflow analysis",
       "Visual network monitoring",
       "Visualization for network security"
@@ -1294,7 +1294,7 @@
     "author_names":"Ryan Blue;Cody Dunne;Adam Fuchs;Kyle King;Aaron Schulman",
     "affiliations":"University of Maryland",
     "title":"Visualizing real-time network resource usage",
-    "author_keywords":[
+    "keywords":[
       "Force-Directed",
       "Network Administration",
       "Real-Time",
@@ -1311,7 +1311,7 @@
     "author_names":"Kenneth Prole;John R. Goodall;Anita D. D'Amico;Jason K. Kopylec",
     "affiliations":"Applied Visions, Inc.",
     "title":"Wireless cyber assets discovery visualization",
-    "author_keywords":[
+    "keywords":[
       "Coordinated views",
       "Geographic visualization",
       "Information visualization",
@@ -1331,7 +1331,7 @@
     "author_names":"Pavel Minarik;Tomas Dymacek",
     "affiliations":"Masaryk University;Mycroft Mind Inc.",
     "title":"NetFlow data visualization based on graphs",
-    "author_keywords":[
+    "keywords":[
       "Graphs",
       "NetFlow data",
       "Visual analytics",
@@ -1348,7 +1348,7 @@
     "author_names":"Sergey Bratus;Axel Hansen;Fabio Pellacini;Anna Shubina",
     "affiliations":"Dartmouth College",
     "title":"Backhoe, a packet trace and log browser",
-    "author_keywords":[
+    "keywords":[
       "Anomaly Detection",
       "Conditional Entropy",
       "Feature Entropy",
@@ -1366,7 +1366,7 @@
     "author_names":"Jeff Janies",
     "affiliations":"CERT Network Situational Awareness Group",
     "title":"Existence plots: A low-resolution time series for port behavior analysis",
-    "author_keywords":[
+    "keywords":[
       "Low-resolution visualization",
       "Network traffic visualization",
       "Time series"
@@ -1382,7 +1382,7 @@
     "author_names":"Shahrulniza Musa;David J. Parish",
     "affiliations":"Universiti Kuala Lumpur;Loughborough University",
     "title":"Using time series 3D AlertGraph and false alert classification to analyse Snort alerts",
-    "author_keywords":[
+    "keywords":[
       "Alert classification",
       "Alert visualization",
       "Machine learning",
@@ -1399,7 +1399,7 @@
     "author_names":"Grant Vandenberghe",
     "affiliations":"Defence Research and Development Canada",
     "title":"Network traffic exploration application: A tool to assess, visualize and analyze network security events",
-    "author_keywords":[
+    "keywords":[
       "Covert Tunnels",
       "Network Forensics",
       "Packet Analysis",
@@ -1416,7 +1416,7 @@
     "author_names":"Anatoly Yelizarov;Dennis Gamayunov",
     "affiliations":"Lomonosov Moscow State University",
     "title":"Visualization of complex attacks and state of attacked network",
-    "author_keywords":[
+    "keywords":[
       "Complex attacks",
       "Network security",
       "Visualization"
@@ -1432,7 +1432,7 @@
     "author_names":"Joel Glanfield;Stephen Brooks;Teryl Taylor;Diana Paterson;Christopher Smith;Carrie Gates;John McHugh",
     "affiliations":"CA Technologies;Dalhousie University",
     "title":"OverFlow: An overview visualization for network analysis",
-    "author_keywords":[
+    "keywords":[
       "Information visualization",
       "Network",
       "Security"
@@ -1448,7 +1448,7 @@
     "author_names":"Daniel A. Quist;Lorie M. Liebrock",
     "affiliations":"New Mexico Institute of Mining and Technology;Los Alamos National Laboratory",
     "title":"Visualizing compiled executables for malware analysis",
-    "author_keywords":[
+    "keywords":[
       "Dynamic analysis",
       "Reverse engineering",
       "Visualization"
@@ -1464,7 +1464,7 @@
     "author_names":"Philipp Trinius;Thorsten Holz;Jan Göbel;Felix C. Freiling",
     "affiliations":"Universität Mannheim",
     "title":"Visual analysis of malware behavior using treemaps and thread graphs",
-    "author_keywords":[
+    "keywords":[
       "Behavior analysis",
       "Information visualization",
       "Invasive software"
@@ -1480,7 +1480,7 @@
     "author_names":"Glenn A. Fink;Christopher L. North;Alex Endert;Stuart Rose",
     "affiliations":"Virginia Polytechnic Institute and State University;Pacific Northwest National Laboratory",
     "title":"Visualizing cyber security: Usable workspaces",
-    "author_keywords":[
+    "keywords":[
       "Cognitive task analysis",
       "Cyber analytics",
       "Cyber security",
@@ -1499,7 +1499,7 @@
     "author_names":"John R. Goodall",
     "affiliations":"Secure Decisions Division of Applied Visions Inc",
     "title":"Visualization is better! A comparative evaluation",
-    "author_keywords":[
+    "keywords":[
       "Comparative evaluation",
       "Security visualization",
       "User testing",
@@ -1516,7 +1516,7 @@
     "author_names":"Dino Schweitzer;Jeff Boleng;Colin Hughes;Louis Murphy",
     "affiliations":"United States Air Force Academy",
     "title":"Visualizing Keyboard Pattern Passwords",
-    "author_keywords":[
+    "keywords":[
       "Passwords",
       "Security",
       "Visualization"
@@ -1532,7 +1532,7 @@
     "author_names":"Shaun P. Morrissey;Georges Grinstein",
     "affiliations":"University of Massachusetts Lowell",
     "title":"Visualizing firewall configurations using created voids",
-    "author_keywords":[
+    "keywords":[
       "Created void",
       "Filtering routers",
       "Firewall visualization",
@@ -1551,7 +1551,7 @@
     "author_names":"Tamara Yu;Richard Lippmann;James Riordan;Stephen Boyer",
     "affiliations":"Lincoln Laboratory",
     "title":"EMBER: A global perspective on extreme malicious behavior",
-    "author_keywords":[
+    "keywords":[
       "city infection rate",
       "computer network attacks",
       "long-tail distribution",
@@ -1572,7 +1572,7 @@
     "author_names":"Jeffrey Guenther;Fred Volk;Mark Shaneck",
     "affiliations":"Simon Fraser University;Liberty University, Lynchburg",
     "title":"Proposing a multi-touch interface for intrusion detection environments",
-    "author_keywords":[
+    "keywords":[
       "activity theory",
       "cognitive task analysis",
       "data exploration",
@@ -1590,7 +1590,7 @@
     "author_names":"Matthew Chu;Kyle Ingols;Richard Lippmann;Seth Webster;Stephen Boyer",
     "affiliations":"Lincoln Laboratory",
     "title":"Visualizing attack graphs, reachability, and trust relationships with NAVIGATOR",
-    "author_keywords":[
+    "keywords":[
       "attack graph",
       "attack path",
       "client-side vulnerability",
@@ -1608,7 +1608,7 @@
     "author_names":"Qi Liao;Aaron Striegel;Nitesh Chawla",
     "affiliations":"University of Notre Dame",
     "title":"Visualizing graph dynamics and similarity for enterprise network security and management",
-    "author_keywords":[
+    "keywords":[
       "enterprise networks",
       "graphs",
       "local context",
@@ -1628,7 +1628,7 @@
     "author_names":"John R. Goodall;Hassan Radwan;Lenny Halseth",
     "affiliations":"Applied Visions, Inc.",
     "title":"Visual analysis of code security",
-    "author_keywords":[
+    "keywords":[
       "data fusion",
       "security visualization",
       "software analysis",
@@ -1646,7 +1646,7 @@
     "author_names":"Cynthia Wagner;Gérard Wagener;Radu State;Alexandre Dulaunoy;Thomas Engel",
     "affiliations":"SES S.A.;University of Luxembourg",
     "title":"PeekKernelFlows: Peeking into IP flows",
-    "author_keywords":[
+    "keywords":[
       "honeypot monitoring",
       "IP flow visualisation",
       "machine learning with kernel methods"
@@ -1662,7 +1662,7 @@
     "author_names":"Eduard Glatz",
     "affiliations":"ETH Zürich",
     "title":"Visualizing host traffic through graphs",
-    "author_keywords":[
+    "keywords":[
       "information visualization",
       "network",
       "security"
@@ -1678,7 +1678,7 @@
     "author_names":"Michael Oehler;Dhananjay Phatak;John Krautheim",
     "affiliations":"University of Maryland, Baltimore County",
     "title":"Visualizing your key for secure phone calls and language independence",
-    "author_keywords":[
+    "keywords":[
       "authenticated key agreement",
       "human-assisted authentication",
       "side channel authentication",
@@ -1695,7 +1695,7 @@
     "author_names":"Wilson Lian;Fabian Monrose;John McHugh",
     "affiliations":"The University of North Carolina at Chapel Hill",
     "title":"Traffic classification using visual motifs: An empirical evaluation",
-    "author_keywords":[
+    "keywords":[
       "evaluation",
       "information visualization",
       "network management",
@@ -1714,7 +1714,7 @@
     "author_names":"Daniel M. Best;Shawn Bohn;Douglas Love;Adam Wynne;William A. Pike",
     "affiliations":"Pacific Northwest National Laboratory",
     "title":"Real-time visualization of network behaviors for situational awareness",
-    "author_keywords":[
+    "keywords":[
       "behavior modeling",
       "high-throughput",
       "network flow",
@@ -1733,7 +1733,7 @@
     "author_names":"Lane Harrison;Xianlin Hu;Xiaowei Ying;Aidong Lu;Weichao Wang;Xintao Wu",
     "affiliations":"The University of North Carolina at Charlotte",
     "title":"Interactive detection of network anomalies via coordinated multiple views",
-    "author_keywords":[
+    "keywords":[
       "coordinated multiple views",
       "intrusion detection",
       "security visualization",
@@ -1751,7 +1751,7 @@
     "author_names":"Jamie Rasmussen;Kate Ehrlich;Steven Ross;Susanna Kirk;Daniel Gruen;John Patterson",
     "affiliations":"IBM Research",
     "title":"Nimble cybersecurity incident management through visualization and defensible recommendations",
-    "author_keywords":[
+    "keywords":[
       "information visualization",
       "managed security services",
       "user studies"
@@ -1767,7 +1767,7 @@
     "author_names":"Christopher Kintzel;Johannes Fuchs;Florian Mansmann",
     "affiliations":"Universität Konstanz",
     "title":"Monitoring large IP spaces with ClockView",
-    "author_keywords":[
+    "keywords":[
       "network security",
       "pattern detection"
     ],
@@ -1782,7 +1782,7 @@
     "author_names":"Ankit Singh;Lauren Bradel;Alex Endert;Robert Kincaid;Christopher Andrews;Chris North",
     "affiliations":"Virginia Polytechnic Institute and State University;Agilent Laboratories",
     "title":"Supporting the cyber analytic process using visual history on large displays",
-    "author_keywords":[
+    "keywords":[
       "interaction styles",
       "large high-resolution displays",
       "prototyping",
@@ -1800,7 +1800,7 @@
     "author_names":"L. Nataraj;S. Karthikeyan;G. Jacob;B. S. Manjunath",
     "affiliations":"University of California, Santa Barbara",
     "title":"Malware images: Visualization and automatic classification",
-    "author_keywords":[
+    "keywords":[
       "computer security",
       "image processing",
       "image texture",
@@ -1820,7 +1820,7 @@
     "author_names":"Chris Horn;Anita D'Amico",
     "affiliations":"Applied Visions, Inc.",
     "title":"Visual analysis of goal-directed network defense decisions",
-    "author_keywords":[
+    "keywords":[
       "computer network defense (CND)",
       "decision aid",
       "decision model",
@@ -1841,7 +1841,7 @@
     "author_names":"Florian Mansmann;Timo Göbel;William Cheswick",
     "affiliations":"Universität Konstanz",
     "title":"Visual analysis of complex firewall configurations",
-    "author_keywords":[
+    "keywords":[
       "Firewall visualization",
       "Managing firewalls",
       "Rule set visualization"
@@ -1857,7 +1857,7 @@
     "author_names":"Robert F. Erbacher",
     "affiliations":"U.S. Army Research Laboratory",
     "title":"Visualization design for immediate high-level situational assessment",
-    "author_keywords":[
+    "keywords":[
       "Cyber security",
       "Decision makers",
       "Situational awareness"
@@ -1873,7 +1873,7 @@
     "author_names":"Lane Harrison;Riley Spahn;Mike Iannacone;Evan Downing;John R. Goodall",
     "affiliations":"Oak Ridge National Laboratory",
     "title":"NV: Nessus vulnerability visualization for the web",
-    "author_keywords":[
+    "keywords":[
       "Cyber security",
       "Information visualization",
       "Security analysis",
@@ -1891,7 +1891,7 @@
     "author_names":"Josh Saxe;David Mentis;Chris Greamo",
     "affiliations":"Invincea Labs",
     "title":"Visualization of shared system call sequence relationships in large malware corpora",
-    "author_keywords":[
+    "keywords":[
       "Computer security",
       "Data mining",
       "Data visualization",
@@ -1908,7 +1908,7 @@
     "author_names":"Wei Zhuo;Yacin Nadjin",
     "affiliations":"Georgia Institute of Technology",
     "title":"MalwareVis: Entity-based visualization of malware network traces",
-    "author_keywords":[
+    "keywords":[
       "Malware analysis",
       "Network behavior visualization"
     ],
@@ -1923,7 +1923,7 @@
     "author_names":"Timothy R. Leschke;Alan T. Sherman",
     "affiliations":"University of Maryland, Baltimore County",
     "title":"Change-Link: A digital forensic tool for visualizing changes to directory trees",
-    "author_keywords":[
+    "keywords":[
       "Change over time",
       "Coordinated and multiple views",
       "Data visualization",
@@ -1942,7 +1942,7 @@
     "author_names":"Orestis Tsigkas;Olivier Thonnard;Dimitrios Tzovaras",
     "affiliations":"Symantec Corporation;Information Technologies Institute",
     "title":"Visual spam campaigns analysis using abstract graphs representation",
-    "author_keywords":[
+    "keywords":[
       "Attack campaigns",
       "Information visualization",
       "Network security",
@@ -1959,7 +1959,7 @@
     "author_names":"Sophie Engle;Sean Whalen",
     "affiliations":"University of San Francisco;Columbia University in the City of New York",
     "title":"Visualizing distributed memory computations with hive plots",
-    "author_keywords":[
+    "keywords":[
       "Anomaly detection",
       "High performance computing",
       "Hive plots",
@@ -1976,7 +1976,7 @@
     "author_names":"Daisuke Inoue;Masashi Eto;Koei Suzuki;Mio Suzuki;Koji Nakao",
     "affiliations":"Japan National Institute of Information and Communications Technology",
     "title":"DAEDALUS-VIZ: Novel real-time 3D visualization for darknet monitoring-based alert system",
-    "author_keywords":[
+    "keywords":[
       "Alert system",
       "Darknet monitoring",
       "Real-time visualization"
@@ -1992,7 +1992,7 @@
     "author_names":"Fabian Fischer;Johannes Fuchs;Pierre Antoine Vervier;Florian Mansmann;Olivier Thonnard",
     "affiliations":"Symantec Corporation;EURECOM Ecole d'Ingénieur et Centre de Recherche en Sciences du Numérique;Universität Konstanz",
     "title":"VisTracer: A visual analytics tool to investigate routing anomalies in traceroutes",
-    "author_keywords":[
+    "keywords":[
       "Anomalies",
       "Network security",
       "Traceroutes",
@@ -2009,7 +2009,7 @@
     "author_names":"Rafael Veras;Julie Thorpe;Christopher Collins",
     "affiliations":"Ontario Tech University",
     "title":"Visualizing semantics in passwords: The role of dates",
-    "author_keywords":[
+    "keywords":[
       "Passwords",
       "Patterns",
       "Security",
@@ -2027,7 +2027,7 @@
     "author_names":"Mansour Alsaleh;Abdullah Alqahtani;Abdulrahman Alarifi;Abdulmalik Al-Salman",
     "affiliations":"King Abdulaziz City for Science and Technology;King Saud University",
     "title":"Visualizing PHPIDS log files for better understanding of web server attacks",
-    "author_keywords":[
+    "keywords":[
       "Intrusion detection systems",
       "Log visualization",
       "Network monitoring",
@@ -2045,7 +2045,7 @@
     "author_names":"Christopher Humphries;Nicolas Prigent;Christophe Bidan;Frédéric Majorczyk",
     "affiliations":"DGA-MI\/Supélec;Supélec-INRIA",
     "title":"ELVIS: Extensible log VISualization",
-    "author_keywords":[
+    "keywords":[
       "Forensics",
       "Intrusion detection",
       "Logs management"
@@ -2061,7 +2061,7 @@
     "author_names":"Timothy R. Leschke;Charles Nicholas",
     "affiliations":"University of Maryland, Baltimore County",
     "title":"Change-link 2.0: A digital forensic tool for visualizing changes to shadow volume data",
-    "author_keywords":[
+    "keywords":[
       "Change over time",
       "Coordinated and multiple views",
       "Data visualization",
@@ -2080,7 +2080,7 @@
     "author_names":"William J. Matuszak;Lisa DiPippo;Yan Lindsay Sun",
     "affiliations":"University of Rhode Island;Adaptive Methods: Mission Systems",
     "title":"CyberSAVe - Situational awareness visualization for cyber security of smart grid systems",
-    "author_keywords":[
+    "keywords":[
       "Cyber security",
       "Framework",
       "Situational awareness",
@@ -2099,7 +2099,7 @@
     "author_names":"Lihua Hao;Christopher G. Healey;Steve E. Hutchinson",
     "affiliations":"U.S. Army Research Laboratory;NC State University",
     "title":"Flexible web visualization for alert-based network security analytics",
-    "author_keywords":[
+    "keywords":[
       "Design",
       "Security"
     ],
@@ -2114,7 +2114,7 @@
     "author_names":"Troy Nunnally;Kulsoom Abdullah;A. Selcuk Uluagac;John A. Copeland;Raheem Beyah",
     "affiliations":"Georgia Institute of Technology",
     "title":"NAVSEC: A recommender system for 3D network security visualizations",
-    "author_keywords":[
+    "keywords":[
       "3D visualization",
       "Monitoring",
       "NAVSEC",
@@ -2133,7 +2133,7 @@
     "author_names":"Eirini Karapistoli;Panagiotis Sarigiannidis;Anastasios A. Economides",
     "affiliations":"University of Western Macedonia;Panepistimion Makedonias",
     "title":"SRNET: A real-time, cross-based anomaly detection and visualization system for wireless sensor networks",
-    "author_keywords":[
+    "keywords":[
       "Cross-based anomaly detection and visualization",
       "Detection of selective forwarding and jamming attacks",
       "Wireless sensor network security visualization"
@@ -2149,7 +2149,7 @@
     "author_names":"Florian Stoffel;Fabian Fischer;Daniel A. Keim",
     "affiliations":"Universität Konstanz",
     "title":"Finding anomalies in time-series using visual correlation for interactive root cause analysis",
-    "author_keywords":[
+    "keywords":[
       "Anomalies",
       "Correlation",
       "Network security",
@@ -2167,7 +2167,7 @@
     "author_names":"Daniel M. Best;Alex Endert;Daniel Kidwell",
     "affiliations":"Pacific Northwest National Laboratory",
     "title":"7 Key challenges for visualization in cyber network defense",
-    "author_keywords":[
+    "keywords":[
       "Cyber security",
       "Defense",
       "Visualization"
@@ -2183,7 +2183,7 @@
     "author_names":"Siming Chen;Cong Guo;Xiaoru Yuan;Fabian Merkle;Hanna Schaefer;Thomas Ertl",
     "affiliations":"Universität Stuttgart;Peking University",
     "title":"OCEANS - Online collaborative explorative analysis on network security",
-    "author_keywords":[
+    "keywords":[
       "Collaborative visual analytics",
       "Network security",
       "Situation awareness"
@@ -2199,7 +2199,7 @@
     "author_names":"Markus Wagner;Wolfgang Aigner;Alexander Rind;Hermann Dornhackl;Konstantin Kadletz;Robert Luh;Paul Tavolato",
     "affiliations":"Fachhochschule St. Polten",
     "title":"Problem characterization and abstraction for visual analytics in behavior-based malware pattern analysis",
-    "author_keywords":[
+    "keywords":[
       "Evaluation",
       "Malicious software",
       "Malware analysis",
@@ -2217,7 +2217,7 @@
     "author_names":"Simon Walton;Eamonn Maguire;Min Chen",
     "affiliations":"University of Oxford",
     "title":"Multiple queries with conditional attributes (qcats) for anomaly detection and visualization",
-    "author_keywords":[
+    "keywords":[
       "Anomaly detection",
       "Information theory",
       "Model visualization",
@@ -2236,7 +2236,7 @@
     "author_names":"Jan Erik Stange;Johannes Landstorfer;Marian Dörk;Reto Wettach",
     "affiliations":"FH Potsdam",
     "title":"Visual filter: Graphical exploration of network security log files",
-    "author_keywords":[
+    "keywords":[
       "Dynamic querying",
       "Exploratory search",
       "Human pattern recognition",
@@ -2254,7 +2254,7 @@
     "author_names":"Diane Staheli;Tamara Yu;R. Jordan Crouser;Suresh Damodaran;Kevin Nam;David O'Gwynn;Sean McKenna;Lane Harrison",
     "affiliations":"The University of Utah;Lincoln Laboratory;Tufts University",
     "title":"Visualization evaluation for cyber security: Trends and future directions",
-    "author_keywords":[
+    "keywords":[
       "Cyber security",
       "Evaluation",
       "Information visualization"
@@ -2270,7 +2270,7 @@
     "author_names":"Christopher Humphries;Nicolas Prigent;Christophe Bidan;Frédéric Majorczyk",
     "affiliations":"DGA-MI\/Supélec;Supélec;Supélec\/INRIA",
     "title":"Combination, organization and reconstruction through graphical interactions",
-    "author_keywords":[
+    "keywords":[
       "Forensics",
       "Intrusion detection",
       "Visualization"
@@ -2286,7 +2286,7 @@
     "author_names":"Fabian Fischer;Daniel A. Keim",
     "affiliations":"Universität Konstanz",
     "title":"NStreamAware: Real-time visual analytics for data streams to enhance situational awareness",
-    "author_keywords":[
+    "keywords":[
       "situational awareness",
       "network security",
       "real-time processing",
@@ -2304,7 +2304,7 @@
     "author_names":"Robert Gove;Joshua Saxe;Sigfried Gold;Alex Long;Giacomo Bergamo Invincea Labs;Zachary Piper",
     "affiliations":null,
     "title":"SEEM: A scalable visualization for comparing multiple large sets of attributes for malware analysis",
-    "author_keywords":[
+    "keywords":[
       "Computer security",
       "Malware",
       "Sets",
@@ -2322,7 +2322,7 @@
     "author_names":"J. Joseph Fowler;Michael Schneider;Thienne Johnson;Carlos Acedo;Loukas Lazos;Paolo Simonetto;Stephen Kobourov",
     "affiliations":"The University of Arizona",
     "title":"IMap: Visualizing network activity over internet maps",
-    "author_keywords":[
+    "keywords":[
       "Anomaly",
       "Map",
       "Network",
@@ -2340,7 +2340,7 @@
     "author_names":"Alexander Long;Joshua Saxe;Robert Gove",
     "affiliations":"Invincea Labs",
     "title":"Detecting malware samples with similar image sets",
-    "author_keywords":[
+    "keywords":[
       "Human computer interaction",
       "Malware",
       "Security",
@@ -2357,7 +2357,7 @@
     "author_names":"Marco Angelini;Nicolas Prigent;Giuseppe Santucci",
     "affiliations":"Università degli Studi di Roma La Sapienza",
     "title":"PERCIVAL: Proactive and reactive attack and response assessment for cyber incidents using visual analytics",
-    "author_keywords":[
+    "keywords":[
       "attack paths",
       "Cyber-security",
       "incident response assessment",
@@ -2374,7 +2374,7 @@
     "author_names":"Joseph Yuen;Benjamin Turnbull;Justin Hernandez",
     "affiliations":"University of New South Wales (UNSW) Australia;Automated Analytics and Decision Support",
     "title":"Visual analytics for cyber red teaming",
-    "author_keywords":[
+    "keywords":[
       "attack graphs",
       "cyber red teaming",
       "decision support",
@@ -2393,7 +2393,7 @@
     "author_names":"Lihua Hao;Christopher G. Healey;Steve E. Hutchinson",
     "affiliations":"ICF International Inc.;NC State University",
     "title":"Ensemble visualization for cyber situation awareness of network security data",
-    "author_keywords":[
+    "keywords":[
       "Ensemble",
       "security",
       "visualization"
@@ -2409,7 +2409,7 @@
     "author_names":"Bram C.M. Cappers;Jarke J. Van Wijk",
     "affiliations":"Technische Universiteit Eindhoven",
     "title":"SNAPS: Semantic network traffic analysis through projection and selection",
-    "author_keywords":[
+    "keywords":[
       "Anomaly detection",
       "interaction",
       "multivariate analysis",
@@ -2428,7 +2428,7 @@
     "author_names":"Kodzo Webga;Aidong Lu",
     "affiliations":"The University of North Carolina at Charlotte",
     "title":"Discovery of rating fraud with real-time streaming visual analytics",
-    "author_keywords":[
+    "keywords":[
       "fraud detection",
       "Rating fraud",
       "security visualization",
@@ -2445,7 +2445,7 @@
     "author_names":"Philip A. Legg",
     "affiliations":"University of the West of England",
     "title":"Visualizing the insider threat: Challenges and tools for identifying malicious user activity",
-    "author_keywords":[
+    "keywords":[
       "behavioural analysis",
       "Insider threat",
       "model visualization"
@@ -2461,7 +2461,7 @@
     "author_names":"Giuseppe Di Battista;Valentino Di Donato;Maurizio Patrignani;Maurizio Pizzonia;Vincenzo Roselli;Roberto Tamassia",
     "affiliations":"Università degli Studi Roma Tre;Brown University",
     "title":"Bitconeview: Visualization of flows in the bitcoin transaction graph",
-    "author_keywords":[
+    "keywords":[
       "Bitcoin",
       "cryptocurrency",
       "fraud detection",
@@ -2480,7 +2480,7 @@
     "author_names":"Laurin Buchanan;Anita D'Amico;Drew Kirkpatrick",
     "affiliations":null,
     "title":"Mixed method approach to identify analytic questions to be visualized for military cyber incident handlers",
-    "author_keywords":[
+    "keywords":[
       "cognitive work",
       "cyber operations",
       "Incident detection",
@@ -2499,7 +2499,7 @@
     "author_names":"Bram C.M. Cappers;Jarke J. Van Wijk",
     "affiliations":"Technische Universiteit Eindhoven",
     "title":"Understanding the context of network traffic alerts",
-    "author_keywords":[
+    "keywords":[
       "Anomaly detection",
       "multivariate analysis",
       "network traffic analysis",
@@ -2517,7 +2517,7 @@
     "author_names":"Ngoc Anh Huynh;Wee Keong Ng;Alex Ulmer;Jorn Kohlhammer",
     "affiliations":"Fraunhofer Institute for Computer Graphics Research IGD;Technische Universität Darmstadt;Nanyang Technological University",
     "title":"Uncovering periodic network signals of cyber attacks",
-    "author_keywords":[
+    "keywords":[
       "Fourier transform",
       "Intrusion detection",
       "Periodic traces",
@@ -2535,7 +2535,7 @@
     "author_names":"Meenakshi Syamkumar;Ramakrishnan Durairajan;Paul Barford",
     "affiliations":"University of Wisconsin-Madison",
     "title":"Bigfoot: A geo-based visualization methodology for detecting BGP threats",
-    "author_keywords":[
+    "keywords":[
       "BGP Security",
       "Routing anomalies",
       "Visualization"
@@ -2551,7 +2551,7 @@
     "author_names":"Dustin Arendt;Dan Best;Russ Burtner;Celeste Lyn Paul",
     "affiliations":"Pacific Northwest National Laboratory",
     "title":"CyberPetri at CDX 2016: Real-time network situation awareness",
-    "author_keywords":[
+    "keywords":[
       "Cybersecurity",
       "situation awareness",
       "visualization"
@@ -2567,7 +2567,7 @@
     "author_names":"Sebastian Peryt;Jose Andre Morales;William Casey;Aaron Volkmann;Bud Mishra;Yang Cai",
     "affiliations":"Software Engineering Institute;Carnegie Mellon University;Courant Institute of Mathematical Sciences",
     "title":"Visualizing a Malware Distribution Network",
-    "author_keywords":[
+    "keywords":[
       "behavioral graph",
       "Google Safe Browsing",
       "malware",
@@ -2586,7 +2586,7 @@
     "author_names":"Tobias Post;Thomas Wischgoll;Adam R. Bryant;Bernd Hamann;Paul Muller;Hans Hagen",
     "affiliations":"Wright State University;University of California, Davis;Technische Universität Kaiserslautern",
     "title":"Visually guided flow tracking in software-defined networking",
-    "author_keywords":[
+    "keywords":[
       "Flow Visualization",
       "Linked Views",
       "Software-defined Networking"
@@ -2602,7 +2602,7 @@
     "author_names":"Marco Angelini;Simone Lenti;Giuseppe Santucci",
     "affiliations":"Università degli Studi di Roma La Sapienza",
     "title":"CRUMBS: A cyber security framework browser",
-    "author_keywords":[
+    "keywords":[
       "NIST Cyber Security Framework",
       "Visual Analytics"
     ],
@@ -2617,7 +2617,7 @@
     "author_names":"Aneesha Sethi;Gary Wills",
     "affiliations":"University of Southampton",
     "title":"Expert-interviews led analysis of EEVi-A model for effective visualization in cyber-security",
-    "author_keywords":[
+    "keywords":[
       "Cyber-Security",
       "Data Visualization",
       "Human Factors",
@@ -2635,7 +2635,7 @@
     "author_names":"Marco Angelini;Leonardo Aniello;Simone Lenti;Giuseppe Santucci;Daniele Ucci",
     "affiliations":"Università degli Studi di Roma La Sapienza",
     "title":"The goods, the bads and the uglies: Supporting decisions in malware detection through visual analytics",
-    "author_keywords":[
+    "keywords":[
       "Malware analysis",
       "malware classifiers",
       "malware download",
@@ -2652,7 +2652,7 @@
     "author_names":"Laetitia Leichtnam;Eric Totel;Nicolas Prigent;Ludovic Me",
     "affiliations":"Universite de Rennes 1;LSTI",
     "title":"STARLORD: Linked security data exploration in a 3D graph",
-    "author_keywords":[
+    "keywords":[
       "Forensics",
       "Intrusion Detection",
       "Logs Management"
@@ -2668,7 +2668,7 @@
     "author_names":"Jia Kai Chou;Chris Bryan;Jing Li;Kwan Liu Ma",
     "affiliations":"University of California, Davis",
     "title":"An Empirical Study on Perceptually Masking Privacy in Graph Visualizations",
-    "author_keywords":[
+    "keywords":[
       "Human-centered computing",
       "Visualization",
       "Visualization design and evaluation methods"
@@ -2684,7 +2684,7 @@
     "author_names":"Awalin Sopan;Matthew Berninger;Murali Mulakaluri;Raj Katakam",
     "affiliations":"FireEye, Inc.",
     "title":"Building a Machine Learning Model for the SOC, by the Input from the SOC, and Analyzing it for the SOC",
-    "author_keywords":[
+    "keywords":[
       "Cyber security",
       "Information Visualization",
       "Machine Learning",
@@ -2701,7 +2701,7 @@
     "author_names":"Dustin L. Arendt;Lyndsey R. Franklin;Fumeng Yang;Brooke R. Brisbois;Ryan R. Lamothe",
     "affiliations":"Pacific Northwest National Laboratory;Brown University",
     "title":"Crush Your Data with ViC<sup>2<\/sup>ES Then CHISSL Away",
-    "author_keywords":[
+    "keywords":[
       "event sequence visualization",
       "insider threat",
       "user activity monitoring",
@@ -2719,7 +2719,7 @@
     "author_names":"Bram C.M. Cappers;Paulus N. Meessen;Sandro Etalle;Jarke J. Van Wijk",
     "affiliations":"Technische Universiteit Eindhoven;Radboud University Nijmegen",
     "title":"Eventpad: Rapid Malware Analysis and Reverse Engineering using Visual Analytics",
-    "author_keywords":[
+    "keywords":[
       "Human-centered computing",
       "Security",
       "Software and application security",
@@ -2739,7 +2739,7 @@
     "author_names":"Georgios Bakirtzis;Brandon J. Simon;Cody H. Fleming;Carl R. Elks",
     "affiliations":"University of Virginia;Virginia Commonwealth University",
     "title":"Looking for a Black Cat in a Dark Room: Security Visualization for Cyber-Physical System Design and Analysis",
-    "author_keywords":[
+    "keywords":[
       "Embedded systems security",
       "Graph drawings",
       "Human-centered computing",
@@ -2766,7 +2766,7 @@
     "author_names":"Marco Angelini;Graziano Blasilli;Pietro Borrello;Emilio Coppa;Daniele Cono Drelia;Serena Ferracci;Simone Lenti;Giuseppe Santucci",
     "affiliations":"Università degli Studi di Roma La Sapienza",
     "title":"ROPMate: Visually Assisting the Creation of ROP-based Exploits",
-    "author_keywords":[
+    "keywords":[
       "Code Reuse",
       "Malware Analysis",
       "Return-Oriented Programming",
@@ -2784,7 +2784,7 @@
     "author_names":"Eric Krokos;Alexander Rowden;Kirsten Whitley;Amitabh Varshney",
     "affiliations":"University of Maryland;United States Department of Defense",
     "title":"Visual Analytics for Root DNS Data",
-    "author_keywords":[
+    "keywords":[
       "3d",
       "big data",
       "cyber security",
@@ -2804,7 +2804,7 @@
     "author_names":"Alex Ulmer;Marija Schufrin;David Sessler;Jorn Kohlhammer",
     "affiliations":"Technische Universität Darmstadt",
     "title":"Visual-Interactive Identification of Anomalous IP-Block Behavior Using Geo-IP Data",
-    "author_keywords":[
+    "keywords":[
       "Geo-IP",
       "Geographic visualization",
       "Geographical Visualization",
@@ -2826,7 +2826,7 @@
     "author_names":"Robert Gove;Lauren Deason",
     "affiliations":"PUNCH Cyber Analytics Group;Two Six Labs",
     "title":"Visualizing Automatically Detected Periodic Network Activity",
-    "author_keywords":[
+    "keywords":[
       "Human-centered computing",
       "Human-centered computing",
       "Information visualization",
@@ -2849,7 +2849,7 @@
     "author_names":"Siming Chen;Shuai Chen;Natalia Andrienko;Gennady Andrienko;Phong H. Nguyen;Cagatay Turkay;Olivier Thonnard;Xiaoru Yuan",
     "affiliations":"University of London;Peking University;Universität Bonn;Amadeus",
     "title":"User Behavior Map: Visual Exploration for Cyber Security Session Data",
-    "author_keywords":[
+    "keywords":[
       "Behavior Analysis",
       "Cyber Security",
       "Map Metaphor"
@@ -2865,7 +2865,7 @@
     "author_names":"Anna Pia Lohfink;Simon D.Duque Anton;Hans Dieter Schotten;Heike Leitte;Christoph Garth",
     "affiliations":"Scientific Visualization LabUniversity of Kaiserslautern;Visual Information Analysis GroupUniversity of Kaiserslautern;German Research Center for Artificial Intelligence Kaiserslautern",
     "title":"Security in Process: Visually Supported Triage Analysis in Industrial Process Data",
-    "author_keywords":[
+    "keywords":[
       "Anomaly Detection",
       "Cyber Security",
       "Information Visualization",
@@ -2883,7 +2883,7 @@
     "author_names":"Papadopoulos, Christos; Kyriakakis, Chris; Sawchuk, Alexander; He, Xinming",
     "affiliations":null,
     "title":"CyberSeer: 3D audio-visual immersion for network security and management",
-    "author_keywords":[
+    "keywords":[
       "Network visualization",
       "network security",
       "monitoring"
@@ -2899,7 +2899,7 @@
     "author_names":"Wright, Charles; Monrose, Fabian; Masson, Gerald M.",
     "affiliations":null,
     "title":"HMM profiles for network traffic classification",
-    "author_keywords":[
+    "keywords":[
       "masquerade detection",
       "intrusion detection",
       "behavioral modeling"
@@ -2915,7 +2915,7 @@
     "author_names":"Yin, Xiaoxin; Yurcik, William; Treaster, Michael; Li, Yifan; Lakkaraju, Kiran",
     "affiliations":null,
     "title":"VisFlowConnect: netflow visualizations of link relationships for security situational awareness",
-    "author_keywords":[
+    "keywords":[
       "NetFlows",
       "Security Visualization",
       "Link Relationships",
@@ -2935,7 +2935,7 @@
     "author_names":"Lakkaraju, Kiran; Yurcik, William; Lee, Adam J.",
     "affiliations":null,
     "title":"NVisionIP: netflow visualizations of system state for security situational awareness",
-    "author_keywords":[
+    "keywords":[
       "NetFlows",
       "security system state",
       "security visualization",
@@ -2952,7 +2952,7 @@
     "author_names":"Yurcik, William; Meng, Xin; Kiyanclar, Nadir",
     "affiliations":null,
     "title":"NVisionCC: a visualization framework for high performance cluster security",
-    "author_keywords":[
+    "keywords":[
       "NVisionCC",
       "cluster security",
       "high performance security",
@@ -2970,7 +2970,7 @@
     "author_names":"Koike, Hideki; Ohno, Kazuhiro",
     "affiliations":null,
     "title":"SnortView: visualization system of snort logs",
-    "author_keywords":[
+    "keywords":[
       "Intrusion detection",
       "Visualization"
     ],
@@ -2985,7 +2985,7 @@
     "author_names":"McPherson, Jonathan; Ma, Kwan-Liu; Krystosk, Paul; Bartoletti, Tony; Christensen, Marvin",
     "affiliations":null,
     "title":"PortVis: a tool for port-based detection of security events",
-    "author_keywords":[
+    "keywords":[
       "Network security",
       "information visualization",
       "user interfaces"
@@ -3001,7 +3001,7 @@
     "author_names":"Laughlin, Brandon; Collins, Christopher; Sankaranarayanan, Karthik; El-Khatib, Khalil",
     "affiliations":null,
     "title":"A Visual Analytics Framework for Adversarial Text Generation",
-    "author_keywords":[
+    "keywords":[
       "Adversarial machine learning",
       "text classification"
     ],
@@ -3016,7 +3016,7 @@
     "author_names":"Varga, Margaret; Winkelholz, Carsten; Träber-Burdin, Susan",
     "affiliations":null,
     "title":"An Exploration of Cyber Symbology",
-    "author_keywords":[
+    "keywords":[
       "Visualization",
       "cyber situation awareness",
       "symbology"
@@ -3032,7 +3032,7 @@
     "author_names":"O’Shaughnessy, Stephen",
     "affiliations":null,
     "title":"Image-based Malware Classification: A Space Filling Curve Approach",
-    "author_keywords":[
+    "keywords":[
       " Space-filling curves",
       "Morton curve",
       "Z-order",
@@ -3050,7 +3050,7 @@
     "author_names":"Ulmer, Alex; Sessler, David; Kohlhammer, Jörn",
     "affiliations":null,
     "title":"NetCapVis: Web-based Progressive Visual Analytics for Network Packet Captures",
-    "author_keywords":[
+    "keywords":[
       "Network Traffic",
       "PCAP",
       "Progressive Visual Analytics",
@@ -3068,7 +3068,7 @@
     "author_names":"Fouss, Brett; Ross, Dennis M.; Wollaber, Allan B.; Gomez, Steven R.",
     "affiliations":null,
     "title":"PunyVis: A Visual Analytics Approach for Identifying Homograph Phishing Attacks",
-    "author_keywords":[
+    "keywords":[
       "visual analytics",
       "visualization design",
       "cyber security",
@@ -3087,7 +3087,7 @@
     "author_names":"Ošlejšek, Radek; Rusňák, Vít; Burská, Karolína; Švábenský, Valdemar; Vykopal, Jan",
     "affiliations":null,
     "title":"Visual Feedback for Players of Multi-Level Capture the Flag Games: Field Usability Study",
-    "author_keywords":[
+    "keywords":[
       "cybersecurity training",
       "capture the flag games",
       "visual feedback",
