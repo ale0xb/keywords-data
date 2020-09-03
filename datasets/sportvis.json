@@ -905,7 +905,10 @@
     "affiliations":null,
     "title":"Glyphs in Matrix Representation of Graphs for Displaying Soccer Games Results",
     "keywords":[
-      "Information visualization, sports visualization, glyphs, soccer."
+      "Information visualization", 
+      "sports visualization", 
+      "glyphs", 
+      "soccer"
     ],
     "abstract":"Soccer is a popular game in many countries. Aiming at showing information about soccer teams performance along competitions several sites publish match statistics. Although those sites gather a lot of informtion, they in general present them in a table format, with little usage of graphics, making analysis harder for users. This work has a twofold goal: to propose an alternative for the visualization of varied attributes associated to the edges of a graph that represents a soccer competition and, also in such alternative, to provide an overview of the teams’ results in all matches. The paper presents the proposed visualization technique with details regarding glyphs design and usage. Examples with data from a large competition is used to show preliminary results.",
     "doi":null,

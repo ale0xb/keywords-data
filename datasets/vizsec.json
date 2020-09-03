@@ -115,20 +115,6 @@
     "outer_cite_count":175.0
   },
   {
-    "key":"HQ4639CR",
-    "publication_name":"VizSEC\/DMSEC '04: Proceedings of the 2004 ACM Workshop on Visualization and Data Mining for Computer Security",
-    "year":2004,
-    "author_names":"Tom Goldring",
-    "affiliations":"National Security Agency",
-    "title":"Scatter (and other) plots for visualizing user profiling data and network traffic",
-    "keywords":[
-      "Visualization"
-    ],
-    "abstract":"The scatterplot continues to be one of the most useful tools for visualizing numeric data, however what we typically encounter in Computer Security is categorical and\/or textual in nature, and how to convert it into a form where scatter-plots apply is not always obvious. We outline some simple ideas for doing this and illustrate with two \"real data\" case studies: User Profiling and Network Traffic. In both cases the results can be quite surprising. Copyright 2004 ACM.",
-    "doi":"10.1145\/1029208.1029227",
-    "outer_cite_count":18.0
-  },
-  {
     "key":"SJRD5C32",
     "publication_name":"VizSEC\/DMSEC '04: Proceedings of the 2004 ACM Workshop on Visualization and Data Mining for Computer Security",
     "year":2004,
@@ -1065,7 +1051,7 @@
       "Intrusion Detection",
       "Associative Memory",
       "Source Address",
-      "Destination Address "
+      "Destination Address"
     ],
     "abstract":"Network scans are a common first step in a network intrusion attempt. In order to gain information about a potential network intrusion, it is beneficial to analyze these network scans. Statistical methods such as wavelet scalogram analysis have been used along with visualization techniques in previous methods. However, applying these statistical methods causes a substantial amount of data loss. This paper presents a study of using associative memory learning techniques to directly compare network scans in order to create a classification which can be used by itself or in conjunction with existing visualization techniques to better characterize the sources of these scans. This produces an integrated system of visual and intelligent analysis which is applicable to real world data. © 2008 Springer-Verlag Berlin Heidelberg.",
     "doi":"10.1007\/978-3-540-78243-8_16",
@@ -1101,7 +1087,7 @@
       "Reverse Engineering",
       "Binary File",
       "Executable File",
-      "Text View "
+      "Text View"
     ],
     "abstract":"The analysis of computer files poses a difficult problem for security researchers seeking to detect and analyze malicious content, software developers stress testing file formats for their products, and for other researchers seeking to understand the behavior and structure of undocumented file formats. Traditional tools, including hex editors, disassemblers and debuggers, while powerful, constrain analysis to primarily text based approaches. In this paper, we present design principles for file analysis which support meaningful investigation when there is little or no knowledge of the underlying file format, but are flexible enough to allow integration of additional semantic information, when available. We also present results from the implementation of a visual reverse engineering system based on our analysis. We validate the efficacy of both our analysis and our system with case studies depicting analysis use cases where a hex editor would be of limited value. Our results indicate that visual approaches help analysts rapidly identify files, analyze unfamiliar file structures, and gain insights that inform and complement the current suite of tools currently in use. © 2008 Springer-Verlag Berlin Heidelberg.",
     "doi":"10.1007\/978-3-540-85933-8_1",
@@ -1119,7 +1105,7 @@
       "File System",
       "Information Visualization",
       "Access Control Model",
-      "System Permission "
+      "System Permission"
     ],
     "abstract":"In this paper, we present a visual representation of access control permissions in a standard hierarchical file system. Our visualization of file permissions leverages treemaps, a popular graphical representation of hierarchical data. In particular, we present a visualization of access control for the NTFS file system that can help a non-expert user understand and manipulate file system permissions in a simple and effective way. While our examples are based on NTFS, our approach can be used for many other hierarchical file systems as well. © 2008 Springer-Verlag Berlin Heidelberg.",
     "doi":"10.1007\/978-3-540-85933-8_2",
@@ -1137,7 +1123,7 @@
       "Program Execution",
       "Information Visualization",
       "Visual Exploration",
-      "Program Flow "
+      "Program Flow"
     ],
     "abstract":"Host based program monitoring tools are an essential part of maintaining proper system integrity due to growing malicious network activity. As systems become more complicated, the quantity of data collected by these tools often grows beyond the ability of analysts to easily comprehend in a short amount of time. In this paper, we present a method for visual exploration of a system program flow over time to aid in the detection and identification of significant events. This allows automatic accentuation of programs with irregular file access and child process propagation, which results in more efficient forensic analysis and system recovery times. © 2008 Springer-Verlag Berlin Heidelberg.",
     "doi":"10.1007\/978-3-540-85933-8_3",
