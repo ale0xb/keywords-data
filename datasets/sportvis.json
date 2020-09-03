@@ -838,25 +838,6 @@
     "outer_cite_count":null
   },
   {
-    "key":"LIVVFCTB",
-    "publication_name":"Proceedings of the IEEE Visualization Conference",
-    "year":2001,
-    "author_names":"G. Pingali;A. Opalach;Y. Jean;I. Carlbom",
-    "affiliations":"IBM Thomas J. Watson Research Center",
-    "title":"Visualization of sports using motion trajectories: Providing insights into performance, style, and strategy",
-    "keywords":[
-      "Multi-camera tracking",
-      "Multimedia indexing",
-      "Real-time video analysis",
-      "Sports visualization",
-      "Telepresence",
-      "Virtual environment"
-    ],
-    "abstract":"Remote experience of sporting events has thus far been limited mostly to watching video and the scores and statistics associated with the sport. However, a fast-developing trend is the use of visualization techniques to give new insights into performance, style, and strategy of the players. Automated techniques can extract accurate information from video about player performance that not even the most skilled observer is able to discern. When presented as static images or as a three-dimensional virtual replay, this information makes viewing a game an entirely new and exciting experience. This paper presents one such sports visualization system called LucentVision, which has been developed for the sport of tennis. LucentVision uses real-time video analysis to obtain motion trajectories of players and the ball, and offers a rich set of visualization options based on this trajectory data. The system has been used extensively in the broadcast of international tennis tournaments, both on television and the Internet.",
-    "doi":"10.1109\/visual.2001.964496",
-    "outer_cite_count":32.0
-  },
-  {
     "key":null,
     "publication_name":"UbiComp 2006: Ubiquitous Computing",
     "year":2006,
@@ -890,22 +871,6 @@
     "abstract":"This article introduces À Table!, an enhanced soccer ranking table providing temporal navigation by combining two novel interaction techniques. Ranking tables order soccer teams represented as rows, according to values of columns containing attributes e. g., accumulated points, or number of scored goals. Because they represent a snapshot of a championship at a time t, tables are regularly updated with new results. Such updates usually change the rows order, which makes the tracking of a specified team over time difficult. We observed that the tables available on the web do not support tracking such changes very well, are generally hard to read, and lack interactions. This contrasts with the extensive use of comments on temporal trends found in soccer analysts articles. To better support such analyzes, the two interactive techniques presented allow exploration of time, and are designed to preserve users' flow: DRAG-CELL is based on direct manipulation of values to browse ranks; VIZ-RANK uses a transient line chart of team ranks to visually explore a championship. An on-line evaluation with 143 participants shows that each technique efficiently supports a set of important temporal tasks not supported by current ranking tables. This paves the way for introducing efficient advanced visual exploration techniques to millions of soccer enthusiasts who use tables everyday.",
     "doi":"10.1145\/2556288.2557379",
     "outer_cite_count":21.0
-  },
-  {
-    "key":"PJMQO42J",
-    "publication_name":"2014 IEEE Conference on Visual Analytics Science and Technology, VAST 2014 - Proceedings",
-    "year":2015,
-    "author_names":"Halld'Or Janetzko;Dominik Sacha;Manuel Stein;Tobias Schreck;Daniel A. Keim;Oliver Deussen",
-    "affiliations":"Universität Konstanz",
-    "title":"Feature-driven visual analytics of soccer data",
-    "keywords":[
-      "Soccer Analysis",
-      "Sport Analytics",
-      "Visual Analytics"
-    ],
-    "abstract":"© 2014 IEEE. Soccer is one the most popular sports today and also very interesting from an scientific point of view. We present a system for analyzing high-frequency position-based soccer data at various levels of detail, allowing to interactively explore and analyze for movement features and game events. Our Visual Analytics method covers single-player, multi-player and event-based analytical views. Depending on the task the most promising features are semi-automatically selected, processed, and visualized. Our aim is to help soccer analysts in finding the most important and interesting events in a match. We present a flexible, modular, and expandable layer-based system allowing in-depth analysis. The integration of Visual Analytics techniques into the analysis process enables the analyst to find interesting events based on classification and allows, by a set of custom views, to communicate the found results. The feedback loop in the Visual Analytics pipeline helps to further improve the classification results. We evaluate our approach by investigating real-world soccer matches and collecting additional expert feedback. Several use cases and findings illustrate the capabilities of our approach.",
-    "doi":"10.1109\/VAST.2014.7042477",
-    "outer_cite_count":48.0
   },
   {
     "key":"K5B1Y2AH",
