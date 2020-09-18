@@ -16351,7 +16351,7 @@
             "network visualization",
             "social networks",
             "time series data",
-            "visual knolwedge discovery and representation",
+            "visual knowledge discovery and representation",
             "glyph-based techniques"
         ],
         "authors": "Ulrik Brandes;Bobo Nick",
@@ -25555,7 +25555,7 @@
             "crowdsourcing",
             "learning-from-crowds",
             "interactive visualization",
-            "focus + context"
+            "focus+context"
         ],
         "authors": "Shixia Liu;Changjian Chen;Yafeng Lu;Fangxin Ouyang;Bin Wang",
         "conference": "VAST",
@@ -26029,7 +26029,7 @@
         "title": "Interactive obstruction-free lensing for volumetric data visualization",
         "keywords": [
             "interaction techniques",
-            "focus + context",
+            "focus+context",
             "volume visualization",
             "volume rendering",
             "raycasting"
@@ -27161,7 +27161,8 @@
             "Cognitive Effort",
             "Evaluation Methods",
             "Pupillometry",
-            "Geographic/Geospatial Visualization",
+            "Geospatial Visualization",
+            "Geographic Visualization",
             "Quantitative Evaluation"
         ],
         "authors": "Lace M.K. Padilla;Spencer C. Castro;P. Samuel Quinan;Ian T. Ruginski;Sarah H. Creem-Regehr",
@@ -27391,7 +27392,8 @@
         "keywords": [
             "Deep deformation network",
             "organ meshes",
-            "3D / 4D shapes",
+            "3D shapes",
+            "4D shapes",
             "2D projections",
             "single-view"
         ],
@@ -28523,9 +28525,10 @@
             "Human-centered computing",
             "Empirical studies in HCI",
             "Displays and imagers",
-            "Social engineering (social sciences)",
+            "Social engineering",
+            "social sciences",
             "Visualization theory",
-            " concepts and paradigms",
+            "concepts and paradigms",
             "Gestalt theory",
             "controlled experiment",
             "data density",
@@ -28575,7 +28578,7 @@
             "robustness",
             "adversarial examples",
             "back propagation",
-            "multi-level visualization."
+            "multi-level visualization"
         ],
         "authors": "Mengchen Liu;Shixia Liu;Hang Su;Kelei Cao;Jun Zhu",
         "conference": "VAST",
