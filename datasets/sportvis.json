@@ -948,7 +948,10 @@
     "affiliations":null,
     "title":"Bloomberg Sports Visualization for Pitch Analysis",
     "keywords":[
-      "Sports visualization, baseball pitch analysis, video analysis, big data visualization"
+      "Sports visualization", 
+      "baseball pitch analysis", 
+      "video analysis", 
+      "big data visualization"
     ],
     "abstract":"Visualization of big data in baseball at the per pitch level including measured data and video can be made effective for coaches and managers through a variety of information visualization techniques focused on creating easy to use and easy to understand visualizations. Visualization techniques include filtering, linked familiar views, multi variate glyphs with inituituve mappings to color and shape, aggregation via heatgrids and contour maps, and a workflow to support video analysis to and from the visualization.",
     "doi":null,
