@@ -3,7 +3,7 @@
     "key":"PZV38HDT",
     "publication_name":"Conference on Human Factors in Computing Systems - Proceedings",
     "year":2014,
-    "author_names":"Rohit Ashok Khot;Larissa Hjorth;Florian Floyd Mueller",
+    "authors":"Rohit Ashok Khot;Larissa Hjorth;Florian Floyd Mueller",
     "affiliations":"RMIT University",
     "title":"Understanding physical activity through 3D printed material artifacts",
     "keywords":[
@@ -22,7 +22,7 @@
     "key":"73GX5YN5",
     "publication_name":"2016 IEEE International Conference on Pervasive Computing and Communication Workshops, PerCom Workshops 2016",
     "year":2016,
-    "author_names":"Lu Bai;Christos Efstratiou;Chee Siang Ang",
+    "authors":"Lu Bai;Christos Efstratiou;Chee Siang Ang",
     "affiliations":"University of Kent",
     "title":"WeSport: Utilising wrist-band sensing to detect player activities in basketball games",
     "keywords":[
@@ -39,7 +39,7 @@
     "key":"DACL8AFT",
     "publication_name":"Journal of Orthopaedic and Sports Physical Therapy",
     "year":2010,
-    "author_names":"Harrison Philip Crowell;Clare E. Milnert;Joseph Hamill;Irene S. Davis",
+    "authors":"Harrison Philip Crowell;Clare E. Milnert;Joseph Hamill;Irene S. Davis",
     "affiliations":"U.S. Army Research Laboratory;University of Delaware;The University of Tennessee, Knoxville;University of Massachusetts Amherst;Drayer Physical Therapy Institute",
     "title":"Reducing impact loading during running with the use of real-time visual feedback",
     "keywords":[
@@ -57,7 +57,7 @@
     "key":"KFXT4A3H",
     "publication_name":"Conference on Human Factors in Computing Systems - Proceedings",
     "year":2008,
-    "author_names":"Sunny Consolvo;David W. McDonald;Tammy Toscos;Mike Y. Chen;Jon Froehlich;Beverly Harrison;Predrag Klasnja;Anthony LaMarea;Louis LeGrand;Ryan Libby;Ian Smith;James A. Landay",
+    "authors":"Sunny Consolvo;David W. McDonald;Tammy Toscos;Mike Y. Chen;Jon Froehlich;Beverly Harrison;Predrag Klasnja;Anthony LaMarea;Louis LeGrand;Ryan Libby;Ian Smith;James A. Landay",
     "affiliations":"Intel Research Laboratories;University of Washington, Seattle",
     "title":"Activity sensing in the wild: A field trial of UbiFit Garden",
     "keywords":[
@@ -77,7 +77,7 @@
     "key":"K73P7V8F",
     "publication_name":"Conference on Human Factors in Computing Systems - Proceedings",
     "year":2015,
-    "author_names":"Moon Hwan Lee;Seijin Cha;Tek Jin Nam",
+    "authors":"Moon Hwan Lee;Seijin Cha;Tek Jin Nam",
     "affiliations":"Korea Advanced Institute of Science &amp; Technology",
     "title":"Patina engraver: Visualizing activity logs as patina in fashionable trackers",
     "keywords":[
@@ -94,7 +94,7 @@
     "key":"G92UJP2H",
     "publication_name":"IEEE Computer Graphics and Applications",
     "year":2015,
-    "author_names":"Jo Wood",
+    "authors":"Jo Wood",
     "affiliations":"City, University of London",
     "title":"Visualizing Personal Progress in Participatory Sports Cycling Events",
     "keywords":[
@@ -112,7 +112,7 @@
     "key":"5H7FP4QT",
     "publication_name":"Journal of Visualization",
     "year":2016,
-    "author_names":"Wentao Wang;Jiawan Zhang;Xiaoru Yuan;Shixia Liu",
+    "authors":"Wentao Wang;Jiawan Zhang;Xiaoru Yuan;Shixia Liu",
     "affiliations":"Tsinghua University;Tianjin University;Peking University",
     "title":"MatchOrchestra: a generalized visual analytics for competitive team sports",
     "keywords":[
@@ -128,7 +128,7 @@
     "key":"U9XCD1VU",
     "publication_name":"Proceedings of the International Conference on Information Visualisation",
     "year":2011,
-    "author_names":"Adrian Rusu;Doru Stoica;Edward Burns",
+    "authors":"Adrian Rusu;Doru Stoica;Edward Burns",
     "affiliations":"Rowan University;University of Craiova",
     "title":"Analyzing soccer goalkeeper performance using a metaphor-based visualization",
     "keywords":[
@@ -144,7 +144,7 @@
     "key":"AIWUZMH8",
     "publication_name":"Computational Visual Media",
     "year":2016,
-    "author_names":"L. Sousa;R. Alves;J. M.F. Rodrigues",
+    "authors":"L. Sousa;R. Alves;J. M.F. Rodrigues",
     "affiliations":"Universidade do Algarve",
     "title":"Augmented reality system to assist inexperienced pool players",
     "keywords":[
@@ -161,7 +161,7 @@
     "key":"FCZ1EYC3",
     "publication_name":"Annals of Applied Statistics",
     "year":2015,
-    "author_names":"Alexander Franks;Andrew Miller;Luke Bornn;Kirk Goldsberry",
+    "authors":"Alexander Franks;Andrew Miller;Luke Bornn;Kirk Goldsberry",
     "affiliations":"Harvard University",
     "title":"Characterizing the spatial structure of defensive skill in professional basketball",
     "keywords":[
@@ -178,7 +178,7 @@
     "key":"4WUGLDGY",
     "publication_name":"UbiComp 2013 - Proceedings of the 2013 ACM International Joint Conference on Pervasive and Ubiquitous Computing",
     "year":2013,
-    "author_names":"Alan Chatham;Florian Floyd Mueller",
+    "authors":"Alan Chatham;Florian Floyd Mueller",
     "affiliations":"RMIT University",
     "title":"Adding an interactive display to a public basketball hoop can motivate players and foster community",
     "keywords":[
@@ -195,7 +195,7 @@
     "key":"BCD80P8P",
     "publication_name":"IEEE Transactions on Multimedia",
     "year":2016,
-    "author_names":"Wei Chen;Tianyi Lao;Jing Xia;Xinxin Huang;Biao Zhu;Wanqi Hu;Huihua Guan",
+    "authors":"Wei Chen;Tianyi Lao;Jing Xia;Xinxin Huang;Biao Zhu;Wanqi Hu;Huihua Guan",
     "affiliations":"State Key Lab of CAD&amp;CG, Zhejiang University",
     "title":"GameFlow: Narrative Visualization of NBA Basketball Games",
     "keywords":[
@@ -212,7 +212,7 @@
     "key":"L869UGP2",
     "publication_name":"Transportation Research Part C: Emerging Technologies",
     "year":2014,
-    "author_names":"Roger Beecham;Jo Wood",
+    "authors":"Roger Beecham;Jo Wood",
     "affiliations":"City, University of London",
     "title":"Characterising group-cycling journeys using interactive graphics",
     "keywords":[
@@ -228,7 +228,7 @@
     "key":"5U90ZMEC",
     "publication_name":"TEI 2014 - 8th International Conference on Tangible, Embedded and Embodied Interaction, Proceedings",
     "year":2014,
-    "author_names":"Wouter Walmink;Danielle Wilde;Florian Floyd Mueller",
+    "authors":"Wouter Walmink;Danielle Wilde;Florian Floyd Mueller",
     "affiliations":"RMIT University",
     "title":"Displaying heart rate data on a bicycle helmet to support social exertion experiences",
     "keywords":[
@@ -248,7 +248,7 @@
     "key":"HEF0RQND",
     "publication_name":"Conference on Human Factors in Computing Systems - Proceedings",
     "year":2012,
-    "author_names":"Anthony Tang;Sebastian Boring",
+    "authors":"Anthony Tang;Sebastian Boring",
     "affiliations":"University of Calgary",
     "title":"EpicPlay: Crowd-sourcing sports video highlights",
     "keywords":[
@@ -268,7 +268,7 @@
     "key":"O9WKDWIO",
     "publication_name":"Multimedia Systems",
     "year":2016,
-    "author_names":"Chun Chieh Hsu;Hua Tsung Chen;Chien Li Chou;Suh Yin Lee",
+    "authors":"Chun Chieh Hsu;Hua Tsung Chen;Chien Li Chou;Suh Yin Lee",
     "affiliations":"National Chiao Tung University Taiwan",
     "title":"2D Histogram-based player localization in broadcast volleyball videos",
     "keywords":[
@@ -287,7 +287,7 @@
     "key":"WS94UAMD",
     "publication_name":"Proceedings of the IEEE International Conference on Computer Vision",
     "year":2016,
-    "author_names":"Fabricio Batista Narcizo;Dan Witzner Hansen",
+    "authors":"Fabricio Batista Narcizo;Dan Witzner Hansen",
     "affiliations":"IT-Universitetet i København",
     "title":"Depth Compensation Model for Gaze Estimation in Sport Analysis",
     "keywords":[
@@ -307,7 +307,7 @@
     "key":"G6Z8KF9Z",
     "publication_name":"IEEE Transactions on Visualization and Computer Graphics",
     "year":2012,
-    "author_names":"Brian Bowman;Niklas Elmqvist;T. J. Jankun-Kelly",
+    "authors":"Brian Bowman;Niklas Elmqvist;T. J. Jankun-Kelly",
     "affiliations":"Purdue University;Bagley College of Engineering",
     "title":"Toward visualization for games: Theory, design space, and patterns",
     "keywords":[
@@ -326,7 +326,7 @@
     "key":"SK53KNN3",
     "publication_name":"IEEE Computer Graphics and Applications",
     "year":2016,
-    "author_names":"Antonio G. Losada;Roberto Theron;Alejandro Benito",
+    "authors":"Antonio G. Losada;Roberto Theron;Alejandro Benito",
     "affiliations":"Universidad de Salamanca",
     "title":"BKViz: A basketball visual analysis tool",
     "keywords":[
@@ -344,7 +344,7 @@
     "key":"QJ1V6DWZ",
     "publication_name":"IEEE Computer Graphics and Applications",
     "year":2016,
-    "author_names":"Marcos Lage;Jorge Piazentin Ono;Daniel Cervone;Justin Chiang;Carlos Dietrich;Claudio T. Silva",
+    "authors":"Marcos Lage;Jorge Piazentin Ono;Daniel Cervone;Justin Chiang;Carlos Dietrich;Claudio T. Silva",
     "affiliations":"New York University;Universidade Federal Fluminense;Collegiate School",
     "title":"StatCast Dashboard: Exploration of Spatiotemporal Baseball Data",
     "keywords":[
@@ -364,7 +364,7 @@
     "key":"2MXR93NG",
     "publication_name":"IEEE Computer Graphics and Applications",
     "year":2016,
-    "author_names":"Romain Vuillemot;Charles Perin",
+    "authors":"Romain Vuillemot;Charles Perin",
     "affiliations":"Université de Lyon;University of Calgary",
     "title":"Sports Tournament Predictions Using Direct Manipulation",
     "keywords":[
@@ -384,7 +384,7 @@
     "key":"E542M668",
     "publication_name":"IEEE Computer Graphics and Applications",
     "year":2016,
-    "author_names":"Charles Perin;Jeremy Boy;Frederic Vernier",
+    "authors":"Charles Perin;Jeremy Boy;Frederic Vernier",
     "affiliations":"Universite Paris-Saclay;United Nations;University of Calgary",
     "title":"Using Gap Charts to Visualize the Temporal Evolution of Ranks and Scores",
     "keywords":[
@@ -408,7 +408,7 @@
     "key":"TRL1RM4P",
     "publication_name":"IEEE Computer Graphics and Applications",
     "year":2016,
-    "author_names":"David H.S. Chung;Matthew L. Parry;Iwan W. Griffiths;Robert S. Laramee;Rhodri Bown;Philip A. Legg;Min Chen",
+    "authors":"David H.S. Chung;Matthew L. Parry;Iwan W. Griffiths;Robert S. Laramee;Rhodri Bown;Philip A. Legg;Min Chen",
     "affiliations":"Welsh Rugby Union Limited;University of Oxford;University of the West of England;Prifysgol Abertawe;SportsViz;A-STEM Research Centre",
     "title":"Knowledge-Assisted Ranking: A Visual Analytic Application for Sports Event Data",
     "keywords":[
@@ -426,7 +426,7 @@
     "key":"PX3TL652",
     "publication_name":"IEEE Computer Graphics and Applications",
     "year":2016,
-    "author_names":"Rahul C. Basole;Dietmar Saupe",
+    "authors":"Rahul C. Basole;Dietmar Saupe",
     "affiliations":"Universität Konstanz;Georgia Institute of Technology",
     "title":"Sports Data Visualization [Guest editors' introduction]",
     "keywords":[
@@ -443,7 +443,7 @@
     "key":null,
     "publication_name":"IEEE Computer Graphics and Applications",
     "year":2016,
-    "author_names":"Manuel Stein;Halldór Janetzko;Thorsten Breitkreutz;Daniel Seebacher;Tobias Schreck;Michael Grossniklaus;Iain D. Couzin;Daniel A. Keim ",
+    "authors":"Manuel Stein;Halldór Janetzko;Thorsten Breitkreutz;Daniel Seebacher;Tobias Schreck;Michael Grossniklaus;Iain D. Couzin;Daniel A. Keim ",
     "affiliations":null,
     "title":"Director’s Cut: Analysis and Annotation of Soccer Matches",
     "keywords":[
@@ -460,7 +460,7 @@
     "key":"RE6VK92E",
     "publication_name":"CIVR 2009 - Proceedings of the ACM International Conference on Image and Video Retrieval",
     "year":2009,
-    "author_names":"Alexandre Hervieu;Patrick Bouthemy;Jean Pierre Le Cadre",
+    "authors":"Alexandre Hervieu;Patrick Bouthemy;Jean Pierre Le Cadre",
     "affiliations":"Institut de Recherche en Informatique et Systèmes Aléatoires;INRIA Institut National de Recherche en Informatique et en Automatique",
     "title":"Trajectory-based handball video understanding",
     "keywords":[
@@ -478,7 +478,7 @@
     "key":"O5W9YFOY",
     "publication_name":"American Journal of Bioethics",
     "year":2017,
-    "author_names":"Katrina Karkazis;Jennifer R. Fishman",
+    "authors":"Katrina Karkazis;Jennifer R. Fishman",
     "affiliations":"Stanford University;McGill University",
     "title":"Tracking U.S. Professional Athletes: The Ethics of Biometric Technologies",
     "keywords":[
@@ -496,7 +496,7 @@
     "key":"X2L8R6ZZ",
     "publication_name":"International Journal of Performance Analysis in Sport",
     "year":2016,
-    "author_names":"Jan Carboch;Katerina Vejvodova;Vladimir Suss",
+    "authors":"Jan Carboch;Katerina Vejvodova;Vladimir Suss",
     "affiliations":"Charles University",
     "title":"Analysis of errors made by line umpires on ATP tournaments",
     "keywords":[
@@ -514,7 +514,7 @@
     "key":"08MHSLQT",
     "publication_name":"Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
     "year":2007,
-    "author_names":"Mitchell Page;Andrew Vande Moere",
+    "authors":"Mitchell Page;Andrew Vande Moere",
     "affiliations":"The University of Sydney",
     "title":"Evaluating a wearable display jersey for augmenting team sports awareness",
     "keywords":[
@@ -531,7 +531,7 @@
     "key":"8F7NOON0",
     "publication_name":"UbiComp'11 - Proceedings of the 2011 ACM Conference on Ubiquitous Computing",
     "year":2011,
-    "author_names":"Ian Li;Anind K. Dey;Jodi Forlizzi",
+    "authors":"Ian Li;Anind K. Dey;Jodi Forlizzi",
     "affiliations":"Carnegie Mellon University",
     "title":"Understanding my data, myself: Supporting self-reflection with ubicomp technologies",
     "keywords":[
@@ -550,7 +550,7 @@
     "key":"GZQHGWSM",
     "publication_name":"IEEE Transactions on Knowledge and Data Engineering",
     "year":2016,
-    "author_names":"Xinyu Wei;Patrick Lucey;Stuart Morgan;Sridha Sridharan",
+    "authors":"Xinyu Wei;Patrick Lucey;Stuart Morgan;Sridha Sridharan",
     "affiliations":"The Walt Disney Company;Queensland University of Technology QUT;Australian Institute of Sports",
     "title":"Forecasting the Next Shot Location in Tennis Using Fine-Grained Spatiotemporal Tracking Data",
     "keywords":[
@@ -568,7 +568,7 @@
     "key":"NJ076DGK",
     "publication_name":"Online Information Review",
     "year":2016,
-    "author_names":"Orland Hoeber;Larena Hoeber;Maha El Meseery;Kenneth Odoh;Radhika Gopi",
+    "authors":"Orland Hoeber;Larena Hoeber;Maha El Meseery;Kenneth Odoh;Radhika Gopi",
     "affiliations":"University of Regina",
     "title":"Visual Twitter Analytics (Vista): Temporally changing sentiment and the discovery of emergent themes within sport event tweets",
     "keywords":[
@@ -585,7 +585,7 @@
     "key":"YBFE7WLN",
     "publication_name":"ACM International Conference Proceeding Series",
     "year":2009,
-    "author_names":"Greg Smith;Desney Tan;Bongshin Lee",
+    "authors":"Greg Smith;Desney Tan;Bongshin Lee",
     "affiliations":"Microsoft Research",
     "title":"iSee: Interactive scenario explorer for online tournament games",
     "keywords":[
@@ -602,7 +602,7 @@
     "key":"4W8R4T1Y",
     "publication_name":"Proceedings of the Workshop on Advanced Visual Interfaces AVI",
     "year":2016,
-    "author_names":"Fadi Botros;Charles Perin;Bon Adriel Aseniero;Sheelagh Carpendale",
+    "authors":"Fadi Botros;Charles Perin;Bon Adriel Aseniero;Sheelagh Carpendale",
     "affiliations":"University of Calgary",
     "title":"Go and grow: Mapping personal data to a living plant",
     "keywords":[
@@ -619,7 +619,7 @@
     "key":"PLWNI7BD",
     "publication_name":"1st Workshop on Sports Data Visualization",
     "year":2013,
-    "author_names":"Krist Wongsuphasawat",
+    "authors":"Krist Wongsuphasawat",
     "affiliations":null,
     "title":"A Narrative Display for Sports Tournament Recap",
     "keywords":[
@@ -640,7 +640,7 @@
     "key":"1QEC4U8H",
     "publication_name":"Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
     "year":2014,
-    "author_names":"Michael Burch;Daniel Weiskopf",
+    "authors":"Michael Burch;Daniel Weiskopf",
     "affiliations":"Universität Stuttgart",
     "title":"Tennis plots: Game, set, and match",
     "keywords":[
@@ -656,7 +656,7 @@
     "key":"992PGSBO",
     "publication_name":"Conference on Human Factors in Computing Systems - Proceedings",
     "year":1994,
-    "author_names":"David Turo",
+    "authors":"David Turo",
     "affiliations":"University of Maryland",
     "title":"Hierarchical visualization with treemaps: Making sense of pro basketball data",
     "keywords":[
@@ -673,7 +673,7 @@
     "key":"TI28T9GD",
     "publication_name":"Data",
     "year":2017,
-    "author_names":"Manuel Stein;Halldór Janetzko;Daniel Seebacher;Alexander Jäger;Manuel Nagel;Jürgen Hölsch;Sven Kosub;Tobias Schreck;Daniel A. Keim;Michael Grossniklaus",
+    "authors":"Manuel Stein;Halldór Janetzko;Daniel Seebacher;Alexander Jäger;Manuel Nagel;Jürgen Hölsch;Sven Kosub;Tobias Schreck;Daniel A. Keim;Michael Grossniklaus",
     "affiliations":"Københavns Universitet;Universität Konstanz;Technische Universitat Graz;University of Zurich",
     "title":"How to make sense of team sport data: From acquisition to data modeling and research aspects",
     "keywords":[
@@ -689,7 +689,7 @@
     "key":"ZEAAXRYE",
     "publication_name":"Conference on Human Factors in Computing Systems - Proceedings",
     "year":2014,
-    "author_names":"Vidya Setlur;Jock D. Mackinlay",
+    "authors":"Vidya Setlur;Jock D. Mackinlay",
     "affiliations":"Tableau Software;Tableau Software",
     "title":"Automatic generation of semantic icon encodings for visualizations",
     "keywords":[
@@ -706,7 +706,7 @@
     "key":"PARWO7FF",
     "publication_name":"Proceedings of the 7th IASTED International Conference on Visualization, Imaging, and Image Processing, VIIP 2007",
     "year":2007,
-    "author_names":"A. Telea;P. De Hillerin;V. Valeanu",
+    "authors":"A. Telea;P. De Hillerin;V. Valeanu",
     "affiliations":"Technische Universiteit Eindhoven;Institute for Educational Sciences;National Institute for Research",
     "title":"Visualization of multivariate athlete performance data",
     "keywords":[
@@ -722,7 +722,7 @@
     "key":"EXYHYLWQ",
     "publication_name":"Conference on Human Factors in Computing Systems - Proceedings",
     "year":2009,
-    "author_names":"Anthony Tang;Saul Greenberg;Sidney Fels",
+    "authors":"Anthony Tang;Saul Greenberg;Sidney Fels",
     "affiliations":"The University of British Columbia;University of Calgary",
     "title":"Exploring video streams using slit-tear visualizations",
     "keywords":[
@@ -739,7 +739,7 @@
     "key":"PMX0YL8R",
     "publication_name":"1st Workshop on Sports Data Visualization",
     "year":2013,
-    "author_names":"Ricardo Cava;Carla Dal Sasso Freitas",
+    "authors":"Ricardo Cava;Carla Dal Sasso Freitas",
     "affiliations":null,
     "title":"Glyphs in Matrix Representation of Graphs for Displaying Soccer Games Results",
     "keywords":[
@@ -756,7 +756,7 @@
     "key":"R10G2PKS",
     "publication_name":"IEEE Transactions on Visualization and Computer Graphics",
     "year":2015,
-    "author_names":"Dandan Huang;Melanie Tory;Bon Adriel Aseniero;Lyn Bartram;Scott Bateman;Sheelagh Carpendale;Anthony Tang;Robert Woodbury",
+    "authors":"Dandan Huang;Melanie Tory;Bon Adriel Aseniero;Lyn Bartram;Scott Bateman;Sheelagh Carpendale;Anthony Tang;Robert Woodbury",
     "affiliations":"Simon Fraser University;University of Prince Edward Island;University of Victoria;University of Calgary",
     "title":"Personal visualization and personal visual analytics",
     "keywords":[
@@ -773,7 +773,7 @@
     "key":"MO3ZZLRY",
     "publication_name":"Journal of Sports Sciences",
     "year":2002,
-    "author_names":"Andrew Borrie;Gudberg K. Jonsson;Magnus S. Magnusson",
+    "authors":"Andrew Borrie;Gudberg K. Jonsson;Magnus S. Magnusson",
     "affiliations":"Liverpool John Moores University",
     "title":"Temporal pattern analysis and its applicability in sport: An explanation and exemplar data",
     "keywords":[
@@ -790,7 +790,7 @@
     "key":"HMT9PZD5",
     "publication_name":"Lecture Notes in Engineering and Computer Science",
     "year":2015,
-    "author_names":"Toshihiro Tani;Hung Hsuan Huang;Kyoji Kawagoe",
+    "authors":"Toshihiro Tani;Hung Hsuan Huang;Kyoji Kawagoe",
     "affiliations":"Ritsumeikan University",
     "title":"Sports play visualization system for American Football",
     "keywords":[
@@ -806,7 +806,7 @@
     "key":"RARNWQDM",
     "publication_name":"GIS: Proceedings of the ACM International Symposium on Advances in Geographic Information Systems",
     "year":2011,
-    "author_names":"Ho Chul Kim;Oje Kwon;Ki Joune Li",
+    "authors":"Ho Chul Kim;Oje Kwon;Ki Joune Li",
     "affiliations":"Pusan National University",
     "title":"Spatial and spatiotemporal analysis of soccer",
     "keywords":[
@@ -824,7 +824,7 @@
     "key":"QM6K2HPW",
     "publication_name":"1st Workshop on Sports Data Visualization",
     "year":2013,
-    "author_names":"Michael Stoll;Robert Krüger;Thomas Ertl;Andrés Bruhn",
+    "authors":"Michael Stoll;Robert Krüger;Thomas Ertl;Andrés Bruhn",
     "affiliations":null,
     "title":"Racecar Tracking and its Visualization Using Sparse Data",
     "keywords":[
@@ -841,7 +841,7 @@
     "key":null,
     "publication_name":"UbiComp 2006: Ubiquitous Computing",
     "year":2006,
-    "author_names":"James J. Lin;Lena Mamykin;Silvia Lindtner;Gregory Delajoux;Henry B. Strub",
+    "authors":"James J. Lin;Lena Mamykin;Silvia Lindtner;Gregory Delajoux;Henry B. Strub",
     "affiliations":null,
     "title":"Physical Activity Step Count Transtheoretical Model Daily Step Virtual Character ",
     "keywords":[
@@ -859,7 +859,7 @@
     "key":"237KJ44T",
     "publication_name":"Conference on Human Factors in Computing Systems - Proceedings",
     "year":2014,
-    "author_names":"Charles Perin;Romain Vuillemot;Jean Daniel Fekete",
+    "authors":"Charles Perin;Romain Vuillemot;Jean Daniel Fekete",
     "affiliations":"INRIA Institut National de Recherche en Informatique et en Automatique;Harvard University",
     "title":"À table! Improving temporal navigation in soccer ranking tables",
     "keywords":[
@@ -876,7 +876,7 @@
     "key":"K5B1Y2AH",
     "publication_name":"ISPRS International Journal of Geo-Information",
     "year":2015,
-    "author_names":"Manuel Stein;Johannes Häußler;Dominik Jäckle;Halldór Janetzko;Tobias Schreck;Daniel A. Keim",
+    "authors":"Manuel Stein;Johannes Häußler;Dominik Jäckle;Halldór Janetzko;Tobias Schreck;Daniel A. Keim",
     "affiliations":"Universität Konstanz;Technische Universitat Graz",
     "title":"Visual soccer analytics: Understanding the characteristics of collective team movement based on feature-driven analysis and abstraction",
     "keywords":[
@@ -892,7 +892,7 @@
     "key":"MM40P11Y",
     "publication_name":"Communications in Computer and Information Science",
     "year":2016,
-    "author_names":"Miohk Yoo;Kyoungju Park",
+    "authors":"Miohk Yoo;Kyoungju Park",
     "affiliations":"Chung-Ang University",
     "title":"Visual analysis of soccer match using player motion data",
     "keywords":[
@@ -908,7 +908,7 @@
     "key":"0MH5NDI6",
     "publication_name":"IEEE International Conference on Data Mining Workshops, ICDMW",
     "year":2015,
-    "author_names":"Alina Bialkowski;Patrick Lucey;Peter Carr;Yisong Yue;Sridha Sridharan;Iain Matthews",
+    "authors":"Alina Bialkowski;Patrick Lucey;Peter Carr;Yisong Yue;Sridha Sridharan;Iain Matthews",
     "affiliations":"The Walt Disney Company;California Institute of Technology;Queensland University of Technology QUT",
     "title":"Identifying team style in soccer using formations learned from spatiotemporal tracking data",
     "keywords":[
@@ -925,7 +925,7 @@
     "key":"B40RQIH6",
     "publication_name":"1st Workshop on Sports Data Visualization",
     "year":2013,
-    "author_names":"Charles Perin;Frédéric Vernier",
+    "authors":"Charles Perin;Frédéric Vernier",
     "affiliations":null,
     "title":"R2S2: a Hybrid Technique to Visualize Sport Ranking Evolution",
     "keywords":[
@@ -944,7 +944,7 @@
     "key":"DWNJNH1N",
     "publication_name":"1st Workshop on Sports Data Visualization",
     "year":2013,
-    "author_names":"Bo Moon;Richard Brath",
+    "authors":"Bo Moon;Richard Brath",
     "affiliations":null,
     "title":"Bloomberg Sports Visualization for Pitch Analysis",
     "keywords":[
@@ -961,7 +961,7 @@
     "key":"LOR98YLC",
     "publication_name":"1st Workshop on Sports Data Visualization",
     "year":2013,
-    "author_names":"Charles Perin;Romain Vuillemot;Jean-Daniel Fekete",
+    "authors":"Charles Perin;Romain Vuillemot;Jean-Daniel Fekete",
     "affiliations":null,
     "title":"Real-Time Crowdsourcing of Detailed Soccer Data",
     "keywords":[
@@ -976,7 +976,7 @@
     "key":"WC2ORNEG",
     "publication_name":"1st Workshop on Sports Data Visualization",
     "year":2013,
-    "author_names":"Fabian Beck;Michael Burch;Daniel Weiskopf",
+    "authors":"Fabian Beck;Michael Burch;Daniel Weiskopf",
     "affiliations":null,
     "title":"Visual Comparison of Time-Varying Athletes’ Performance",
     "keywords":[
@@ -993,7 +993,7 @@
     "key":"0AZAXZF5",
     "publication_name":"1st Workshop on Sports Data Visualization",
     "year":2013,
-    "author_names":"Orland Hoeber;Larena Hoeber;Laura Wood;Ryan Snelgrove;Isabella Hugel;Dayne Wagner",
+    "authors":"Orland Hoeber;Larena Hoeber;Laura Wood;Ryan Snelgrove;Isabella Hugel;Dayne Wagner",
     "affiliations":null,
     "title":"Visual Twitter Analytics: Exploring Fan and Organizer Sentiment During Le Tour de France",
     "keywords":[
@@ -1012,7 +1012,7 @@
     "key":"APN4YW8T",
     "publication_name":"1st Workshop on Sports Data Visualization",
     "year":2013,
-    "author_names":"Sean Gabriel Owens;T.J. Jankun-Kelly",
+    "authors":"Sean Gabriel Owens;T.J. Jankun-Kelly",
     "affiliations":null,
     "title":"Visualizations for Exploration of American Football Season and Play Data",
     "keywords":[
@@ -1030,7 +1030,7 @@
     "key":"DJTEDHMT",
     "publication_name":"1st Workshop on Sports Data Visualization",
     "year":2013,
-    "author_names":"Robert Sisneros;Mark Van Moer",
+    "authors":"Robert Sisneros;Mark Van Moer",
     "affiliations":null,
     "title":"Expanding Plus-Minus for Visual and Statistical Analysis of NBA Box-Score Data",
     "keywords":[

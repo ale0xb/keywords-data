@@ -3,7 +3,7 @@
     "key":"CB5BCTAP",
     "publication_name":"BMC Bioinformatics",
     "year":2014,
-    "author_names":"Günter Jäger;Alexander Peltzer;Kay Nieselt",
+    "authors":"Günter Jäger;Alexander Peltzer;Kay Nieselt",
     "affiliations":"Universität Tübingen",
     "title":"InPHAP: Interactive visualization of genotype and phased haplotype data",
     "keywords":[
@@ -20,7 +20,7 @@
     "key":"MYNC2HWJ",
     "publication_name":"BMC Bioinformatics",
     "year":2017,
-    "author_names":"Rensu P. Theart;Ben Loos;Thomas R. Niesler",
+    "authors":"Rensu P. Theart;Ben Loos;Thomas R. Niesler",
     "affiliations":"Stellenbosch University",
     "title":"Virtual reality assisted microscopy data visualization and colocalization analysis",
     "keywords":[
@@ -40,7 +40,7 @@
     "key":"XI6X6RE7",
     "publication_name":"BioVis 2013 - IEEE Symposium on Biological Data Visualization 2013, Proceedings",
     "year":2013,
-    "author_names":"Do Young Park;Desiree Jones;Nicanor I. Moldovan;Raghu Machiraju;Thierry Pécot",
+    "authors":"Do Young Park;Desiree Jones;Nicanor I. Moldovan;Raghu Machiraju;Thierry Pécot",
     "affiliations":"Dorothy M. Davis Heart and Lung Research Institute;The Ohio State University",
     "title":"Robust detection and visualization of cytoskeletal structures in fibrillar scaffolds from 3-dimensional confocal image",
     "keywords":[
@@ -61,7 +61,7 @@
     "key":"5LH2L2V4",
     "publication_name":"IEEE Symposium on Biological Data Visualization 2012, BioVis 2012 - Proceedings",
     "year":2012,
-    "author_names":"Paul Craig;Alan Cannon;Robert Kukla;Jessie Kennedy",
+    "authors":"Paul Craig;Alan Cannon;Robert Kukla;Jessie Kennedy",
     "affiliations":"Edinburgh Napier University;Universidad Technológica de la Mixteca",
     "title":"MaTSE: The microarray time-series explorer",
     "keywords":[
@@ -79,7 +79,7 @@
     "key":"46CMJKJ7",
     "publication_name":"BMC Bioinformatics",
     "year":2014,
-    "author_names":"Shawn M. Waldon;Peter M. Thompson;Patrick J. Hahn;Russell M. Taylor",
+    "authors":"Shawn M. Waldon;Peter M. Thompson;Patrick J. Hahn;Russell M. Taylor",
     "affiliations":"The University of North Carolina at Chapel Hill",
     "title":"SketchBio: A scientist's 3D interface for molecular modeling and animation",
     "keywords":[
@@ -95,7 +95,7 @@
     "key":"YXMHJTQM",
     "publication_name":"IEEE Symposium on Biological Data Visualization 2012, BioVis 2012 - Proceedings",
     "year":2012,
-    "author_names":"Sabrina A. Silveira;Artur O. Rodrigues;Raquel C. De Melo-Minardi;Carlos Henrique Da Silveira;Wagner Meira",
+    "authors":"Sabrina A. Silveira;Artur O. Rodrigues;Raquel C. De Melo-Minardi;Carlos Henrique Da Silveira;Wagner Meira",
     "affiliations":"Universidade Federal de Minas Gerais;Universidade Federal de Itajuba",
     "title":"ADVISe: Visualizing the dynamics of enzyme annotations in UniProt\/Swiss-Prot",
     "keywords":[
@@ -117,7 +117,7 @@
     "key":"DZTWQX5X",
     "publication_name":"BMC Bioinformatics",
     "year":2018,
-    "author_names":"Hani Z. Girgis;Alfredo Velasco;Zachary E. Reyes",
+    "authors":"Hani Z. Girgis;Alfredo Velasco;Zachary E. Reyes",
     "affiliations":"The University of Tulsa",
     "title":"HebbPlot: An intelligent tool for learning and visualizing chromatin mark signatures",
     "keywords":[
@@ -137,7 +137,7 @@
     "key":"3PIXQLRT",
     "publication_name":"BMC Bioinformatics",
     "year":2017,
-    "author_names":"Lan Huong Nguyen;Susan Holmes",
+    "authors":"Lan Huong Nguyen;Susan Holmes",
     "affiliations":"Stanford University",
     "title":"Bayesian unidimensional scaling for visualizing uncertainty in high dimensional datasets with latent ordering of observations",
     "keywords":[
@@ -157,7 +157,7 @@
     "key":"KRK9NWAW",
     "publication_name":"BMC Proceedings",
     "year":2015,
-    "author_names":"Tuan Nhon Dang;Paul Murray;Angus Graeme Forbes",
+    "authors":"Tuan Nhon Dang;Paul Murray;Angus Graeme Forbes",
     "affiliations":"University of Illinois at Chicago",
     "title":"PathwayMatrix: Visualizing binary relationships between proteins in biological pathways",
     "keywords":[
@@ -174,7 +174,7 @@
     "key":"G4B52AAU",
     "publication_name":"BioVis 2013 - IEEE Symposium on Biological Data Visualization 2013, Proceedings",
     "year":2013,
-    "author_names":"Orit Shaer;Consuelo Valdes;Sirui Liu;Kara Lu;Traci L. Haddock;Swapnil Bhatia;Douglas Densmore;Robert Kincaid",
+    "authors":"Orit Shaer;Consuelo Valdes;Sirui Liu;Kara Lu;Traci L. Haddock;Swapnil Bhatia;Douglas Densmore;Robert Kincaid",
     "affiliations":"Agilent Technologies;Boston University;Wellesley College",
     "title":"MoClo planner: Interactive visualization for Modular Cloning bio-design",
     "keywords":[
@@ -190,7 +190,7 @@
     "key":"GXR2HDG5",
     "publication_name":"IEEE Symposium on Biological Data Visualization 2012, BioVis 2012 - Proceedings",
     "year":2012,
-    "author_names":"Corinna Vehlow;Jan Hasenauer;Andrei Kramer;Julian Heinrich;Nicole Radde;Frank Allgöwer;Daniel Weiskopf",
+    "authors":"Corinna Vehlow;Jan Hasenauer;Andrei Kramer;Julian Heinrich;Nicole Radde;Frank Allgöwer;Daniel Weiskopf",
     "affiliations":"Universität Stuttgart",
     "title":"Uncertainty-aware visual analysis of biochemical reaction networks",
     "keywords":[
@@ -206,7 +206,7 @@
     "key":"EV6SYQPD",
     "publication_name":"BMC Bioinformatics",
     "year":2014,
-    "author_names":"Ivan Kolesar;Julius Parulek;Ivan Viola;Stefan Bruckner;Anne Kristin Stavrum;Helwig Hauser",
+    "authors":"Ivan Kolesar;Julius Parulek;Ivan Viola;Stefan Bruckner;Anne Kristin Stavrum;Helwig Hauser",
     "affiliations":"Universitetet i Bergen;Technische Universitat Wien",
     "title":"Interactively illustrating polymerization using three-level model fusion",
     "keywords":[
@@ -224,7 +224,7 @@
     "key":"D8RSW8MI",
     "publication_name":"IEEE Symposium on Biological Data Visualization 2011, BioVis 2011 - Proceedings",
     "year":2011,
-    "author_names":"Robert Patro;Cheuk Yiu Ip;Sujal Bista;D. Thirumalai;Samuel S. Cho;Amitabh Varshney",
+    "authors":"Robert Patro;Cheuk Yiu Ip;Sujal Bista;D. Thirumalai;Samuel S. Cho;Amitabh Varshney",
     "affiliations":"Wake Forest University;University of Maryland",
     "title":"MDMap: A system for data-driven layout and exploration of molecular dynamics simulations",
     "keywords":[
@@ -243,7 +243,7 @@
     "key":"TXTW9V5I",
     "publication_name":"BMC Bioinformatics",
     "year":2014,
-    "author_names":"William C. Ray;Samuel L. Wolock;Nicholas W. Callahan;Min Dong;Q. Quinn Li;Chun Liang;Thomas J. Magliery;Christopher W. Bartlett",
+    "authors":"William C. Ray;Samuel L. Wolock;Nicholas W. Callahan;Min Dong;Q. Quinn Li;Chun Liang;Thomas J. Magliery;Christopher W. Bartlett",
     "affiliations":"Miami University;The Ohio State University;Children's Hospital Columbus",
     "title":"Addressing the unmet need for visualizing conditional random fields in biological data",
     "keywords":[
@@ -260,7 +260,7 @@
     "key":"2CAIF9B5",
     "publication_name":"BMC Bioinformatics",
     "year":2017,
-    "author_names":"Katarína Furmanová;Miroslava Jarešová;Jan Byška;Adam Jurčík;Július Parulek;Helwig Hauser;Barbora Kozlíková",
+    "authors":"Katarína Furmanová;Miroslava Jarešová;Jan Byška;Adam Jurčík;Július Parulek;Helwig Hauser;Barbora Kozlíková",
     "affiliations":"Universitetet i Bergen;Masaryk University",
     "title":"Interactive exploration of ligand transportation through protein tunnels",
     "keywords":[
@@ -276,7 +276,7 @@
     "key":"HW8ABU2L",
     "publication_name":"BMC Bioinformatics",
     "year":2017,
-    "author_names":"Viktor Vad;Douglas Cedrim;Wolfgang Busch;Peter Filzmoser;Ivan Viola",
+    "authors":"Viktor Vad;Douglas Cedrim;Wolfgang Busch;Peter Filzmoser;Ivan Viola",
     "affiliations":"Technische Universitat Wien;Gregor Mendel Institute of Molecular Plant Biology;Universidade de Sao Paulo - USP",
     "title":"Generalized box-plot for root growth ensembles",
     "keywords":[
@@ -292,7 +292,7 @@
     "key":"82I28JJJ",
     "publication_name":"BMC Bioinformatics",
     "year":2015,
-    "author_names":"André Hennig;Jörg Bernhardt;Kay Nieselt",
+    "authors":"André Hennig;Jörg Bernhardt;Kay Nieselt",
     "affiliations":"Ernst-Moritz-Arndt-Universität Greifswald;Universität Tübingen",
     "title":"Pan-Tetris: An interactive visualisation for Pan-genomes",
     "keywords":[
@@ -310,7 +310,7 @@
     "key":"GI7DLXRE",
     "publication_name":"BMC Bioinformatics",
     "year":2017,
-    "author_names":"Sophie Engle;Sean Whalen;Alark Joshi;Katherine S. Pollard",
+    "authors":"Sophie Engle;Sean Whalen;Alark Joshi;Katherine S. Pollard",
     "affiliations":"University of San Francisco;The J. David Gladstone Institutes;University of California, San Francisco",
     "title":"Unboxing cluster heatmaps",
     "keywords":[
@@ -329,7 +329,7 @@
     "key":"FSEASSDN",
     "publication_name":"BMC Proceedings",
     "year":2015,
-    "author_names":"Tuan Nhon Dang;Paul Murray;Jillian Aurisano;Angus Graeme Forbes",
+    "authors":"Tuan Nhon Dang;Paul Murray;Jillian Aurisano;Angus Graeme Forbes",
     "affiliations":"University of Illinois at Chicago",
     "title":"ReactionFlow: An interactive visualization tool for causality analysis in biological pathways",
     "keywords":[
@@ -346,7 +346,7 @@
     "key":"N3Z3RFAV",
     "publication_name":"BMC Bioinformatics",
     "year":2017,
-    "author_names":"Paul Murray;Fintan McGee;Angus G. Forbes",
+    "authors":"Paul Murray;Fintan McGee;Angus G. Forbes",
     "affiliations":"Luxembourg Institute of Science and Technology;University of Illinois at Chicago",
     "title":"A taxonomy of visualization tasks for the analysis of biological pathway data",
     "keywords":[
@@ -362,7 +362,7 @@
     "key":"JV2D4QB9",
     "publication_name":"IEEE Symposium on Biological Data Visualization 2012, BioVis 2012 - Proceedings",
     "year":2012,
-    "author_names":"Christian Partl;Denis Kalkofen;Alexander Lex;Karl Kashofer;Marc Streit;Dieter Schmalstieg",
+    "authors":"Christian Partl;Denis Kalkofen;Alexander Lex;Karl Kashofer;Marc Streit;Dieter Schmalstieg",
     "affiliations":"Johannes Kepler University Linz;Technische Universitat Graz;Medizinische Universität Graz",
     "title":"enRoute: Dynamic path extraction from biological pathway maps for in-depth experimental data analysis",
     "keywords":[
@@ -381,7 +381,7 @@
     "key":"STPTBTYX",
     "publication_name":"BMC Bioinformatics",
     "year":2015,
-    "author_names":"A. J. Pretorius;Y. Zhou;R. A. Ruddle",
+    "authors":"A. J. Pretorius;Y. Zhou;R. A. Ruddle",
     "affiliations":"University of Central Lancashire;University of Leeds",
     "title":"Visual parameter optimisation for biomedical image processing",
     "keywords":[
@@ -402,7 +402,7 @@
     "key":"TA7F8ENG",
     "publication_name":"IEEE Symposium on Biological Data Visualization 2012, BioVis 2012 - Proceedings",
     "year":2012,
-    "author_names":"Adam Price;Robert Kosara;Cynthia Gibas",
+    "authors":"Adam Price;Robert Kosara;Cynthia Gibas",
     "affiliations":"The University of North Carolina at Charlotte",
     "title":"Gene-RiViT: A visualization tool for comparative analysis of gene neighborhoods in prokaryotes",
     "keywords":[
@@ -418,7 +418,7 @@
     "key":"8KUL2PJ2",
     "publication_name":"IEEE Symposium on Biological Data Visualization 2011, BioVis 2011 - Proceedings",
     "year":2011,
-    "author_names":"Adam M. Smith;Wen Xu;Yao Sun;James R. Faeder;G. Elisabeta Marai",
+    "authors":"Adam M. Smith;Wen Xu;Yao Sun;James R. Faeder;G. Elisabeta Marai",
     "affiliations":"University of Pittsburgh",
     "title":"RuleBender: Integrated visualization for biochemical rule-based modeling",
     "keywords":[
@@ -437,7 +437,7 @@
     "key":"M692XSAE",
     "publication_name":"BMC Bioinformatics",
     "year":2017,
-    "author_names":"Henry Heberle;Marcelo Falsarella Carazzolle;Guilherme P. Telles;Gabriela Vaz Meirelles;Rosane Minghim",
+    "authors":"Henry Heberle;Marcelo Falsarella Carazzolle;Guilherme P. Telles;Gabriela Vaz Meirelles;Rosane Minghim",
     "affiliations":"Laboratório Nacional de Biociências;Universidade Estadual de Campinas;Universidade de Sao Paulo - USP",
     "title":"CellNetVis: A web tool for visualization of biological networks using force-directed layout constrained by cellular components",
     "keywords":[
@@ -456,7 +456,7 @@
     "key":"LC4A9PLP",
     "publication_name":"BMC Bioinformatics",
     "year":2017,
-    "author_names":"Divya Tej Sowpati;Surabhi Srivastava;Jyotsna Dhawan;Rakesh K. Mishra",
+    "authors":"Divya Tej Sowpati;Surabhi Srivastava;Jyotsna Dhawan;Rakesh K. Mishra",
     "affiliations":"Centre for Cellular and Molecular Biology india",
     "title":"C-State: An interactive web app for simultaneous multi-gene visualization and comparative epigenetic pattern search",
     "keywords":[
@@ -477,7 +477,7 @@
     "key":"QBH2SYLK",
     "publication_name":"BMC Bioinformatics",
     "year":2015,
-    "author_names":"Sehi L'Yi;Bongkyung Ko;Dong Hwa Shin;Young Joon Cho;Jaeyong Lee;Bohyoung Kim;Jinwook Seo",
+    "authors":"Sehi L'Yi;Bongkyung Ko;Dong Hwa Shin;Young Joon Cho;Jaeyong Lee;Bohyoung Kim;Jinwook Seo",
     "affiliations":"Seoul National University Bundang Hospital;Seoul National University",
     "title":"XCluSim: A visual analytics tool for interactively comparing multiple clustering results of bioinformatics data",
     "keywords":[
@@ -494,7 +494,7 @@
     "key":"JCJMJFJL",
     "publication_name":"BioVis 2013 - IEEE Symposium on Biological Data Visualization 2013, Proceedings",
     "year":2013,
-    "author_names":"Roy A. Ruddle;Waleed Fateen;Darren Treanor;Peter Sondergeld;Phil Ouirke",
+    "authors":"Roy A. Ruddle;Waleed Fateen;Darren Treanor;Peter Sondergeld;Phil Ouirke",
     "affiliations":"University of Leeds, School of Medicine;St James's University Hospital;University of Leeds",
     "title":"Leveraging wall-sized high-resolution displays for comparative genomics analyses of copy number variation",
     "keywords":[
@@ -512,7 +512,7 @@
     "key":"EDRLPKJZ",
     "publication_name":"BMC Bioinformatics",
     "year":2015,
-    "author_names":"Jillian Aurisano;Khairi Reda;Andrew Johnson;Elisabeta G. Marai;Jason Leigh",
+    "authors":"Jillian Aurisano;Khairi Reda;Andrew Johnson;Elisabeta G. Marai;Jason Leigh",
     "affiliations":"Argonne National Laboratory;University of Illinois at Chicago;University of Hawaiʻi at Mānoa",
     "title":"BactoGeNIE: A large-scale comparative genome visualization for big displays",
     "keywords":[
@@ -528,7 +528,7 @@
     "key":"9MNP6NBM",
     "publication_name":"BMC Bioinformatics",
     "year":2017,
-    "author_names":"Alexandre V. Fassio;Pedro M. Martins;Samuel da S. Guimarães;Sócrates S.A. Junior;Vagner S. Ribeiro;Raquel C. de Melo-Minardi;Sabrina de A. Silveira",
+    "authors":"Alexandre V. Fassio;Pedro M. Martins;Samuel da S. Guimarães;Sócrates S.A. Junior;Vagner S. Ribeiro;Raquel C. de Melo-Minardi;Sabrina de A. Silveira",
     "affiliations":"Universidade Federal de Minas Gerais;Universidade Federal de Vicosa",
     "title":"Vermont: A multi-perspective visual interactive platform for mutational analysis",
     "keywords":[
@@ -546,7 +546,7 @@
     "key":"MTJFZKBA",
     "publication_name":"BMC Bioinformatics",
     "year":2014,
-    "author_names":"Hao Ding;Chao Wang;Kun Huang;Raghu Machiraju",
+    "authors":"Hao Ding;Chao Wang;Kun Huang;Raghu Machiraju",
     "affiliations":"The Ohio State University;Electrical and Computer Engineering",
     "title":"IGPSe: A visual analytic system for integrative genomic based cancer patient stratification",
     "keywords":[
@@ -562,7 +562,7 @@
     "key":"9QG34P3M",
     "publication_name":"BioVis 2013 - IEEE Symposium on Biological Data Visualization 2013, Proceedings",
     "year":2013,
-    "author_names":"Christian Nowke;Maximilian Schmidt;Sacha J. Van Albada;Jochen M. Eppler;Rembrandt Bakker;Markus Diesrnann;Bernd Hentschel;Torsten Kuhlen",
+    "authors":"Christian Nowke;Maximilian Schmidt;Sacha J. Van Albada;Jochen M. Eppler;Rembrandt Bakker;Markus Diesrnann;Bernd Hentschel;Torsten Kuhlen",
     "affiliations":"Rheinisch-Westfälische Technische Hochschule Aachen;Jülich Research Center",
     "title":"VisNEST - Interactive analysis of neural activity data",
     "keywords":[
@@ -578,7 +578,7 @@
     "key":"RXWBNRSY",
     "publication_name":"BMC Bioinformatics",
     "year":2015,
-    "author_names":"Christian Stolte;Kenneth S. Sabir;Julian Heinrich;Christopher J. Hammang;Andrea Schafferhans;Seán I. O'Donoghue",
+    "authors":"Christian Stolte;Kenneth S. Sabir;Julian Heinrich;Christopher J. Hammang;Andrea Schafferhans;Seán I. O'Donoghue",
     "affiliations":"Commonwealth Scientific and Industrial Research Organization;The University of Sydney;Technical University of Munich;Garvan Institute of Medical Research",
     "title":"Integrated visual analysis of protein structures, sequences, and feature data",
     "keywords":[
@@ -594,7 +594,7 @@
     "key":"KEGTJELR",
     "publication_name":"BMC Bioinformatics",
     "year":2014,
-    "author_names":"Justin Feigelman;Fabian J. Theis;Carsten Marr",
+    "authors":"Justin Feigelman;Fabian J. Theis;Carsten Marr",
     "affiliations":"Helmholtz Center Munich German Research Center for Environmental Health;Technical University of Munich",
     "title":"MCA: Multiresolution Correlation Analysis, a graphical tool for subpopulation identification in single-cell gene expression data",
     "keywords":[
@@ -611,7 +611,7 @@
     "key":"6H8PE2P4",
     "publication_name":"IEEE Symposium on Biological Data Visualization 2012, BioVis 2012 - Proceedings",
     "year":2012,
-    "author_names":"Juan B. Hernando;Felix Schürmann;Luis Pastor",
+    "authors":"Juan B. Hernando;Felix Schürmann;Luis Pastor",
     "affiliations":"Universidad Politécnica de Madrid;Ecole Polytechnique Fédérale de Lausanne;Universidad Rey Juan Carlos",
     "title":"Towards real-time visualization of detailed neural tissue models: View frustum culling for parallel rendering",
     "keywords":[
@@ -626,7 +626,7 @@
     "key":"JIDPIKAR",
     "publication_name":"BioVis 2019 - IEEE Symposium on Biological Data Visualization 2019",
     "year":2019,
-    "author_names":"Bharadwaj, Aditya;Gwizdala, David;Kim, Yoonjin;Luther, Kurt;Murali, T. M.",
+    "authors":"Bharadwaj, Aditya;Gwizdala, David;Kim, Yoonjin;Luther, Kurt;Murali, T. M.",
     "affiliations":null,
     "title":"Flud: a hybrid crowd-algorithm approach for visualizing biological networks",
     "keywords":[
@@ -640,7 +640,7 @@
     "key":"HVPMQQ2Q",
     "publication_name":"BMC Bioinformatics",
     "year":2014,
-    "author_names":"Kasper Dinkla;Mohammed El-Kebir;Cristina Iulia Bucur;Marco Siderius;Martine J. Smit;Michel A. Westenberg;Gunnar W. Klau",
+    "authors":"Kasper Dinkla;Mohammed El-Kebir;Cristina Iulia Bucur;Marco Siderius;Martine J. Smit;Michel A. Westenberg;Gunnar W. Klau",
     "affiliations":"Technische Universiteit Eindhoven;Centrum Wiskunde &amp; Informatica;Vrije Universiteit Amsterdam",
     "title":"EXamine: Exploring annotated modules in networks",
     "keywords":[
@@ -658,7 +658,7 @@
     "key":"7SM5GW52",
     "publication_name":"BioVis 2013 - IEEE Symposium on Biological Data Visualization 2013, Proceedings",
     "year":2013,
-    "author_names":"Jessie Kennedy;Martin Graham;Trevor Paterson;Andy Law",
+    "authors":"Jessie Kennedy;Martin Graham;Trevor Paterson;Andy Law",
     "affiliations":"University of Edinburgh, Roslin Institute;Edinburgh Napier University",
     "title":"Visual cleaning of genotype data",
     "keywords":[
@@ -675,7 +675,7 @@
     "key":"H8DEKMRK",
     "publication_name":"BioVis 2013 - IEEE Symposium on Biological Data Visualization 2013, Proceedings",
     "year":2013,
-    "author_names":"Keqin Wu;Jian Chen;William A. Pruett;Robert L. Hester",
+    "authors":"Keqin Wu;Jian Chen;William A. Pruett;Robert L. Hester",
     "affiliations":"University of Maryland, Baltimore County;University of Mississippi Medical Center",
     "title":"Hummod browser: An exploratory visualization tool for the analysis of whole-body physiology simulation data",
     "keywords":[
@@ -692,7 +692,7 @@
     "key":"XX873GXI",
     "publication_name":"IEEE Symposium on Biological Data Visualization 2011, BioVis 2011 - Proceedings",
     "year":2011,
-    "author_names":"Yanling Liu;Curtis Lisle;Jack Collins",
+    "authors":"Yanling Liu;Curtis Lisle;Jack Collins",
     "affiliations":"SAIC-Frederick;KnowledgeVis, LLC",
     "title":"Quick2Insight: A user-friendly framework for interactive rendering of biological image volumes",
     "keywords":[
@@ -708,7 +708,7 @@
     "key":"UZ9ZDJ3K",
     "publication_name":"BMC Bioinformatics",
     "year":2015,
-    "author_names":"Florin Chelaru;Héctor Corrada Bravo",
+    "authors":"Florin Chelaru;Héctor Corrada Bravo",
     "affiliations":"University of Maryland",
     "title":"Epiviz: A view inside the design of an integrated visual analysis software for genomics",
     "keywords":[
@@ -724,7 +724,7 @@
     "key":"FEMN7K25",
     "publication_name":"IEEE Symposium on Biological Data Visualization 2011, BioVis 2011 - Proceedings",
     "year":2011,
-    "author_names":"Mathias Goldau;Alexander Wiebel;Nico Stephan Gorbach;Corina Melzer;Mario Hlawitschka;Gerik Scheuermann;Marc Tittgemeyer",
+    "authors":"Mathias Goldau;Alexander Wiebel;Nico Stephan Gorbach;Corina Melzer;Mario Hlawitschka;Gerik Scheuermann;Marc Tittgemeyer",
     "affiliations":"Zuse Institute Berlin;Max Planck Institute for Metabolism Research;Universität Leipzig",
     "title":"Fiber stippling: An illustrative rendering for probabilistic diffusion tractography",
     "keywords":[
@@ -742,7 +742,7 @@
     "key":"JKI9IG3G",
     "publication_name":"BMC Proceedings",
     "year":2015,
-    "author_names":"Francesco Paduano;Angus Graeme Forbes",
+    "authors":"Francesco Paduano;Angus Graeme Forbes",
     "affiliations":"University of Illinois at Chicago",
     "title":"Extended LineSets: A visualization technique for the interactive inspection of biological pathways",
     "keywords":[
@@ -760,7 +760,7 @@
     "key":"FJCTDGG6",
     "publication_name":"IEEE Symposium on Biological Data Visualization 2011, BioVis 2011 - Proceedings",
     "year":2011,
-    "author_names":"Ross E. Curtis;Peter Kinnaird;Eric P. Xing",
+    "authors":"Ross E. Curtis;Peter Kinnaird;Eric P. Xing",
     "affiliations":"Carnegie Mellon University",
     "title":"GenAMap: Visualization strategies for structured association mapping",
     "keywords":[
@@ -777,7 +777,7 @@
     "key":"CLV54H2Y",
     "publication_name":"IEEE Symposium on Biological Data Visualization 2011, BioVis 2011 - Proceedings",
     "year":2011,
-    "author_names":"Trevor Paterson;Martin Graham;Jessie Kennedy;Andy Law",
+    "authors":"Trevor Paterson;Martin Graham;Jessie Kennedy;Andy Law",
     "affiliations":"University of Edinburgh, Roslin Institute;Edinburgh Napier University",
     "title":"Evaluating the VIPER pedigree visualisation: Detecting inheritance inconsistencies in genotyped pedigrees",
     "keywords":[
@@ -794,7 +794,7 @@
     "key":"AGWTWQIN",
     "publication_name":"IEEE Symposium on Biological Data Visualization 2011, BioVis 2011 - Proceedings",
     "year":2011,
-    "author_names":"Günter Jäger;Florian Battke;Kay Nieselt",
+    "authors":"Günter Jäger;Florian Battke;Kay Nieselt",
     "affiliations":"Universität Tübingen",
     "title":"TIALA Time series alignment analysis",
     "keywords":[
@@ -811,7 +811,7 @@
     "key":"J9AP7YGU",
     "publication_name":"BMC Proceedings",
     "year":2015,
-    "author_names":"Daekyoung Jung;Bohyoung Kim;Robert J. Freishtat;Mamta Giri;Eric Hoffman;Jinwook Seo",
+    "authors":"Daekyoung Jung;Bohyoung Kim;Robert J. Freishtat;Mamta Giri;Eric Hoffman;Jinwook Seo",
     "affiliations":"Seoul National University Bundang Hospital;Seoul National University;Childrens National Health System;The George Washington University",
     "title":"MiRTarVis: An interactive visual analysis tool for microRNA-mRNA expression profile data",
     "keywords":[
@@ -829,7 +829,7 @@
     "key":"MKH77PFJ",
     "publication_name":"BMC Bioinformatics",
     "year":2017,
-    "author_names":"Chihua Ma;Timothy Luciani;Anna Terebus;Jie Liang;G. Elisabeta Marai",
+    "authors":"Chihua Ma;Timothy Luciani;Anna Terebus;Jie Liang;G. Elisabeta Marai",
     "affiliations":"University of Illinois at Chicago",
     "title":"PRODIGEN: Visualizing the probability landscape of stochastic gene regulatory networks in state and time space",
     "keywords":[
@@ -846,7 +846,7 @@
     "key":"IFG5LCMC",
     "publication_name":"BMC Bioinformatics",
     "year":2017,
-    "author_names":"Marwan Abdellah;Ahmet Bilgili;Stefan Eilemann;Julian Shillcock;Henry Markram;Felix Schürmann",
+    "authors":"Marwan Abdellah;Ahmet Bilgili;Stefan Eilemann;Julian Shillcock;Henry Markram;Felix Schürmann",
     "affiliations":"Ecole Polytechnique Fédérale de Lausanne",
     "title":"Bio-physically plausible visualization of highly scattering fluorescent neocortical models for in silico experimentation",
     "keywords":[
@@ -864,7 +864,7 @@
     "key":"ILIHFVMK",
     "publication_name":"BMC Bioinformatics",
     "year":2015,
-    "author_names":"Marwan Abdellah;Ahmet Bilgili;Stefan Eilemann;Henry Markram;Felix Schürmann",
+    "authors":"Marwan Abdellah;Ahmet Bilgili;Stefan Eilemann;Henry Markram;Felix Schürmann",
     "affiliations":"Ecole Polytechnique Fédérale de Lausanne",
     "title":"Physically-based in silico light sheet microscopy for visualizing fluorescent brain models",
     "keywords":[
@@ -882,7 +882,7 @@
     "key":"YXM5SYEN",
     "publication_name":"IEEE Symposium on Biological Data Visualization 2011, BioVis 2011 - Proceedings",
     "year":2011,
-    "author_names":"Jeremy Goecks;Kanwei Li;Dave Clements;James Taylor",
+    "authors":"Jeremy Goecks;Kanwei Li;Dave Clements;James Taylor",
     "affiliations":"Emory University",
     "title":"The Galaxy Track Browser: Transforming the genome browser from visualization tool to analysis tool",
     "keywords":[
@@ -899,7 +899,7 @@
     "key":"XSKUNT3R",
     "publication_name":"IEEE Symposium on Biological Data Visualization 2011, BioVis 2011 - Proceedings",
     "year":2011,
-    "author_names":"Philip Livengood;Ross MacIejewski;Wei Chen;David S. Ebert",
+    "authors":"Philip Livengood;Ross MacIejewski;Wei Chen;David S. Ebert",
     "affiliations":"Purdue University;Zhejiang University;Arizona State University",
     "title":"A visual analysis system for metabolomics data",
     "keywords":[
@@ -916,7 +916,7 @@
     "key":"0ZYW1NED",
     "publication_name":"BioVis 2014 - IEEE Symposium on Biological Data Visualization 2014",
     "year":2014,
-    "author_names":"Taylor, Andy; McLeod, Kenneth; Armit, Chris; Baldock, Richard; Burger, Albert",
+    "authors":"Taylor, Andy; McLeod, Kenneth; Armit, Chris; Baldock, Richard; Burger, Albert",
     "affiliations":null,
     "title":"Visualization of gene expression information within the context of the mouse anatomy",
     "keywords":[
@@ -933,7 +933,7 @@
     "key":"CM3YZIWX",
     "publication_name":"IEEE Symposium on Biological Data Visualization 2011, BioVis 2011 - Proceedings",
     "year":2011,
-    "author_names":"Corinna Vehlow;Julian Heinrich;Florian Battke;Daniel Weiskopf;Kay Nieselt",
+    "authors":"Corinna Vehlow;Julian Heinrich;Florian Battke;Daniel Weiskopf;Kay Nieselt",
     "affiliations":"Universität Tübingen;Universität Stuttgart",
     "title":"IHAT: Interactive hierarchical aggregation table",
     "keywords":[
@@ -949,7 +949,7 @@
     "key":"WN8KM2MI",
     "publication_name":"IEEE Symposium on Biological Data Visualization 2011, BioVis 2011 - Proceedings",
     "year":2011,
-    "author_names":"Corinna Vehlow;Bernhard Preim;Michael Lappe",
+    "authors":"Corinna Vehlow;Bernhard Preim;Michael Lappe",
     "affiliations":"Max Planck Institute for Molecular Genetics;Otto von Guericke University of Magdeburg;Universität Stuttgart",
     "title":"Visualization of anisotropic contact potentials within protein structures",
     "keywords":[
@@ -965,7 +965,7 @@
     "key":"UNFG9UCL",
     "publication_name":"BioVis 2013 - IEEE Symposium on Biological Data Visualization 2013, Proceedings",
     "year":2013,
-    "author_names":"Kenneth Sabir;Christian Stolte;Bruce Tabor;Seán I. O'Donoghue",
+    "authors":"Kenneth Sabir;Christian Stolte;Bruce Tabor;Seán I. O'Donoghue",
     "affiliations":"Garvan Institute of Medical Research;CSIRO Computational Informatics",
     "title":"The molecular control toolkit: Controlling 3D molecular graphics via gesture and voice",
     "keywords":[
@@ -984,7 +984,7 @@
     "key":"TKYZM564",
     "publication_name":"BMC Bioinformatics",
     "year":2015,
-    "author_names":"Hao Ding;Chao Wang;Kun Huang;Raghu Machiraju",
+    "authors":"Hao Ding;Chao Wang;Kun Huang;Raghu Machiraju",
     "affiliations":"The Ohio State University",
     "title":"GRAPHIE: Graph based histology image explorer",
     "keywords":[
@@ -1001,7 +1001,7 @@
     "key":"ZBCBRYJN",
     "publication_name":"BMC Bioinformatics",
     "year":2017,
-    "author_names":"Marwan Abdellah;Juan Hernando;Nicolas Antille;Stefan Eilemann;Henry Markram;Felix Schürmann",
+    "authors":"Marwan Abdellah;Juan Hernando;Nicolas Antille;Stefan Eilemann;Henry Markram;Felix Schürmann",
     "affiliations":"Ecole Polytechnique Fédérale de Lausanne",
     "title":"Reconstruction and visualization of large-scale volumetric models of neocortical circuits for physically-plausible in silico optical studies",
     "keywords":[
@@ -1018,7 +1018,7 @@
     "key":"PSJAUBAD",
     "publication_name":"BioVis 2019 - IEEE Symposium on Biological Data Visualization 2019",
     "year":2019,
-    "author_names":"Meili Vanegas-Hernandez;Fabio Andres Lopez-Corredor;Tiberio Hernandez;Alejandro Reyes;John Alexis Guerra-Gomez",
+    "authors":"Meili Vanegas-Hernandez;Fabio Andres Lopez-Corredor;Tiberio Hernandez;Alejandro Reyes;John Alexis Guerra-Gomez",
     "affiliations":null,
     "title":"BioCicle: A Tool for Summarizing and Comparing Taxonomic Profiles out of Biological Sequence Alignments",
     "keywords":[
@@ -1034,7 +1034,7 @@
     "key":"W6JM8HTX",
     "publication_name":"BMC Bioinformatics",
     "year":2017,
-    "author_names":"Chen He;Luana Micallef;Zia ur Rehman Tanoli;Samuel Kaski;Tero Aittokallio;Giulio Jacucci",
+    "authors":"Chen He;Luana Micallef;Zia ur Rehman Tanoli;Samuel Kaski;Tero Aittokallio;Giulio Jacucci",
     "affiliations":"Aalto University;Helsingin Yliopisto",
     "title":"MediSyn: Uncertainty-aware visualization of multiple biomedical datasets to support drug treatment selection",
     "keywords":[
@@ -1050,7 +1050,7 @@
     "key":"8E2H5B5M",
     "publication_name":"BMC Bioinformatics",
     "year":2015,
-    "author_names":"Hamid Younesy;Torsten Möller;Matthew C. Lorincz;Mohammad M. Karimi;Steven J.M. Jones",
+    "authors":"Hamid Younesy;Torsten Möller;Matthew C. Lorincz;Mohammad M. Karimi;Steven J.M. Jones",
     "affiliations":"British Columbia Cancer Agency;Universitat Wien;Simon Fraser University;The University of British Columbia",
     "title":"VisRseq: R-based visual framework for analysis of sequencing data",
     "keywords":[
@@ -1066,7 +1066,7 @@
     "key":"Z95993C7",
     "publication_name":"IEEE Symposium on Biological Data Visualization 2012, BioVis 2012 - Proceedings",
     "year":2012,
-    "author_names":"Shinichi Mukosaka;Kanae Teramoto;Hideki Koike",
+    "authors":"Shinichi Mukosaka;Kanae Teramoto;Hideki Koike",
     "affiliations":"The University of Electro-Communications;JEOL Ltd., Japan",
     "title":"mzRepeat: Visual analysis of lipids in mass spectrometry",
     "keywords":[
@@ -1082,7 +1082,7 @@
     "key":"633B3ARY",
     "publication_name":"BioVis 2017 - IEEE Symposium on Biological Data Visualization 2014",
     "year":2017,
-    "author_names":"Unen, Vincent van; Höllt, Thomas; Pezzotti, Nicola; Li, Na; Reinders, Marcel J. T.; Eisemann, Elmar; Koning, Frits; Vilanova, Anna; Lelieveldt, Boudewijn P. F.",
+    "authors":"Unen, Vincent van; Höllt, Thomas; Pezzotti, Nicola; Li, Na; Reinders, Marcel J. T.; Eisemann, Elmar; Koning, Frits; Vilanova, Anna; Lelieveldt, Boudewijn P. F.",
     "affiliations":null,
     "title":"Interactive Visual Analysis of Mass Cytometry Data by Hierarchical Stochastic Neighbor Embedding Reveals Rare Cell Types",
     "keywords":[
@@ -1103,7 +1103,7 @@
     "key":"LE7EX68T",
     "publication_name":"BMC Proceedings",
     "year":2015,
-    "author_names":"Shareef M. Dabdoub;R. Wolfgang Rumpf;Amber D. Shindhelm;William C. Ray",
+    "authors":"Shareef M. Dabdoub;R. Wolfgang Rumpf;Amber D. Shindhelm;William C. Ray",
     "affiliations":"The Ohio State University;Children's Hospital Columbus",
     "title":"MoFlow: Visualizing conformational changes in molecules as molecular flow improves understanding",
     "keywords":[
@@ -1120,7 +1120,7 @@
     "key":"AFZAL4TS",
     "publication_name":"BMC Bioinformatics",
     "year":2017,
-    "author_names":"Lucia Kocincová;Miroslava Jarešová;Jan Byška;Július Parulek;Helwig Hauser;Barbora Kozlíková",
+    "authors":"Lucia Kocincová;Miroslava Jarešová;Jan Byška;Július Parulek;Helwig Hauser;Barbora Kozlíková",
     "affiliations":"Universitetet i Bergen;Masaryk University",
     "title":"Comparative visualization of protein secondary structures",
     "keywords":[
@@ -1136,7 +1136,7 @@
     "key":"O7FGV0NI",
     "publication_name":"BioVis 2014 - IEEE Symposium on Biological Data Visualization 2014",
     "year":2014,
-    "author_names":"Edes, Mine; Özturan, Can; Haliloğlu, Türkan; Luna, Augustin; Nussinov, Ruth",
+    "authors":"Edes, Mine; Özturan, Can; Haliloğlu, Türkan; Luna, Augustin; Nussinov, Ruth",
     "affiliations":null,
     "title":"MIMTool: A Tool for Drawing Molecular Interaction Maps",
     "keywords":[
@@ -1151,7 +1151,7 @@
     "key":"LQEXY6SG",
     "publication_name":"BioVis 2014 - IEEE Symposium on Biological Data Visualization 2014",
     "year":2014,
-    "author_names":"Zeckzer, Dirk;Gerighausen, Daniel;Steiner, Lydia;Prohaska, Sonja J.",
+    "authors":"Zeckzer, Dirk;Gerighausen, Daniel;Steiner, Lydia;Prohaska, Sonja J.",
     "affiliations":null,
     "title":"Analyzing Chromatin Using Tiled Binned Scatterplot Matrices",
     "keywords":[
@@ -1166,7 +1166,7 @@
     "key":"2B2RR3C3",
     "publication_name":"IEEE Symposium on Biological Data Visualization 2011, BioVis 2011 - Proceedings",
     "year":2011,
-    "author_names":"David Mayerich;Chris Bjornsson;Jonothan Taylor;Badrinath Roysam",
+    "authors":"David Mayerich;Chris Bjornsson;Jonothan Taylor;Badrinath Roysam",
     "affiliations":"Rensselaer Polytechnic Institute;University of Houston;University of Illinois at Urbana-Champaign",
     "title":"Metrics for comparing explicit representations of interconnected biological networks",
     "keywords":[
@@ -1183,7 +1183,7 @@
     "key":"1WTNDI1R",
     "publication_name":"BioVis 2014 - IEEE Symposium on Biological Data Visualization 2014",
     "year":2014,
-    "author_names":"Brix, Tobias; Praßni, Jörg-Stefan; Hinrichs, Klaus",
+    "authors":"Brix, Tobias; Praßni, Jörg-Stefan; Hinrichs, Klaus",
     "affiliations":null,
     "title":"Visualization of Large Volumetric Multi-Channel Microscopy Data Streams on Standard PCs",
     "keywords":[
