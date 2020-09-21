@@ -630,7 +630,16 @@
     "affiliations":null,
     "title":"Flud: a hybrid crowd-algorithm approach for visualizing biological networks",
     "keywords":[
-      "crowdsourcing, human computation, graph drawing, computational biology, protein networks, graphs, citizen science, serious games, games with a purpose, optimization"
+      "crowdsourcing",
+      "human computation", 
+      "graph drawing", 
+      "computational biology", 
+      "protein networks", 
+      "graphs", 
+      "citizen science", 
+      "serious games", 
+      "games with a purpose", 
+      "optimization"
     ],
     "abstract":"Modern experiments in many disciplines generate large quantities of network (graph) data. Researchers require aesthetic layouts of these networks that clearly convey the domain knowledge and meaning. However, the problem remains challenging due to multiple conflicting aesthetic criteria and complex domain-specific constraints. In this paper, we present a strategy for generating visualizations that can help network biologists understand the protein interactions that underlie processes that take place in the cell. Specifically, we have developed Flud, an online game with a purpose (GWAP) that allows humans with no expertise to design biologically meaningful graph layouts with the help of algorithmically generated suggestions. Further, we propose a novel hybrid approach for graph layout wherein crowdworkers and a simulated annealing algorithm build on each other's progress. To showcase the effectiveness of Flud, we recruited crowd workers on Amazon Mechanical Turk to lay out complex networks that represent signaling pathways. Our results show that the proposed hybrid approach outperforms state-of-the-art techniques for graphs with a large number of feedback loops. We also found that the algorithmically generated suggestions guided the players when they are stuck and helped them improve their score. Finally, we discuss broader implications for mixed-initiative interactions in human computation games.",
     "doi":null,
