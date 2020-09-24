@@ -1667,7 +1667,7 @@
     "keywords":[
       "authenticated key agreement",
       "human-assisted authentication",
-      "side channel authentication",
+      "side-channel authentication",
       "visual authentication"
     ],
     "abstract":"We present a method to visualize and authenticate a cryptographically negotiated key for a secure phone call. That is, each caller is presented with a graphical representation of the key and through verbal interaction (i.e., side-channel authentication) they describe what they see. If they agree, the key is authenticated and the secure media session continues. The strength of the approach lies in the vocal recognition of the callers, and their ability to confirm the image displayed by their system. The necessary degree of visual recognition is achieved by using basic shapes, color and count. People, regardless of language or age, can easily identifying these images. Our experience shows that they can communicate what they see with little effort and terminate the call when they differ. We believe that this approach reverses the current trend in security to divest users from the underlying cryptographic principles supporting secure systems by abstracting these principles to a comprehensible and visual form. This paper demonstrates that visualization and the human factor can play a pivotal role in establishing a secure communication channel. This short paper discusses how a key is visualized and provides some initial user feedback. We have named this approach the Short Authentication SymbolS VisuallY (SASSY.) © 2010 ACM.",
